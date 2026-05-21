@@ -33,4 +33,52 @@
 **Relevance:** A mere administrative entry (like a Volume register note without a clear judicial order) or an unproven 'Pattan' cannot rebut the statutory presumption of an SA Khatian. The burden of proof strictly shifts to the party challenging the published SA Khatian.
 
 ---
+
+## 4. CS Khas, Pattan (পাট্টা) & Tenancy Reversal Strategy
+
+### *Harun-al-Rashid Mollah vs. Bangladesh, 12 BLC (AD) 2007, 79*
+**Core Principle:** Any settlement (Pattan/বন্দোবস্ত) from the Dhaka Nawab Court of Wards Estate required strict, explicit authorization and approval from the Chief Manager. 
+**Relevance:** An unverified, oral, or unregistered claim of a historical Pattan from the Nawab Estate is void ab initio without the Chief Manager's documented approval. 
+
+### *Section 107 of the Transfer of Property (T.P.) Act, 1882*
+**Core Principle:** A lease of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent, can be made only by a registered instrument.
+**Relevance:** Combined with *12 BLC (AD) 79*, any permanent agricultural Pattan is legally ineffective without a registered deed. Therefore, claims of pre-SA ancestral inheritance based on a fake Pattan are legally invalid against a final SA Khatian. The chain of inheritance must legally commence from Abdul Ali.
+
+### *Section 3 of the State Acquisition and Tenancy (SAT) Act, 1950*
+**Core Principle:** All rent-receiving interests vested in the Government. Land with buildings let out otherwise than in perpetuity is retainable as khas land. Any previous Pattan granted by a Zamindar is automatically extinguished unless explicitly recognized or renewed by the Government post-1950.
+**Relevance:** Even if a 1934 Pattan existed, it died in 1950 if the Government did not issue a new settlement, DCR, or record it in the SA/RS survey. A later volume entry cannot magically resurrect an extinguished title.
+
+---
+
+## 5. Munsif Court Jurisdiction (Pakistan Era) & SA Record Correction
+
+### *SAT Act 1950 (Sections 143, 144) & Historical Jurisprudence*
+**Core Principle:** During the Pakistan era, a Civil Court (Munsif Court) had the jurisdiction to declare *Title* (Title Suit/স্বত্ব ঘোষণার মামলা) but did **not** possess administrative jurisdiction to directly alter or correct a finalized statutory Record of Rights (SA Khatian) via a mere procedural "Misc Case" (মিসকেস).
+**Relevance:** Even if a Munsif Court declared title, the actual physical correction of the SA Record required the Revenue Officer (under the SAT Act) to make an entry in the **Register of Alterations (Koronlik/সংশোধনী ভলিউম)**, followed by a formal **Gazette Notification**. A claim of record correction based solely on an unseen 1969 "Misc Case", without a formal decree, Koronlik entry, and Gazette publication, is a legal nullity and cannot displace the statutory presumption of the original SA Khatian.
+
+### *Established Principle on AC Land Volumes & Mutation*
+**Core Principle:** Mutation entries or volume registrations at the Assistant Commissioner (Land) office do not confer title or ownership (নামজারী বা ভলিউম এন্ট্রি স্বত্ব তৈরি করে না). They are strictly for the purpose of collecting land revenue.
+**Relevance:** If the root title (the alleged 1934 Pattan) is void under *12 BLC (AD) 79*, any subsequent volume adjustments or entries at the AC Land office cannot magically cure the void title and are legally meaningless.
+
+---
+
+## 6. Evidence Act: Burden of Proof & Adverse Inference
+
+### *Gopal Krishnaji Ketkar vs. Mahomed Haji Latif, AIR 1968 SC 1413*
+**Core Principle:** Under Evidence Act Section 114(g), even if the burden of proof does not lie on a party, the court may draw an adverse inference if that party withholds important documents in their possession which can throw light on the facts at issue.
+**Relevance:** The defendant claims the SA Record was amended by a Misc Case decree but failed to produce a certified copy of the amended Khatian from the record room. An adverse inference must be drawn that producing it would reveal no such amendment exists.
+
+### *Md. Azizul Hoque vs. Md. Akbar Ali, 10 BLT (AD) 105*
+**Core Principle:** When a party asserts a fact relying on a public document or registered deed, and the opposite party challenges it, the burden of proving the error lies on the challenging party.
+**Relevance:** The plaintiffs produced the finally published SA Khatian (Exh-3). The burden is entirely on the defendants to prove it is legally flawed.
+
+### *Hayetullah vs. Abdul Khaleque, 10 SCOB (HCD) 309, para 22*
+**Core Principle:** In civil proceedings, both parties have a responsibility to prove their respective cases. If the plaintiff's case is supported by records like the SA Khatian, and the defendant fails to prove their alternative claim with reliable evidence, judgment goes in favor of the plaintiff.
+**Relevance:** The defendants have failed to discharge their burden of proof by not producing a corrected certified khatian or a registered Pattan.
+
+### *Azhar Bepari vs. Abdul Aziz Gazi, 22 DLR 36*
+**Core Principle:** The party that claims a Khatian was incorrectly recorded bears the burden of proof.
+**Relevance:** Reaffirms that the defendants cannot simply rely on attacking the plaintiff's title; they must prove the SA Khatian was factually and legally incorrect.
+
+---
 *Note: These principles are directly applicable to defeat the Trial Court's judgment in Partition Suit No. 66/2016.*
