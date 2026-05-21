@@ -1,0 +1,435 @@
+
+<style>
+.sg{background:#E1F5EE;color:#085041;border-color:#5DCAA5}
+.sr{background:#FCEBEB;color:#791F1F;border-color:#F09595}
+.sa{background:#FAEEDA;color:#633806;border-color:#FAC775}
+.sb{background:#E6F1FB;color:#042C53;border-color:#85B7EB}
+.sn{background:var(--color-background-secondary);color:var(--color-text-primary);border-color:var(--color-border-secondary)}
+@media(prefers-color-scheme:dark){
+  .sg{background:#04342C;color:#9FE1CB;border-color:#0F6E56}
+  .sr{background:#501313;color:#F7C1C1;border-color:#A32D2D}
+  .sa{background:#412402;color:#FAC775;border-color:#854F0B}
+  .sb{background:#042C53;color:#B5D4F4;border-color:#185FA5}
+}
+.tnav{display:flex;gap:3px;border-bottom:0.5px solid var(--color-border-tertiary);margin-bottom:14px;flex-wrap:wrap}
+.tbtn{padding:6px 11px;font-size:12px;background:transparent;border:0.5px solid var(--color-border-tertiary);border-bottom:none;cursor:pointer;color:var(--color-text-secondary);border-radius:5px 5px 0 0;font-family:var(--font-sans)}
+.tbtn.on{background:var(--color-background-primary);color:var(--color-text-primary);font-weight:500;border-color:var(--color-border-secondary)}
+.tpane.off{display:none}
+.cn{border-radius:8px;padding:8px 12px;font-size:12px;border:0.5px solid;text-align:center;width:100%;box-sizing:border-box;line-height:1.5}
+.cntitle{font-size:11px;font-weight:500;margin-bottom:3px}
+.badge{display:inline-block;padding:1px 7px;border-radius:10px;font-size:10px;font-weight:500;margin:1px}
+.bgr{background:#FCEBEB;color:#A32D2D} .bgg{background:#E1F5EE;color:#0F6E56} .bga{background:#FAEEDA;color:#854F0B} .bgb{background:#E6F1FB;color:#185FA5}
+@media(prefers-color-scheme:dark){
+  .bgr{background:#501313;color:#F7C1C1} .bgg{background:#04342C;color:#9FE1CB} .bga{background:#412402;color:#FAC775} .bgb{background:#042C53;color:#B5D4F4}
+}
+.bar{height:5px;border-radius:3px;margin-top:6px}
+.acard{border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:11px 14px;margin-bottom:9px;background:var(--color-background-primary)}
+.vwrong{border-left:3px solid #E24B4A;padding:10px 14px;border-radius:0 8px 8px 0;margin-bottom:4px;background:var(--color-background-secondary)}
+.vright{border-left:3px solid #1D9E75;padding:10px 14px;border-radius:0 8px 8px 0;margin-bottom:12px;background:var(--color-background-secondary)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media(max-width:480px){.two{grid-template-columns:1fr}}
+.stitle{font-size:10px;font-weight:500;color:var(--color-text-secondary);letter-spacing:.05em;text-transform:uppercase;margin:14px 0 9px}
+.arrow{text-align:center;font-size:14px;color:var(--color-text-tertiary);line-height:1.2;margin:1px 0}
+</style>
+
+<h2 class="sr-only">বাটোয়ারা মামলা নং ৬৬/২০১৬ — ভিজুয়াল আইনি বিশ্লেষণ ও আপিলের ভিত্তি, সিভিল জজ আদালত সখিপুর টাঙ্গাইল</h2>
+
+<div style="padding:0 0 10px">
+  <div style="font-size:13px;font-weight:500;color:var(--color-text-primary)">বাটোয়ারা মামলা নং ৬৬/২০১৬</div>
+  <div style="font-size:11px;color:var(--color-text-secondary);margin-top:2px">সিভিল জজ আদালত, সখিপুর, টাঙ্গাইল · রায়: ০৫/০৪/২০২৬ (খারিজ বনাম প্রতিদ্বন্দ্বী বিবাদী)</div>
+</div>
+
+<div class="tnav">
+  <button class="tbtn on" onclick="showT('chain',this)">স্বত্বের শিকল</button>
+  <button class="tbtn" onclick="showT('legal',this)">আইনি বিশ্লেষণ</button>
+  <button class="tbtn" onclick="showT('errors',this)">রায়ের ভুল</button>
+  <button class="tbtn" onclick="showT('grounds',this)">আপিলের ভিত্তি</button>
+</div>
+
+<!-- ══════════ TAB 1: Chain of Title ══════════ -->
+<div class="tpane" id="tc-chain">
+
+  <div style="display:flex;justify-content:center;margin-bottom:4px">
+    <div class="cn sn" style="max-width:280px">
+      <div class="cntitle">মূল উৎস — উভয়পক্ষ স্বীকৃত</div>
+      ঢাকা নবাব স্টেট · সি.এস. খতিয়ান ২নং
+    </div>
+  </div>
+  <div class="arrow">↓</div>
+
+  <div class="two" style="gap:12px;align-items:flex-start">
+
+    <!-- LEFT — Plaintiff -->
+    <div style="display:flex;flex-direction:column;align-items:center;gap:3px">
+      <span class="badge bgg" style="margin-bottom:4px">বাদীপক্ষ ✓</span>
+
+      <div class="cn sg">
+        <div class="cntitle">আব্দুল আলী সেক — পত্তন</div>
+        ১৩৫৭ বসন্ত<br>
+        ১২৫৯ দাগ: ৩৪০ শতাংশ<br>
+        বাকি ৫ দাগ: ৪৩০ শতাংশ
+        <div class="bar" style="background:#1D9E75;width:100%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sb">
+        <div class="cntitle">রেজিস্ট্রি দলিল ২৩৯৮/১৯৫৭</div>
+        রহিম উদ্দিন চৌধুরী থেকে<br>
+        ৩নং দাগ ক্রয়: ১১২ শতাংশ<br>
+        <span class="badge bgb">সর্বোচ্চ প্রমাণ</span>
+        <div class="bar" style="background:#185FA5;width:100%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sg" style="border-width:1.5px">
+        <div class="cntitle">এস.এ. খতিয়ান ২৩৮ — রেকর্ড রুম</div>
+        <strong>একক মালিক: আব্দুল আলী সেক</strong><br>
+        ৬টি দাগ সম্পূর্ণ অন্তর্ভুক্ত<br>
+        <span class="badge bgg">s.144A অনুমান ✓</span>
+        <div class="bar" style="background:#1D9E75;width:100%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sg">
+        <div class="cntitle">বর্তমান বাদী</div>
+        হাতেম আলী সহ আব্দুল আলীর<br>
+        সন্তান ও উত্তরসূরিগণ
+      </div>
+    </div>
+
+    <!-- RIGHT — Defendant -->
+    <div style="display:flex;flex-direction:column;align-items:center;gap:3px">
+      <span class="badge bgr" style="margin-bottom:4px">বিবাদীপক্ষ ✗</span>
+
+      <div class="cn sa">
+        <div class="cntitle">আব্দুল করিম — পত্তন ১৩৩৪</div>
+        শুধু ১২৫৯ দাগে<br>
+        <span style="font-size:10px;color:var(--color-text-secondary)">আব্দুল আলীর পত্তন ১৩৫৭ সনের — পরে</span>
+        <div class="bar" style="background:#EF9F27;width:60%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sa">
+        <div class="cntitle">কথিত ওয়ারিশ</div>
+        আব্দুল আলী (পুত্র), <strong>সোনাবানু (কন্যা)</strong>,<br>
+        আব্দুল কদ্দুস, আব্দুল হামিদ<br>
+        <span style="font-size:10px;color:var(--color-text-secondary)">⚠ বাদী শুধু আলী ও সোনাবানু মানেন</span>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sr">
+        <div class="cntitle">দাবি: ১৯৬৯ মিস কেস ১১৮০/১১৮১</div>
+        খতিয়ান সংশোধনের দাবি<br>
+        <span class="badge bgr">ডিক্রি নেই ✗</span>
+        <span class="badge bgr">অর্ডার নেই ✗</span><br>
+        <span class="badge bgr">মহাফেজখানায় নেই ✗</span><br>
+        <span class="badge bgr">নম্বর অসঙ্গতি ✗</span>
+        <div class="bar" style="background:#E24B4A;width:10%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sr">
+        <div class="cntitle">এসি ল্যান্ড ভলিউম নোট মাত্র</div>
+        ভিন্ন কালিতে সোনাবানু সংযোজন<br>
+        ১ দাগ · পরিমাণ ৯ শতাংশ বেশি<br>
+        <span class="badge bgr">ROR নয় — Mutation মাত্র</span>
+        <div class="bar" style="background:#E24B4A;width:10%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sr">
+        <div class="cntitle">১৯৭৫ দলিল — নিজেদেরই</div>
+        বেলুয়া খাতুন হতে<br>
+        <strong>আবার ৬ দাগের উল্লেখ!</strong><br>
+        স্বামীর নাম ভিন্ন · রেকর্ডে নেই<br>
+        <span style="font-size:10px">✗ ১৯৬৯ narrative সম্পূর্ণ ভেঙে পড়ে</span>
+        <div class="bar" style="background:#E24B4A;width:15%"></div>
+      </div>
+      <div class="arrow">↓</div>
+      <div class="cn sr">
+        <div class="cntitle">বর্তমান বিবাদী ২-৮, ১৯-২২</div>
+        সোনাবানুর কথিত উত্তরসূরি<br>
+        <span class="badge bgr">TPA s.53B — হস্তান্তর void ✗</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Math impossibility -->
+  <div style="margin-top:12px;padding:10px 14px;border-left:3px solid #E24B4A;background:var(--color-background-secondary);border-radius:0 8px 8px 0">
+    <div style="font-size:11px;font-weight:500;margin-bottom:5px">গাণিতিক অসম্ভবতা — দাগ ১২৫৯</div>
+    <div class="two" style="font-size:12px">
+      <div>বিবাদীর দাবি: <strong>৩.৪৯</strong> + সরকারি খাস: <strong>১.৩৭</strong> = <strong style="color:#A32D2D">৪.৮৬ একর</strong><br>
+      মোট দাগের আয়তন: <strong>৪.৭৭ একর</strong> — অসম্ভব!</div>
+      <div>বাদীর সঠিক: <strong>৩.৪০</strong> + <strong>১.৩৭</strong> = <strong style="color:#0F6E56">৪.৭৭ একর ✓</strong><br>
+      <span style="font-size:10px;color:var(--color-text-secondary)">AC Land entry-তে ০.০৯ একর বেশি — জালিয়াতির ইঙ্গিত</span></div>
+    </div>
+  </div>
+
+  <!-- Strength summary -->
+  <div style="margin-top:10px;padding:12px;background:var(--color-background-secondary);border-radius:8px;border:0.5px solid var(--color-border-tertiary)">
+    <div style="font-size:11px;font-weight:500;margin-bottom:8px;color:var(--color-text-secondary)">প্রমাণ শক্তি তুলনা</div>
+    <div class="two">
+      <div>
+        <div style="font-size:11px;color:var(--color-text-secondary);margin-bottom:3px">বাদীপক্ষ</div>
+        <div style="height:8px;background:#1D9E75;border-radius:4px;width:92%"></div>
+        <div style="font-size:10px;color:var(--color-text-tertiary);margin-top:2px">Certified khatian + Registered deed + দখল</div>
+      </div>
+      <div>
+        <div style="font-size:11px;color:var(--color-text-secondary);margin-bottom:3px">বিবাদীপক্ষ</div>
+        <div style="height:8px;background:#E24B4A;border-radius:4px;width:18%"></div>
+        <div style="font-size:10px;color:var(--color-text-tertiary);margin-top:2px">শুধু ভলিউম মার্জিন নোট — কোনো ডিক্রি নেই</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════ TAB 2: Legal Analysis ══════════ -->
+<div class="tpane" id="tc-legal">
+  <div class="stitle">প্রতিটি বিতর্কিত বিষয়ে আইনি শক্তি বিশ্লেষণ</div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">এস.এ. খতিয়ান ২৩৮ — রেকর্ড রুম কপি</div>
+      <span class="badge bgg">অত্যন্ত শক্তিশালী</span>
+    </div>
+    <div class="two" style="font-size:12px">
+      <div><span style="color:var(--color-text-secondary)">আইনি ভিত্তি:</span> SAT Act s.144A: চূড়ান্ত প্রকাশিত খতিয়ান সঠিক বলে অনুমান। বিবাদীকে খণ্ডন করতে হবে — বাদীকে নয়।</div>
+      <div><span style="color:var(--color-text-secondary)">নজির:</span> Dayal Chandra Mondal (50 DLR 186); Shahera Khatun (53 DLR 19): "mutation order has no such presumptive value"</div>
+    </div>
+    <div class="bar" style="background:#1D9E75;width:95%"></div>
+  </div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">১৯৬৯ মিস কেস — প্রমাণের সম্পূর্ণ অনুপস্থিতি</div>
+      <span class="badge bgr">বিবাদীপক্ষের বিরুদ্ধে</span>
+    </div>
+    <div class="two" style="font-size:12px">
+      <div><span style="color:var(--color-text-secondary)">আইনি ভিত্তি:</span> s.114(g) Evidence Act: বিরূপ অনুমান। s.64-65: পাবলিক ডকুমেন্ট শুধু certified copy দিয়ে প্রমাণযোগ্য। AC Land volume তার বিকল্প নয়।</div>
+      <div><span style="color:var(--color-text-secondary)">নজির:</span> Abdur Rahim v. Arfin Rahman (6 BLT HCD 51); Bangladesh v. Abdul Latif Khan (7 BLT AD 208); Gopal Ketkar (AIR 1968 SC 1413)</div>
+    </div>
+    <div class="bar" style="background:#E24B4A;width:12%"></div>
+    <div style="font-size:10px;color:var(--color-text-secondary);margin-top:3px">বিবাদীর প্রমাণ শক্তি: অত্যন্ত দুর্বল</div>
+  </div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">১৯৭৫ দলিল — বিবাদীর নিজের আত্মবিরোধ</div>
+      <span class="badge bgg">বাদীপক্ষে শক্তিশালী</span>
+    </div>
+    <div style="font-size:12px">
+      যদি ১৯৬৯-এ ৫ দাগ চলে যেত, ১৯৭৫-এ বিবাদীদের নিজেদের দলিলে আবার ৬ দাগ এলো কোথা থেকে? এটি তাদেরই প্রদর্শনী — পুরো ১৯৬৯ narrative ধ্বংস হয়ে যায়।<br>
+      <span style="color:var(--color-text-secondary)">নজির: Chengalvaraya Naidu (AIR 1994 SC 853); Govt. v. Sadeque Ahmed Nipu (CA 190/2011 AD)</span>
+    </div>
+    <div class="bar" style="background:#1D9E75;width:90%"></div>
+  </div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">DW-4 সাক্ষ্য — বিবাদীর নিজের সাক্ষীর স্বীকারোক্তি</div>
+      <span class="badge bgg">বাদীপক্ষে</span>
+    </div>
+    <div style="font-size:12px">
+      আজম খান (DW-4) স্বীকার করেছেন: মিস কেস নম্বর কে লিখেছে, কবে লিখেছে, তা নিশ্চিত করতে পারছেন না। <span style="color:var(--color-text-secondary)">→ বিবাদীর একমাত্র documentary witness তাদের দাবিকেই দুর্বল করেছেন।</span>
+    </div>
+    <div class="bar" style="background:#1D9E75;width:82%"></div>
+  </div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">Burden of Proof — Section 103 (ট্রায়াল কোর্টের মূল ভুল)</div>
+      <span class="badge bgg">অত্যন্ত শক্তিশালী</span>
+    </div>
+    <div style="font-size:12px">
+      বাদী certified khatian + registered deed দাখিল করেছেন → primary burden পূরণ। বিবাদী "সংশোধন হয়েছে" দাবি করলে s.103 অনুযায়ী সেই সংশোধন প্রমাণ করা বিবাদীর দায়। তারা পারেননি — তাই বাদীর মামলাই শ্রেষ্ঠ।<br>
+      <span style="color:var(--color-text-secondary)">নজির: Govt. v. AKM Abdul Hye (56 DLR AD 53); Nuruddin Ahmed v. Jaman (45 DLR AD 124)</span>
+    </div>
+    <div class="bar" style="background:#1D9E75;width:97%"></div>
+  </div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">Section 53B TPA + Nemo Dat — স্বত্বহীন হস্তান্তর</div>
+      <span class="badge bgg">বাদীপক্ষে</span>
+    </div>
+    <div style="font-size:12px">
+      বেলুয়া খাতুন ও কমলা কোনো রেকর্ডে নেই। s.53B (বাংলাদেশ ২০০৪): খতিয়ানে নাম না থাকলে বিক্রয় void। "Nemo dat quod non habet" — যার নেই, সে দিতে পারে না।<br>
+      <span style="color:var(--color-text-secondary)">নজির: Umadevi Nambiar (2022) 7 SCC 90; Dudu Mia v. Ekram (54 DLR AD 7)</span>
+    </div>
+    <div class="bar" style="background:#1D9E75;width:88%"></div>
+  </div>
+
+  <div class="acard">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:7px">
+      <div style="font-size:13px;font-weight:500">হচপট / আংশিক বাটোয়ারা — curable, fatal নয়</div>
+      <span class="badge bga">সংশোধনযোগ্য</span>
+    </div>
+    <div class="two" style="font-size:12px">
+      <div>২৭ BLD ২২৯: আলাদা খতিয়ান মানে জমা ভাগ → অন্য খতিয়ানের মালিক আনা বাধ্যতামূলক নয়। হচপট নীতি equity-র নিয়ম, jurisdiction-এর নয়।</div>
+      <div>খাস অংশ = "stranger interest" → ব্যতিক্রম প্রযোজ্য। মুসলিম আইনে উত্তরাধিকারীরা নির্দিষ্ট অংশের স্বাধীন মালিক — অখণ্ড যৌথ পরিবার ধারণা নেই।</div>
+    </div>
+    <div class="bar" style="background:#EF9F27;width:72%"></div>
+  </div>
+</div>
+
+<!-- ══════════ TAB 3: Judgment Errors ══════════ -->
+<div class="tpane" id="tc-errors">
+  <div class="stitle">বিচারকের রায়ে ৬টি মৌলিক আইনি ভুল</div>
+
+  <div class="vwrong">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">ভুল ১: Bilquis Jahan নীতির ভুল প্রয়োগ</div>
+    <div style="font-size:12px">কোর্ট বলেছেন: বাদীকে তার মামলা বিবাদীর দুর্বলতার উর্ধ্বে প্রমাণ করতে হবে (75 DLR 383) — certified khatian দাখিলেও insufficient বলা হয়েছে।</div>
+  </div>
+  <div class="vright">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">✓ সঠিক আইন: Section 103 Evidence Act + Burden Shift</div>
+    <div style="font-size:12px">Bilquis Jahan প্রযোজ্য যেখানে বাদীর কোনো government record নেই। এখানে বাদী certified khatian + registered deed দাখিল করেছেন → primary burden পূরণ। বিবাদীর "সংশোধন" claim-এর প্রমাণ তাদের নিজেদের দায় (s.103)। তারা ব্যর্থ হয়েছেন।</div>
+  </div>
+
+  <div class="vwrong">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">ভুল ২: AC Land ভলিউমকে Record Room-এর সমতুল্য ধরা</div>
+    <div style="font-size:12px">কোর্ট AC Land ভলিউমের marginal note-কে valid correction evidence হিসাবে গ্রহণ করেছেন এবং তার উপর ভিত্তি করে সিদ্ধান্ত নিয়েছেন।</div>
+  </div>
+  <div class="vright">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">✓ সঠিক আইন: SAT Act ss.143, 144A — Custodian পার্থক্য</div>
+    <div style="font-size:12px">s.144A অনুমান শুধু Record Room-এর finally-published khatian-এ যুক্ত। Shahera Khatun (53 DLR 19): "mutation order has no such presumptive value." Revenue Officer কোনো আদালত নন — স্বত্ব নির্ধারণের ক্ষমতা তার নেই।</div>
+  </div>
+
+  <div class="vwrong">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">ভুল ৩: ১৯৭৫ দলিলের material contradiction বিশ্লেষণ না করা</div>
+    <div style="font-size:12px">বিবাদীদের নিজস্ব ১৯৭৫ দলিলে পুনরায় ৬ দাগের উল্লেখ — যা তাদের ১৯৬৯ narrative-এর সরাসরি বিরোধী। কোর্ট এটি address করেননি।</div>
+  </div>
+  <div class="vright">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">✓ সঠিক আইন: Fraud on Court + Falsus in uno</div>
+    <div style="font-size:12px">Chengalvaraya Naidu: গুরুত্বপূর্ণ দলিল reconcile না করা = fraud on court। Govt. v. Sadeque Ahmed Nipu (CA 190/2011): রেকর্ড রুমে ডিক্রি না পেলে alleged correction বাতিল। Abdul Jalil (64 DLR AD 107): "fraud vitiates everything."</div>
+  </div>
+
+  <div class="vwrong">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">ভুল ৪: Non-joinder of DC → মামলা খারিজ</div>
+    <div style="font-size:12px">সরকার (ডিসি) কে পক্ষ না করায় মামলাকে defective বলে খারিজ — অথচ এটি curable defect।</div>
+  </div>
+  <div class="vright">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">✓ সঠিক আইন: Order I Rule 9 CPC + Amendment</div>
+    <div style="font-size:12px">"No suit shall be defeated by reason of… non-joinder of parties." Abdul Quayuam Khan (51 DLR 386): "by mere non-joinder of the Government the suit cannot be defeated." প্রতিকার = Order 6 Rule 17 সংশোধন — খারিজ নয়। Order 41 Rule 23/23A-তে remand with liberty to amend।</div>
+  </div>
+
+  <div class="vwrong">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">ভুল ৫: Hotchpot → মামলা খারিজ</div>
+    <div style="font-size:12px">বাদী সম্পূর্ণ যৌথ সম্পত্তি অন্তর্ভুক্ত করেননি — এই কারণে খারিজ।</div>
+  </div>
+  <div class="vright">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">✓ সঠিক আইন: Hotchpot-এর ব্যতিক্রম + Muslim Law</div>
+    <div style="font-size:12px">Md. Shahidul Alam Khan (36 DLR 290): "rule of equity, can be relaxed." খাস অংশ stranger interest — ব্যতিক্রম প্রযোজ্য। ২৭ BLD ২২৯: আলাদা খতিয়ান = জমা ভাগ। মুসলিম আইনে অখণ্ড joint family নেই।</div>
+  </div>
+
+  <div class="vwrong">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">ভুল ৬: Title dispute → Partition suit খারিজ</div>
+    <div style="font-size:12px">স্বত্ব বিরোধকে maintainability-এর বাধা হিসাবে দেখা হয়েছে।</div>
+  </div>
+  <div class="vright">
+    <div style="font-size:12px;font-weight:500;margin-bottom:4px">✓ সঠিক আইন: Partition suit = সব প্রশ্নের আধার</div>
+    <div style="font-size:12px">Chinmoy Chowdhury (23 BLD AD 83): "all incidental questions of title, however complicated, can be decided… parties should not be thrown away on the ground of maintainability." Sanjib Kumar Bose (33 DLR AD 347): পৃথক declaration ছাড়াই মামলা চলে।</div>
+  </div>
+</div>
+
+<!-- ══════════ TAB 4: Grounds of Appeal ══════════ -->
+<div class="tpane" id="tc-grounds">
+  <div class="stitle">আপিলের ১১টি ভিত্তি</div>
+
+  <div style="display:grid;gap:7px">
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">I — Record Room বনাম AC Land কাস্টডিয়ান ত্রুটি</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">SAT Act s.144A অনুমান শুধু ROR-এ, mutation volume-এ নয়। Shahera Khatun (53 DLR 19) · Dayal Chandra Mondal (50 DLR 186)</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">II — Best Evidence Rule / Section 114(g)</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">১৯৬৯ কেসের ডিক্রি না দিলে বিরূপ অনুমান। Abdur Rahim (6 BLT HCD 51) · Gopal Ketkar (AIR 1968 SC 1413)</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">III — Material Evidence উপেক্ষা</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">১৯৫৭ রেজিস্ট্রি দলিল ও পত্তনামা বিবেচনা না করা। শুধু "কালির রং" দিয়ে সিদ্ধান্ত ভুল।</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">IV — গাণিতিক অসম্ভবতা (৩.৪৯+১.৩৭=৪.৮৬ > ৪.৭৭)</span>
+        <span class="badge bga">পরিপূরক</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">Vishwa Vijai Bharti (1976 3 SCC 642): fraudulent entry-তে কোনো presumption নেই। Partap Singh (2020 11 SCC 242)</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">V — ১৯৭৫ দলিল: বিবাদীর আত্মবিরোধ</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">বিবাদীর নিজস্ব দলিলে ৬ দাগ → ১৯৬৯ narrative ভেঙে পড়ে। Govt. v. Sadeque (CA 190/2011 AD)</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">VI — স্বত্বহীন হস্তান্তর (Section 53B TPA)</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">বেলুয়া, কমলা — রেকর্ডে অনুপস্থিত। TPA s.53B: void। Umadevi Nambiar (2022 7 SCC 90)</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">VII — বংশ পরম্পরায় বিকৃতি</span>
+        <span class="badge bga">পরিপূরক</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">আব্দুল করিমের কাল্পনিক ওয়ারিশ — কোনো faraiz/genealogy document নেই।</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">VIII — Khatian 91: Missing Pages + Forensic</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">Record Room পৃষ্ঠা ৮৪-১০২ অনুপস্থিত। ১২৫২ দাগ দুবার ভিন্ন পরিমাণে। Section 45 Expert প্রয়োজন। Nitai Chand Shah (1 BLT AD 46)</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">IX — Non-joinder of DC: Curable Defect</span>
+        <span class="badge bga">সংশোধনযোগ্য</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">Order I Rule 9 CPC: suit defeated হয় না। Abdul Quayuam Khan (51 DLR 386). Order 41 Rule 23/23A — remand with amendment liberty.</div>
+    </div>
+    <div class="acard" style="padding:9px 13px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">X — Partition Suit = Title সিদ্ধান্তের আধার</span>
+        <span class="badge bgg">শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">Chinmoy Chowdhury (23 BLD AD 83) · Sanjib Kumar Bose (33 DLR AD 347): maintainability ভিত্তিতে খারিজ সম্পূর্ণ ভুল।</div>
+    </div>
+    <div class="acard" style="padding:9px 13px;border-color:var(--color-border-info)">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:3px">
+        <span style="font-size:12px;font-weight:500">XI (নতুন) — Burden of Proof Reversal / Section 103</span>
+        <span class="badge bgg">অত্যন্ত শক্তিশালী</span>
+      </div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">বাদী certified khatian + deed দাখিল করেছেন → primary burden পূরণ। বিবাদীর "সংশোধন" দাবির প্রমাণ তাদের দায়। তারা পারেননি। Govt. v. AKM Abdul Hye (56 DLR AD 53)</div>
+    </div>
+  </div>
+
+  <div style="margin-top:14px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px">
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px;text-align:center">
+      <div style="font-size:22px;font-weight:500;color:#1D9E75">৭</div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">শক্তিশালী ভিত্তি</div>
+    </div>
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px;text-align:center">
+      <div style="font-size:22px;font-weight:500;color:#EF9F27">৩</div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">পরিপূরক ভিত্তি</div>
+    </div>
+    <div style="background:var(--color-background-secondary);border-radius:8px;padding:10px;text-align:center">
+      <div style="font-size:22px;font-weight:500;color:#E24B4A">৬</div>
+      <div style="font-size:11px;color:var(--color-text-secondary)">রায়ের ভুল</div>
+    </div>
+  </div>
+</div>
+
+<script>
+function showT(id, btn) {
+  document.querySelectorAll('.tpane').forEach(p => p.classList.add('off'));
+  document.querySelectorAll('.tbtn').forEach(b => b.classList.remove('on'));
+  document.getElementById('tc-' + id).classList.remove('off');
+  btn.classList.add('on');
+}
+document.querySelectorAll('.tpane').forEach((p, i) => { if (i > 0) p.classList.add('off'); });
+</script>

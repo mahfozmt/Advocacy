@@ -1,0 +1,15 @@
+*
+!*/
+
+!Resource/
+!Output/
+
+*/*
+!Resource/**
+!Output/**
+
+# Re-ignore node_modules
+Output/node_modules/
+node_modules/
+
+!.gitignore
