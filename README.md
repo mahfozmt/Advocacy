@@ -18,8 +18,8 @@ This repository serves as an automated AI-driven legal research and appellate ar
 │   ├── THE JUDGMENT IN ORIGINAL SUIT_CASE.docx  # Trial court judgment
 │   └── [Various PDFs, DOCX, and MD files regarding case analysis]
 └── Output/                     # Generated assets and finalized artifacts
-    ├── appellate_argument_v29.md          # ✅ CURRENT — Full appellate brief (বিস্তারিত)
-    ├── appellate_argument_v29_Summary.md  # ✅ CURRENT — Concise hearing aid (শুনানি সহায়িকা)
+    ├── appellate_argument_v30.md          # ✅ CURRENT — Full appellate brief (বিস্তারিত)
+    ├── appellate_argument_v30_Summary.md  # ✅ CURRENT — Concise hearing aid (শুনানি সহায়িকা)
     ├── Oral_Argument_Appeal.docx          # Earlier DOCX version (pre-v29)
     ├── create_docx.js          # Node.js script for document conversion
     ├── create_docx.py          # Python script for document conversion
@@ -94,9 +94,9 @@ When operating within this ecosystem, adhere strictly to the following guideline
 - [x] **Initial Argument Drafting:** V1 through V28 generated and refined.
 - [x] **Document Conversion Scripts:** Node.js and Python scripts created for DOCX generation.
 - [x] **Citation Hygiene:** All unverified, Indian, and invalid citations removed.
-- [x] **Dual-File Output Convention:** v29 full brief + v29 Summary both finalized and in sync.
+- [x] **Dual-File Output Convention:** v30 full brief + v30 Summary both finalized and in sync.
 - [x] **New Points Integrated:** Title-affecting correction standard, 1969 correction process, Misc Case "Decree" impossibility, Standard of Scrutiny failure, solenama-blocked partition injustice.
-- [ ] **DOCX Conversion:** Convert v29 + v29_Summary to court-ready DOCX format.
+- [ ] **DOCX Conversion:** Convert v30 + v30_Summary to court-ready DOCX format.
 - [ ] **Final Human Review:** Human-in-the-loop review before court submission.
 
 
