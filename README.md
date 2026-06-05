@@ -15,6 +15,7 @@ This repository serves as an automated AI-driven legal research and appellate ar
 ├── doc_content.txt             # Extracted raw text from trial court judgments
 ├── Resource/                   # Primary knowledge base and raw materials
 │   ├── SCOB/                   # Supreme Court Online Bulletin database (20 PDFs: 1–20 SCOB)
+│   ├── Judgements/             # Structured database of 1000+ Supreme Court cases (JSON files)
 │   ├── THE JUDGMENT IN ORIGINAL SUIT_CASE.docx  # Trial court judgment
 │   └── [Various PDFs, DOCX, and MD files regarding case analysis]
 └── Output/                     # Generated assets and finalized artifacts
@@ -34,8 +35,12 @@ This repository serves as an automated AI-driven legal research and appellate ar
 ### 1. Data Ingestion & Processing
 The workflow begins in the `/Resource` directory. Raw materials, such as the trial court's judgment (`THE JUDGMENT IN ORIGINAL SUIT_CASE.docx`), are ingested. Automated scripts like `extract.ps1` extract textual data into normalized formats (e.g., `doc_content.txt`) for AI agents to read and analyze without parsing overhead.
 
-### 2. Legal Research & Precedent Matching (SCOB Pipeline)
-The agent scans the 20 PDF files located in `/Resource/SCOB`. The research pipeline filters for civil matters and targets specific legal keywords critical to Bangladeshi land law, such as:
+### 2. Legal Research & Precedent Matching (SCOB & Judgements Database Pipelines)
+The research pipeline leverages two primary databases located in the `/Resource` directory:
+1. **SCOB Database (`/Resource/SCOB`):** Includes 20 Supreme Court Online Bulletin PDF files (1–20 SCOB).
+2. **Judgements Database (`/Resource/Judgements`):** A large-scale collection of 1,000+ structured JSON files mapping detailed Supreme Court judgments (HCD and AD) to specific keywords and land law principles.
+
+These pipelines target specific legal keywords and concepts critical to the active case:
 - **SA Act (State Acquisition and Tenancy Act, 1950)**
 - **CS Khas (Cadastral Survey)**
 - **Patta & Rent Roll**
@@ -87,6 +92,36 @@ When operating within this ecosystem, adhere strictly to the following guideline
 | পক্ষদোষ | Government not a necessary party in private partition suit | 49 DLR (AD) 15; 8 SCOB (2016) HCD 1 |
 | Burden of proof | Defendants must prove their correction claim, not plaintiffs | 45 DLR (AD) 124; 10 BLT (AD) 105 |
 | Title-affecting vs. clerical correction | 1969 required full Title Suit; Misc Case order = null and void | SRA ৪২; 23 BLD (AD) 83 |
+
+## The Judgements Database & Newly Identified Precedents
+
+To bolster our arguments, the newly integrated `Resource/Judgements` database (1,000+ structured Supreme Court case files) was researched. The following key precedents and exact legal holdings have been identified to strengthen our positions on the active case's main issues:
+
+### 1. Presumption of ROR Correctness (Section 144A SAT Act)
+- **Dayal Chandra Mondal vs. Assistant Custodian, 50 DLR 186:** Standard authority establishing that a record of rights finally published under the SAT Act has a statutory presumption of correctness which continues until rebutted by reliable evidence.
+- **Abdul Khaleque vs. Shamsuddin, 5 ADC 412:** Confirms that under Section 144A of the SAT Act, entries in the record of rights carry a statutory presumptive value of correctness, explicitly citing *Dayal Chandra Mondal*.
+- **Babu Miah alias A.B.M. Saidur Rahman vs. Md. Wazed Sarder, 25 BLT (HD) 5:** Reaffirms the presumptive value of correctness of RS/SA records under *50 DLR 186*.
+- **Md. Atar Ali vs. Seraj Miah, Civil Revision No. 5851 of 2007:** Reiterates that entries in finally published SA/RS records are presumed correct unless rebutted by reliable evidence, relying on *Dayal Chandra Mondal*.
+
+### 2. Invalidity of Unapproved Court of Wards / Nawab Estate Settlements
+- **Abu Musa vs. People's Republic of Bangladesh, 2 BLC (AD) 56, 17 BLD (AD) 91, 1 MLR (AD) 355:** Holds that a settlement of land under the management of the Dhaka Nawab Estate is invalid and confers no title if it was not approved by the Chief Manager of the Dhaka Nawab Court of Wards Estate.
+- **Noor Mohammad Khan & ors vs. Government of Bangladesh, 42 DLR (HD) 434:** Rules that salami and rent receipts received without the approval of the Chief Manager do not have the effect of settling the land of the Dhaka Nawab Court of Wards Estate.
+- **Harun-al-Rashid Mollah vs. Bangladesh, 12 BLC (AD) 79:** Establishes that without the approval of the Chief Manager of the Dhaka Nawab Court of Wards Estate, no settlement could be granted, and that overwritings on such documents do not inspire confidence.
+
+### 3. Volume Note (Koronlipi) & Handwriting/Ink Manipulations
+- **Fazlur Rahman vs. People's Republic of Bangladesh, 1 BLT (HD) 18:** A landmark ruling where entries in the SA Khatian written in separate ink, showing signs of manipulation/overwriting on the volume using vanishing ink, were declared fraudulent. It affirms that the ADC (Rev) has the power under Rule 23(4) of the Tenancy Rules to excise such fraudulent entries.
+- **Shanti Ranjan Das vs. Khalilur Rahman Bhuiyan, 1 ADC 387:** Holds that subsequent insertions or overwritings in different ink/handwriting without authentication cast great doubt on the genuineness of the document and deny any discretionary relief.
+
+### 4. Impossibility of Title Adjudication / "Decrees" in Miscellaneous Cases
+- **Md. Malay Miah vs. Maharam Ali, 27 BLD (HD) 544:** Illustrates that Miscellaneous Cases (e.g., under CPC Order 9 Rule 9 or SAT Act Section 96) are summary proceedings and cannot adjudicate substantive title, which requires a regular Title Suit under Section 42 of the Specific Relief Act.
+- **Md. Zahangir Alam vs. Ziaul Haque, 20 SCOB [2025] HCD 12:** Establishes that a Miscellaneous Case or summary executive tribunal cannot adjudicate or decide questions of substantive civil title.
+
+### 5. Burden of Proof
+- **Ajufannessa @ Aji Bibi vs. Safar Miah, 30 DLR (AD) 41:** Clarifies that under Section 101 of the Evidence Act, the party asserting a right must prove it, and the initial burden rests on the plaintiff to prove their settlement/record.
+- **Bangladesh vs. Md. Aslam, 44 DLR (HD) 69, 11 BLD (HD) 405:** Reasserts that Section 101 of the Evidence Act requires the person alleging a settlement or right to prove it in a legal manner.
+
+### 6. Separate Tenancies & Hotchpot
+- **Md. Shahjahan Akon vs. Most. Murshida Khanam, 27 BLD (HD) 229:** Confirms that separate khatians denote separate tenancies and a co-sharer in one khatian is not a co-sharer in another.
 
 ## Implementation Checklist / Current Progress Status
 
