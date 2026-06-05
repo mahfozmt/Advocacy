@@ -360,7 +360,15 @@
     "completed": true
   },
   "misc case": {
-    "last_page": 85,
+    "last_page": 178,
+    "completed": true
+  },
+  "record correction": {
+    "last_page": 11,
+    "completed": true
+  },
+  "limitation": {
+    "last_page": 151,
     "completed": false
   }
 }
