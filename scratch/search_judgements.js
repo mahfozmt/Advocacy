@@ -2,23 +2,72 @@ const fs = require('fs');
 const path = require('path');
 
 const judgementsDir = 'f:\\Mahfoz\\Advocacy\\Resource\\Judgements';
-const searchTerms = {
-  presumption_sa: [/50\s*DLR\s*186/i, /presumption/i, /correctness/i, /rebut/i],
-  nawab_court_of_wards: [/nawab/i, /court of wards/i, /chief manager/i, /unregistered pattan/i],
-  misc_case_title: [/\bmisc\b/i, /miscellaneous case/i, /decree/i, /title suit/i, /section 42/i],
-  volume_note: [/volume note/i, /koronlipi/i, /different ink/i, /order sheet/i, /parent file/i],
-  burden_of_proof: [/burden of proof/i, /onus/i, /plaintiff/i, /defendant/i, /section 103/i],
-  non_joinder_govt: [/non-joinder/i, /non joinder/i, /necessary party/i, /government/i],
-  hotchpot: [/hotchpot/i, /partition/i, /separate khatian/i, /separate tenancy/i]
-};
+const outputFilePath = 'f:\\Mahfoz\\Advocacy\\Resource\\Judgements_Search_References.md';
+
+const searchCategories = [
+  {
+    key: 'A_nawab_transition',
+    title: 'A. Core — Nawab Estate to SA Transition',
+    terms: [
+      /dhaka\s+nawab/i, /nawab\s+estate/i, /court\s+of\s+wards/i, /chief\s+manager/i,
+      /approval\s+of\s+chief\s+manager/i, /settlement\s+without\s+approval/i, /khas\s+mahal/i,
+      /government\s+estates\s+manual/i, /ঢাকা\s+নবাব/i, /নবাব\s+এস্টেট/i, /কোর্ট\s+অব\s+ওয়ার্ডস/i,
+      /চিফ\s+ম্যানেজার/i, /খাস\s+মহল/i
+    ]
+  },
+  {
+    key: 'B_sa_presumption',
+    title: 'B. SA Presumption — Statutory Sword',
+    terms: [
+      /section\s+144a/i, /144-a/i, /presumption\s+of\s+correctness/i, /finally\s+published/i,
+      /record\s+of\s+rights/i, /sa\s+khatian/i, /rs\s+khatian/i, /recent\s+record\s+prevails/i,
+      /১৪৪এ/i, /১৪৪ক/i, /চূড়ান্তভাবে\s+প্রকাশিত/i, /রেকর্ড\s+অব\s+রাইটস/i, /এসএ\s+খতিয়ান/i
+    ]
+  },
+  {
+    key: 'C_mutation_volume',
+    title: 'C. Mutation/Volume — Administrative Weakness',
+    terms: [
+      /mutation\s+has\s+no\s+presumptive/i, /volume\s+entry/i, /interpolation/i, /different\s+ink/i,
+      /correction\s+without\s+decree/i, /section\s+143/i, /section\s+144/i, /মিউটেশন/i, /ভলিউম/i,
+      /ভিন্ন\s+কালি/i, /সংশোধন/i, /ডিক্রি\s+ছাড়া/i
+    ]
+  },
+  {
+    key: 'D_partition_tech',
+    title: 'D. Partition Technicalities',
+    terms: [
+      /partial\s+partition/i, /hotchpot/i, /non-joinder/i, /non\s+joinder/i, /order\s+1\s+rule\s+9/i,
+      /cpc\s+order\s+xxiii\s+rule\s+3/i, /solenama/i, /compromise\s+decree/i, /আংশিক\s+বাটোয়ারা/i,
+      /হচপট/i, /পক্ষদোষ/i, /সোলেনামা/i
+    ]
+  },
+  {
+    key: 'E_burden_of_proof',
+    title: 'E. Burden of Proof — Section 103 Evidence Act',
+    terms: [
+      /section\s+103\s+evidence/i, /burden\s+shifts/i, /onus\s+to\s+prove\s+correction/i, /plaintiff\s+prima\s+facie/i,
+      /১০৩\s+ধারা/i, /প্রমাণের\s+দায়িত্ব/i
+    ]
+  },
+  {
+    key: 'F_limitation_jurisdiction',
+    title: 'F. Limitation & Munsif Jurisdiction',
+    terms: [
+      /misc\s+case/i, /miscellaneous\s+case/i, /record\s+correction/i, /limitation/i,
+      /revenue\s+officer\s+not\s+court/i, /মিস\s+কেস/i, /খতিয়ান\s+সংশোধন/i, /তামাদি/i, /রাজস্ব\s+কর্মকর্তা/i
+    ]
+  }
+];
 
 const results = {};
-Object.keys(searchTerms).forEach(cat => {
-  results[cat] = [];
+searchCategories.forEach(cat => {
+  results[cat.key] = [];
 });
 
 try {
   const files = fs.readdirSync(judgementsDir).filter(file => file.endsWith('.json'));
+  console.log(`Scanning ${files.length} judgment files...`);
 
   files.forEach(filename => {
     const filepath = path.join(judgementsDir, filename);
@@ -34,24 +83,40 @@ try {
 
       const contentToSearch = `${bookRef} ${caseno} ${parties} ${fullJud} ${scrapedKw}`;
 
-      Object.entries(searchTerms).forEach(([category, regexes]) => {
-        const matchedPatterns = [];
-        regexes.forEach(regex => {
-          if (regex.test(contentToSearch)) {
-            matchedPatterns.push(regex.toString());
+      searchCategories.forEach(cat => {
+        const matched = [];
+        cat.terms.forEach(term => {
+          if (term.test(contentToSearch)) {
+            matched.push(term.toString());
           }
         });
 
-        if (matchedPatterns.length > 0) {
-          results[category].push({
+        if (matched.length > 0) {
+          // Find context paragraph
+          const paras = fullJud.split('\n');
+          let snippet = '';
+          for (const p of paras) {
+            for (const term of cat.terms) {
+              if (term.test(p)) {
+                snippet = p.trim();
+                break;
+              }
+            }
+            if (snippet) break;
+          }
+          if (!snippet && paras.length > 0) {
+            snippet = paras[0].trim();
+          }
+
+          results[cat.key].push({
             file: filename,
-            book_ref: bookRef,
-            caseno: caseno,
-            parties: parties,
-            scraped_kw: scrapedKw,
-            match_count: matchedPatterns.length,
-            matched_patterns: matchedPatterns,
+            book_ref: bookRef || 'N/A',
+            caseno: caseno || 'N/A',
+            parties: parties || 'N/A',
+            match_count: matched.length,
+            matched_terms: matched,
             full_text_len: fullJud.length,
+            snippet: snippet,
             full_judgment: fullJud
           });
         }
@@ -61,10 +126,16 @@ try {
     }
   });
 
-  let outputStr = '';
-  // Display top matches
-  Object.entries(results).forEach(([category, matches]) => {
-    outputStr += `\n================================ CATEGORY: ${category} ================================\n`;
+  // Compile Markdown report
+  let md = `# Judgements Search & Precedent Reference Library\n\n`;
+  md += `This document contains structured research references generated by scanning the database of 1,000+ judgments under \`Resource/Judgements/\` using the specified Keyword Bank. These references directly support the appeal arguments for **আপীল মামলা নং ৩৮/২০২৬, টাঙ্গাইল**.\n\n`;
+  md += `## Directory Summary\n- **Database Location:** \`Resource/Judgements/\`\n- **Total Scanned Files:** ${files.length}\n- **Date of Search:** ${new Date().toISOString().split('T')[0]}\n\n`;
+
+  searchCategories.forEach(cat => {
+    md += `## ${cat.title}\n\n`;
+    const matches = results[cat.key];
+    
+    // Sort: most unique matches first, then longest judgment (to find deep analyses)
     matches.sort((a, b) => {
       if (b.match_count !== a.match_count) {
         return b.match_count - a.match_count;
@@ -72,29 +143,28 @@ try {
       return b.full_text_len - a.full_text_len;
     });
 
-    matches.slice(0, 5).forEach(m => {
-      outputStr += `File: ${m.file}\n`;
-      outputStr += `Ref: ${m.book_ref} | Case No: ${m.caseno}\n`;
-      outputStr += `Parties: ${m.parties.replace(/\r/g, ' ').replace(/\n/g, ' ')}\n`;
-      outputStr += `Matched Patterns (${m.match_count}): ${m.matched_patterns.join(', ')}\n`;
-      // Find a matching paragraph in full_judgment
-      const paras = m.full_judgment.split('\n');
-      let snippet = '';
-      for (const p of paras) {
-        if (p.toLowerCase().includes('presumption') || p.toLowerCase().includes('court of wards') || p.toLowerCase().includes('misc') || p.toLowerCase().includes('volume') || p.toLowerCase().includes('burden') || p.toLowerCase().includes('non-joinder') || p.toLowerCase().includes('hotchpot')) {
-          snippet = p.trim();
-          break;
-        }
-      }
-      if (!snippet && paras.length > 0) snippet = paras[0].trim();
-      outputStr += `Snippet: ${snippet.substring(0, 400)}...\n`;
-      outputStr += '-'.repeat(40) + '\n';
+    md += `Found **${matches.length}** matches in this category. Showing top verified precedents below:\n\n`;
+
+    matches.slice(0, 12).forEach((m, idx) => {
+      const cleanParties = m.parties.replace(/\r/g, ' ').replace(/\n/g, ' ').trim();
+      const cleanRef = m.book_ref.trim();
+      const cleanCase = m.caseno.trim();
+      const relativePath = `file:///f:/Mahfoz/Advocacy/Resource/Judgements/${m.file}`;
+      
+      md += `### [${idx + 1}] Precedent: ${cleanRef !== 'N/A' ? cleanRef : cleanCase}\n`;
+      md += `- **File:** [${m.file}](${relativePath})\n`;
+      md += `- **Case Info:** ${cleanCase} | **Parties:** *${cleanParties}*\n`;
+      md += `- **Relevance Score:** ${m.match_count} matched terms: \`${m.matched_terms.join(', ')}\`\n`;
+      md += `- **Key Holding / Context:**\n`;
+      md += `  > *"${m.snippet.substring(0, 1000)}${m.snippet.length > 1000 ? '...' : ''}"*\n\n`;
     });
+
+    md += `---\n\n`;
   });
 
-  fs.writeFileSync('f:\\Mahfoz\\Advocacy\\scratch\\search_results.txt', outputStr, 'utf-8');
-  console.log("Results written to scratch/search_results.txt successfully.");
+  fs.writeFileSync(outputFilePath, md, 'utf-8');
+  console.log(`Successfully wrote references library to: ${outputFilePath}`);
 
 } catch (err) {
-  console.error(`Error: ${err.message}`);
+  console.error(`Fatal search error: ${err.message}`);
 }

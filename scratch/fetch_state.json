@@ -304,7 +304,63 @@
     "completed": true
   },
   "Order 1 Rule 9": {
-    "last_page": 172,
+    "last_page": 288,
+    "completed": false
+  },
+  "ভারত সম্রাট": {
+    "last_page": 1,
+    "completed": true
+  },
+  "CPC Order XXIII Rule 3": {
+    "last_page": 1,
+    "completed": true
+  },
+  "solenama": {
+    "last_page": 12,
+    "completed": true
+  },
+  "compromise decree": {
+    "last_page": 16,
+    "completed": true
+  },
+  "আংশিক বাটোয়ারা": {
+    "last_page": 0,
+    "completed": true
+  },
+  "হচপট": {
+    "last_page": 1,
+    "completed": true
+  },
+  "সোলেনামা": {
+    "last_page": 1,
+    "completed": true
+  },
+  "section 103 Evidence Act": {
+    "last_page": 12,
+    "completed": true
+  },
+  "burden shifts": {
+    "last_page": 3,
+    "completed": true
+  },
+  "onus to prove correction": {
+    "last_page": 1,
+    "completed": true
+  },
+  "plaintiff prima facie": {
+    "last_page": 22,
+    "completed": true
+  },
+  "১০৩ ধারা": {
+    "last_page": 1,
+    "completed": true
+  },
+  "প্রমাণের দায়িত্ব": {
+    "last_page": 1,
+    "completed": true
+  },
+  "misc case": {
+    "last_page": 85,
     "completed": false
   }
 }

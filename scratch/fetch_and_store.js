@@ -7,7 +7,7 @@ const keywords = [
     "Dhaka Nawab", "Nawab Estate", "Court of Wards", "Chief Manager", 
     "approval of Chief Manager", "settlement without approval", "khas mahal", 
     "Government Estates Manual", "ঢাকা নবাব", "নবাব এস্টেট", "কোর্ট অব ওয়ার্ডস", 
-    "চিফ ম্যানেজার", "খাস মহল",
+    "চিফ ম্যানেজার", "খাস মহল", "ভারত সম্রাট",
 
     // B. SA presumption — your sword
     "section 144A", "144-A", "presumption of correctness", "finally published", 
@@ -20,7 +20,7 @@ const keywords = [
     "মিউটেশন", "ভলিউম", "ভিন্ন কালি", "সংশোধন", "ডিক্রি ছাড়া",
 
     // D. Partition technicalities
-    "partial partition", "hotchpot", "non-joinder", "Order 1 Rule 9", 
+    "partial partition", "hotchpot", "non-joinder", 
     "CPC Order XXIII Rule 3", "solenama", "compromise decree",
     "আংশিক বাটোয়ারা", "হচপট", "পক্ষদোষ", "সোলেনামা",
 
@@ -33,6 +33,7 @@ const keywords = [
     "মিস কেস", "খতিয়ান সংশোধন", "তামাদি", "রাজস্ব কর্মকর্তা",
     
     // Legacy / Volume keywords (keep at end)
+    "69700", "পত্তন", "খাস খতিয়ান",
     "cs khas", "cadastral survey", "2 no khas katiyan", "kabuliyot", "kabuliyat", "kobuliyat", "koboliat",
     "patta", "pattan", "rent roll", "state acquisition and tenancy act", "sata", "act, 1950", "sa act", "SAT Act", "cs", "SA", "S.A."
 ];
