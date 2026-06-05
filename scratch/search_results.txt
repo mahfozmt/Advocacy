@@ -1,0 +1,228 @@
+
+================================ CATEGORY: presumption_sa ================================
+File: case_174_bengal_government_estate_manual__1932_.json
+Ref: 20 ALR (AD) 36,69 DLR (AD) 440,37 BLD (AD) 21 | Case No: Civil Petition for Leave to Appeal Nos. 821 and 1046 of 2011
+Parties: Chief Engineer, Roads & Highway Directorate, Dhaka ------ Petitioner (in CP No.821 of 2011)  Vs.  Advocate Asaduzzaman Siddique, and others ------ Respondents (in both the petitions)
+Matched Patterns (3): /presumption/i, /correctness/i, /rebut/i
+Snippet: 10. The High Court Division found that, admittedly, the then High Court of East Bengal was established on 17-11-1947 in the Governor House which had been constructed on the Bharat Samrat's land under CS Khatian No.16855 appertaining to the above mentioned CS Plots-measuring an area of 55.05 acres. Since 1947, the then High Court of East Bengal renamed as the High Court of East Pakistan and after t...
+----------------------------------------
+File: case_174_bengal_tenancy.json
+Ref: 20 ALR (AD) 36,69 DLR (AD) 440,37 BLD (AD) 21 | Case No: Civil Petition for Leave to Appeal Nos. 821 and 1046 of 2011
+Parties: Chief Engineer, Roads & Highway Directorate, Dhaka ------ Petitioner (in CP No.821 of 2011)  Vs.  Advocate Asaduzzaman Siddique, and others ------ Respondents (in both the petitions)
+Matched Patterns (3): /presumption/i, /correctness/i, /rebut/i
+Snippet: 10. The High Court Division found that, admittedly, the then High Court of East Bengal was established on 17-11-1947 in the Governor House which had been constructed on the Bharat Samrat's land under CS Khatian No.16855 appertaining to the above mentioned CS Plots-measuring an area of 55.05 acres. Since 1947, the then High Court of East Bengal renamed as the High Court of East Pakistan and after t...
+----------------------------------------
+File: case_7739_state_acquisition_and_tenancy_act.json
+Ref: 4 BLC (HD) 195,7 BLT (HD) 164 | Case No: First Appeal No. 128 of 1987 (FAT No. 359 of 1987).
+Parties: Shahani Bibi being dead her heirs: Mohammad Azim and others ------ Appellants  Vs.  Nur Islam being dead his heirs: Doly Islam and others ------ Respondents
+Matched Patterns (3): /presumption/i, /correctness/i, /rebut/i
+Snippet: 6. Averments made in the written statement filed by the defendant Nos. 1-9 are that the suit is not maintainable in its present form and manner. The suit is barred by limitation and principles of waiver and estoppel. The suit is bad mis-joinder and non-joinder of parties. The suit land is vague and indefinite. The plaintiff nor her predecessors had ever been in possession of the suit land and the ...
+----------------------------------------
+File: case_8215_sa_khatian.json
+Ref: 2 CLR (HD) 242,17 BLC (HD) 511 | Case No: Writ Petition No. 3229 of 2004.
+Parties: Khorshid Nayeem and others ----- Petitioners  Vs  Land Appeal Board and others ----- Respondents
+Matched Patterns (3): /presumption/i, /correctness/i, /rebut/i
+Snippet: That the land of Mouza- Tejkunipara under Police Station Tejgaon, previously Keranigonj, District Dhaka measuring a total area of 37.66 acres of land appertaining to CS Khatian No. 211, CS Plot No. 560/669 originally belonged to Satinath Bandapaddhaya alias Sagar Babu. The said land was put to auction sale for arrears of rents and one Promode Bala Devi auction purchased the same. While in possessi...
+----------------------------------------
+File: case_7739_cadastral_survey.json
+Ref: 4 BLC (HD) 195,7 BLT (HD) 164 | Case No: First Appeal No. 128 of 1987 (FAT No. 359 of 1987).
+Parties: Shahani Bibi being dead her heirs: Mohammad Azim and others ------ Appellants  Vs.  Nur Islam being dead his heirs: Doly Islam and others ------ Respondents
+Matched Patterns (3): /presumption/i, /correctness/i, /rebut/i
+Snippet: 6. Averments made in the written statement filed by the defendant Nos. 1-9 are that the suit is not maintainable in its present form and manner. The suit is barred by limitation and principles of waiver and estoppel. The suit is bad mis-joinder and non-joinder of parties. The suit land is vague and indefinite. The plaintiff nor her predecessors had ever been in possession of the suit land and the ...
+----------------------------------------
+
+================================ CATEGORY: nawab_court_of_wards ================================
+File: case_949_court_of_wards.json
+Ref: 27 DLR (HD) 503 | Case No: F.M.A.T. No. 21 of 1975 with C.R. No. 20 (fm)/75 and Civil Revision No. 1365 of 1974.
+Parties: Khwaja Nur Mohammad and others ------ Appellant,  Vs.  Khwaja Abdul Gani and others ------ Respondents.
+Matched Patterns (3): /nawab/i, /court of wards/i, /chief manager/i
+Snippet: 3. The suit was contesting by the defendants represented by the Manager of the Dhaka Nawab Court of Wards, by filing a written statement in which strong objections were taken to the prayers made in the plaint. The suit was ultimately decreed on the 3rd September, 1959 in terms of a petition of compromise filed on behalf of both the parties. The terms of the Said compromise decree which are relevan...
+----------------------------------------
+File: case_5600_court_of_wards.json
+Ref: 42 DLR (HD) 434 | Case No: First Appeal No. 9 of 1983.
+Parties: Noor Mohammad Khan & ors ----- Appellants    Vs.   Government of the People's Republic of Bangladesh & ors ----- Respondents
+Matched Patterns (3): /nawab/i, /court of wards/i, /chief manager/i
+Snippet: 2. The case of the plaintiffs, inter alia, was that the suit plot No. 5 measuring an area of 45.93 acres of land belonged to Dhaka Nowab Court of Wards Estate as the recorded owner in the CS Khatian No. 1 of mouza Chowbaria under Police Station Savar, District Dhaka and the said Court of Wards Estate settled the said land in rayoti right to the plaintiff No. 1 on 20.6.1353 BS by granting Amalnama ...
+----------------------------------------
+File: case_5600_dhaka_nowab_state.json
+Ref: 42 DLR (HD) 434 | Case No: First Appeal No. 9 of 1983.
+Parties: Noor Mohammad Khan & ors ----- Appellants    Vs.   Government of the People's Republic of Bangladesh & ors ----- Respondents
+Matched Patterns (3): /nawab/i, /court of wards/i, /chief manager/i
+Snippet: 2. The case of the plaintiffs, inter alia, was that the suit plot No. 5 measuring an area of 45.93 acres of land belonged to Dhaka Nowab Court of Wards Estate as the recorded owner in the CS Khatian No. 1 of mouza Chowbaria under Police Station Savar, District Dhaka and the said Court of Wards Estate settled the said land in rayoti right to the plaintiff No. 1 on 20.6.1353 BS by granting Amalnama ...
+----------------------------------------
+File: case_5600_state_acquisition_and_tenancy_act.json
+Ref: 42 DLR (HD) 434 | Case No: First Appeal No. 9 of 1983.
+Parties: Noor Mohammad Khan & ors ----- Appellants    Vs.   Government of the People's Republic of Bangladesh & ors ----- Respondents
+Matched Patterns (3): /nawab/i, /court of wards/i, /chief manager/i
+Snippet: 2. The case of the plaintiffs, inter alia, was that the suit plot No. 5 measuring an area of 45.93 acres of land belonged to Dhaka Nowab Court of Wards Estate as the recorded owner in the CS Khatian No. 1 of mouza Chowbaria under Police Station Savar, District Dhaka and the said Court of Wards Estate settled the said land in rayoti right to the plaintiff No. 1 on 20.6.1353 BS by granting Amalnama ...
+----------------------------------------
+File: case_949_dhaka_nawab_state.json
+Ref: 27 DLR (HD) 503 | Case No: F.M.A.T. No. 21 of 1975 with C.R. No. 20 (fm)/75 and Civil Revision No. 1365 of 1974.
+Parties: Khwaja Nur Mohammad and others ------ Appellant,  Vs.  Khwaja Abdul Gani and others ------ Respondents.
+Matched Patterns (3): /nawab/i, /court of wards/i, /chief manager/i
+Snippet: 3. The suit was contesting by the defendants represented by the Manager of the Dhaka Nawab Court of Wards, by filing a written statement in which strong objections were taken to the prayers made in the plaint. The suit was ultimately decreed on the 3rd September, 1959 in terms of a petition of compromise filed on behalf of both the parties. The terms of the Said compromise decree which are relevan...
+----------------------------------------
+
+================================ CATEGORY: misc_case_title ================================
+File: case_7888_state_acquisition_and_tenancy_act.json
+Ref: 4 BLC (HD) 438 | Case No: Second Appeal No. 55 of 1974.
+Parties: Osmanullah being dead his legal heirs, Kasimullah & others ------ Plaintiff-Appellants  vs  Faizullah & others ------ Defendant-Respondent
+Matched Patterns (5): /\bmisc\b/i, /miscellaneous case/i, /decree/i, /title suit/i, /section 42/i
+Snippet: This Second Appeal at the instance of the plaintiff appellant is directed against the judgment and decree dated 30-4-1973 passed in Title Appeal No.122 of 1973 by Mr MA Wahab, Special Judge and ex-officio Additional District Judge, Sylhet reversing those dated 24-7-1972 passed in Title Suit No.166 of 1970 by he learned Munsif, 1st Court, Sylhet decreeing the suit on contest against defendant No.1 ...
+----------------------------------------
+File: case_7888_bengal_tenancy.json
+Ref: 4 BLC (HD) 438 | Case No: Second Appeal No. 55 of 1974.
+Parties: Osmanullah being dead his legal heirs, Kasimullah & others ------ Plaintiff-Appellants  vs  Faizullah & others ------ Defendant-Respondent
+Matched Patterns (5): /\bmisc\b/i, /miscellaneous case/i, /decree/i, /title suit/i, /section 42/i
+Snippet: This Second Appeal at the instance of the plaintiff appellant is directed against the judgment and decree dated 30-4-1973 passed in Title Appeal No.122 of 1973 by Mr MA Wahab, Special Judge and ex-officio Additional District Judge, Sylhet reversing those dated 24-7-1972 passed in Title Suit No.166 of 1970 by he learned Munsif, 1st Court, Sylhet decreeing the suit on contest against defendant No.1 ...
+----------------------------------------
+File: case_1189_state_acquisition_and_tenancy_act.json
+Ref: 63 DLR (AD) 122,6 ADC 661 | Case No: Civil Petition for Leave to Appeal No. 303 of 2007.
+Parties: Bangladesh ----- Petitioner   vs  Mariam Begum and others -----Respondents
+Matched Patterns (5): /\bmisc\b/i, /miscellaneous case/i, /decree/i, /title suit/i, /section 42/i
+Snippet: 2. Facts, in brief, are that the respondent Nos. 1-7 instituted Title Suit No. 57 of 1994 in the 5th Court of Subordinate Judge (now Joint District Judge), Dhaka for declarations that the order dated 23-10-1976 of the Addition Deputy Commissioner (Rev), the defendant No.2, for forfeiture the suit land is illegal and has no binding force in law and their right title and interest in the suit land ha...
+----------------------------------------
+File: case_1189_act__1950.json
+Ref: 63 DLR (AD) 122,6 ADC 661 | Case No: Civil Petition for Leave to Appeal No. 303 of 2007.
+Parties: Bangladesh ----- Petitioner   vs  Mariam Begum and others -----Respondents
+Matched Patterns (5): /\bmisc\b/i, /miscellaneous case/i, /decree/i, /title suit/i, /section 42/i
+Snippet: 2. Facts, in brief, are that the respondent Nos. 1-7 instituted Title Suit No. 57 of 1994 in the 5th Court of Subordinate Judge (now Joint District Judge), Dhaka for declarations that the order dated 23-10-1976 of the Addition Deputy Commissioner (Rev), the defendant No.2, for forfeiture the suit land is illegal and has no binding force in law and their right title and interest in the suit land ha...
+----------------------------------------
+File: case_12532_state_acquisition_and_tenancy_act.json
+Ref: 34 BLD (HD) 463,21 BLT (HD) 303 | Case No: Memorandum of Appeal from Original Decree No.289 of 2003
+With
+Memorandum of Appeal from Original Decree No.290 of 2003
+And
+Connected Civil Rule No. 319 (F) of 2004
+Parties: Syed Jamshed Hussain Choudhury ------ Appellant in both the appeals  Versus  Government of Bangladesh, represented by the Deputy Commissioner, Pabna and others ------Respondents
+Matched Patterns (4): /\bmisc\b/i, /miscellaneous case/i, /decree/i, /title suit/i
+Snippet: 6. The plaintiff on 28.8.1965 purchased the suit property from Nesar Hossain and mutated his name with the government arid office vide Mutation Case No. 245 of 1966- 67 and paid rent and taxes to the government. The holding No. 306 was in the name of the plaintiff and lastly in the year 1399 B.S. the plaintiff paid rent to the Government. After obtaining the suit property at the time of R.S. recor...
+----------------------------------------
+
+================================ CATEGORY: volume_note ================================
+File: case_12698_rent_roll.json
+Ref: 1 BLT (HD) 18 | Case No: Appeal from Original Decree No. 27 of 1980
+Parties: Fazlur Rahman ------ Appellant.  Versus  People's Republic of Bangladesh ------Respondent.
+Matched Patterns (2): /different ink/i, /order sheet/i
+Snippet: 2. Plaintiff Fazlur Rahman filed the suit for declaration on his tenancy right under the government in respect of the land measuring 20.41 acres described in schedule A to the plaint with the averment, inter alia. that his father took settlement of the land described in schedule B to the plaint measuring 0.83 acres at a rental of Tk. 1-1-0 on the basis of a chit, Ext. 1 dated 12 Falgoon. 1350 B.S....
+----------------------------------------
+File: case_15181_bengal_government_estate_manual__1932_.json
+Ref: 15 ADC 593,26 BLT (AD) 72 | Case No: Criminal Appeal Nos.39-40 of 2013
+Parties: Allama Delwar Hossain Sayedee (In Crl.A. No.39 of 2013) ---------- Appellant  The Government of the People's Republic of Bangladesh, represented by the Chief prosecutor, International Crimes Tribunal, Dhaka, Bangladesh (In Crl.A. No.40 of 2013) -------- Appellant  Versus  The Government of the People's Republic of Bangladesh, represented by the Chief prosecutor, International Crimes Tribunal, Dhaka, Bangladesh (In CrI.A.No.39 of 2013) -------- Respondent  Delwar Hossain Sayeedi @ Delu: (In CrI.A.No.40 of 2013) -------- Respondent
+Matched Patterns (1): /order sheet/i
+Snippet: "Throughout East Pakistan the army is training now paramilitary home guards or simply arming 'loyal' civilians, some of whom are formed into peace committees. Besides Biharis and other non-Bengali, Urdu-speaking Moslems, the recruits include the small minority of Bengali Moslems who have long supported the army-adherents of the right-wing religious parties such as the Moslem League and Jamat-e-Isl...
+----------------------------------------
+File: case_8953_the_government_estates_manual__1958_.json
+Ref: 3 ALR (HD) 62,19 BLC (HD) 239 | Case No: Civil Revision No.1722 of 2011.
+Parties: Tahmina Amin Chowdhury ------ Petitioner  Vs.  Deputy Commissioner, Chittagong and another ------ Opposite-Parties
+Matched Patterns (1): /order sheet/i
+Snippet: 6. Defendant Nos. 5 and 6 in the written statement after taking preliminary objections as to maintainability of the suit, denied the plaint case line by line. It is their specific case that suit land originally belonged to Ananda Charan Datta and Gyananda Charan Datta and Nilmani Datta. 45.96 acres of land was recorded as projabili in the RS khatian. The entire land of jote for arrear of rent was ...
+----------------------------------------
+File: case_17101_dhaka_nawab_state.json
+Ref: 28 BLC (HD) 399 | Case No: Writ Petition No. 9051 of 2018 & Writ Petition No. 7082 of 2015
+Parties: The Government of the People’s Republic of Bangladesh........... Petitioner  -Versus-  Chairman, The First Court of Settlement, Segunbagicha, Dhaka and another........... Respondents
+Matched Patterns (1): /order sheet/i
+Snippet: 47. On scrutiny of the order sheets of Settlement Case No. 84 of 1996, it appears that no record of the volume book of registered deed No. 8656 dated 28.11.1960 was called for by the First Court of Settlement, Dhaka and claimant S. Nehal Ahmed was also not examined in the case. Therefore, there was no scope for the First Court of Settlement, Dhaka to compare the admitted signature of the claimant ...
+----------------------------------------
+File: case_17101_dhaka_nowab_state.json
+Ref: 28 BLC (HD) 399 | Case No: Writ Petition No. 9051 of 2018 & Writ Petition No. 7082 of 2015
+Parties: The Government of the People’s Republic of Bangladesh........... Petitioner  -Versus-  Chairman, The First Court of Settlement, Segunbagicha, Dhaka and another........... Respondents
+Matched Patterns (1): /order sheet/i
+Snippet: 47. On scrutiny of the order sheets of Settlement Case No. 84 of 1996, it appears that no record of the volume book of registered deed No. 8656 dated 28.11.1960 was called for by the First Court of Settlement, Dhaka and claimant S. Nehal Ahmed was also not examined in the case. Therefore, there was no scope for the First Court of Settlement, Dhaka to compare the admitted signature of the claimant ...
+----------------------------------------
+
+================================ CATEGORY: burden_of_proof ================================
+File: case_14183_state_acquisition_and_tenancy_act.json
+Ref: 30 DLR (AD) 41 | Case No: Civil Appeal No. 25 of 1973.
+Parties: Ajufannessa @ Aji Bibi and others  ------- Appellants.  Vs.  Safar Miah and others  ------- Respondents.
+Matched Patterns (5): /burden of proof/i, /onus/i, /plaintiff/i, /defendant/i, /section 103/i
+Snippet: 11. At the outset it may be pointed out that the view of the learned Judges of the High Court that the defendants had no locus standi to claim any interest in the suit land in the context of their allegation as to the father's name of Mainuddin being Ainuddin was misconceived. The father's name of Mainuddin was found to be Amir and not Ainuddin as wrongly stated in the C.S. Khatian No.83. The case...
+----------------------------------------
+File: case_11979_presumption.json
+Ref: 4 CLR (AD) 377,13 ADC 349 | Case No: Civil Appeal No. 162 of 2008
+Parties: Md. Sirajul Islam and others ----- Appellants  VS  Taimuddin and others ----- Respondents
+Matched Patterns (5): /burden of proof/i, /onus/i, /plaintiff/i, /defendant/i, /section 103/i
+Snippet: 7. There is no dispute that out of 6 khatians, 4 khatians were prepared showing Sadi Mondal's jote and in respect to two khatians Borundi Mondal's jote was recorded. Of the 6 khatians, Karful Bewa was shown to have exclusive possession in respect of 3 khatians and in respect of other 3 khatians, Karful Bewa had 8 annas share and Borundi Mondal 8 annas share. This Borundi Mondal is the brother of S...
+----------------------------------------
+File: case_14183_bengal_tenancy.json
+Ref: 30 DLR (AD) 41 | Case No: Civil Appeal No. 25 of 1973.
+Parties: Ajufannessa @ Aji Bibi and others  ------- Appellants.  Vs.  Safar Miah and others  ------- Respondents.
+Matched Patterns (5): /burden of proof/i, /onus/i, /plaintiff/i, /defendant/i, /section 103/i
+Snippet: 18. In this case the plaintiffs have come to the court with the assertion that the disputed land was settled with them by the owners of the land on the basis of the Kabuliyat Ext.3 (a) and produced the Dakhilas Ext. 4 series in proof of the fact that the Kabuliyat was acted upon on subsequent payment of rent in pursuance of the said settlement. According to section 101 of the Act, as referred to a...
+----------------------------------------
+File: case_14183_kabuliyat.json
+Ref: 30 DLR (AD) 41 | Case No: Civil Appeal No. 25 of 1973.
+Parties: Ajufannessa @ Aji Bibi and others  ------- Appellants.  Vs.  Safar Miah and others  ------- Respondents.
+Matched Patterns (5): /burden of proof/i, /onus/i, /plaintiff/i, /defendant/i, /section 103/i
+Snippet: 11. At the outset it may be pointed out that the view of the learned Judges of the High Court that the defendants had no locus standi to claim any interest in the suit land in the context of their allegation as to the father's name of Mainuddin being Ainuddin was misconceived. The father's name of Mainuddin was found to be Amir and not Ainuddin as wrongly stated in the C.S. Khatian No.83. The case...
+----------------------------------------
+File: case_5309_rent_roll.json
+Ref: 44 DLR (HD) 69,11 BLD (HD) 405 | Case No: Civil Revision No. 194 of 1982.
+Parties: Bangladesh  ------- Petitioner   Vs.   Md. Aslam and others.  ------- Opposite Parties
+Matched Patterns (5): /burden of proof/i, /onus/i, /plaintiff/i, /defendant/i, /section 103/i
+Snippet: 27. Section 101 of the Evidence Act, requires that the plaintiff who wants the Court to believe that the alleged receipts have created any right or title in his favour or any legal right or liability has been created by virtue of such settlement by way of those rent-receipts, it is the plaintiff who has to prove the same in a legal manner as provided under the Act. Whether these rent receipts were...
+----------------------------------------
+
+================================ CATEGORY: non_joinder_govt ================================
+File: case_13490_non_joinder.json
+Ref: 15 BLT (AD) 27,10 MLR (AD) 121,10 BLC (AD) 58 | Case No: Civil Appeal No. 264 of 2001
+Parties: Abu Naser Mohammad Wahidun Nabi and another ------ Appellants  Versus  Md. Balai Roy and others ------ Respondents.
+Matched Patterns (4): /non-joinder/i, /non joinder/i, /necessary party/i, /government/i
+Snippet: 42. The plaintiff after lapse of more than 12 years since the date of institution of the suit by way of amendment sought the relief (b)(I)i.e. declaration that the deeds of October 27, 1969 in the name of Ali Ahmed Khandker and Wali Mohammad Siddiqui were forged, fraudulent and not binding upon the plaintiff and thus relief having in fact sought against the recipients of the deeds of October 27, 1...
+----------------------------------------
+File: case_257_non_joinder.json
+Ref: 68 DLR (HD) 545 | Case No: Writ Petition No. 4124 of 2015
+Parties: Sonali Bank Limited and Another ------ Petitioners  Vs.  Bangladesh, represented by the Secretary, Ministry of Finance, Government of' the people's Republic of Bangladesh, and others   ------ Respondents
+Matched Patterns (4): /non-joinder/i, /non joinder/i, /necessary party/i, /government/i
+Snippet: 4. The petitioners filed joint written statement on 11-6-2014 in the said suit denying the material allegations made in the plaint contending inter alia that the plaintiff bank without making M/s Green Printers and M/s MBA Trade and Commerce, parties in the suit simply filed the suit against the petitioners bank only, who is a commercial bank within the definition of Artha Rin Adalat Ain and, as s...
+----------------------------------------
+File: case_7678_non_joinder.json
+Ref: 27 BLD (HD) 547,14 BLC (HD) 44 | Case No: Writ Petition No.1541 of 1998.
+Parties: Mazedur Rahman (Md) ----- Petitioner  vs  Managing Committee, Ambari Bahumukhi Uchha Biddalaya,  Ambari Dawlatpur and others  ----- Respondents
+Matched Patterns (4): /non-joinder/i, /non joinder/i, /necessary party/i, /government/i
+Snippet: 9. The learned Counsel Mr AJ Mohammad Ali with Ms Bilkis Jahan appearing on behalf of the petitioner, submits that the petitioner was dismissed from his service on a false and baseless allegation that he attempted to outrage the modesty of a girl Sabina Yeasmin, student of Class VIII of the school. The learned Counsel next submits that according to the Non-Government Secondary School Teacher Regul...
+----------------------------------------
+File: case_10115_non_joinder.json
+Ref: 26 BLD (HD) 133 | Case No: Civil Revision No. 2603 of 1997
+Parties: Md. Falaz Uddin  Vs.  Most. Anwara Khatun and others
+Matched Patterns (3): /non-joinder/i, /non joinder/i, /necessary party/i
+Snippet: 4. It is at this juncture that the Pre-emptee-Petitioner puts this Court on notice of the history of the two rounds of proceedings and cases stemming from Miscellaneous Case No. 45 of 1987 and culminating in the impugned judgment and order dated 31.3.1997 in Miscellaneous Appeal No. 70 of 1994. The matter at issue now, however, according to the Pre-emptee-Petitioner is given that the provisions of...
+----------------------------------------
+File: case_1994_non_joinder.json
+Ref: 2 ALR (AD) 169,58 DLR (AD) 159,26 BLD (AD) 53,11 MLR (AD) 16 | Case No: Civlii Appeal No. 244 of 2001
+Parties: Abdur Rashid Sarker (Md) and others ------ Appellants  Vs.  Dines Chandra Das and others ------ Respondents
+Matched Patterns (3): /non-joinder/i, /non joinder/i, /necessary party/i
+Snippet: 7. The High Court Division relying upon a decision reported in 31 DLR (AD) 88 held that the pre-emptees did not disclose the names of those left out co-sharers and did not press the issue regarding the non-joinder of the co-sharers before the trial Court. Therefore, the pre-emption case could not fail on that account and accordingly, made the Rule absolute....
+----------------------------------------
+
+================================ CATEGORY: hotchpot ================================
+File: case_5393_state_acquisition_and_tenancy_act.json
+Ref: 35 DLR (AD) 230 | Case No: Civil Appeal No.58 of 1982
+Parties: S.M. Basiruddin ----- Appellant  Vs.   Zahurul Islam Chowdhury and another ----- Respondents
+Matched Patterns (3): /partition/i, /separate khatian/i, /separate tenancy/i
+Snippet: Ruhul Islam J.—This appeal by special leave arises from an application under section 14 of the Non-Agricultural Tenancy Act, 1949 filed by respondent No. l in respect of certain land with the Dacca City. The sale under pre-emption was effected by Ayesha Khatun respondent No. 2 in favour of the appellant by a kabala dated 10-9-73 which was registered on 5-4-76. The case land appertained to a perman...
+----------------------------------------
+File: case_5393_bengal_tenancy.json
+Ref: 35 DLR (AD) 230 | Case No: Civil Appeal No.58 of 1982
+Parties: S.M. Basiruddin ----- Appellant  Vs.   Zahurul Islam Chowdhury and another ----- Respondents
+Matched Patterns (3): /partition/i, /separate khatian/i, /separate tenancy/i
+Snippet: Ruhul Islam J.—This appeal by special leave arises from an application under section 14 of the Non-Agricultural Tenancy Act, 1949 filed by respondent No. l in respect of certain land with the Dacca City. The sale under pre-emption was effected by Ayesha Khatun respondent No. 2 in favour of the appellant by a kabala dated 10-9-73 which was registered on 5-4-76. The case land appertained to a perman...
+----------------------------------------
+File: case_5393_rent_roll.json
+Ref: 35 DLR (AD) 230 | Case No: Civil Appeal No.58 of 1982
+Parties: S.M. Basiruddin ----- Appellant  Vs.   Zahurul Islam Chowdhury and another ----- Respondents
+Matched Patterns (3): /partition/i, /separate khatian/i, /separate tenancy/i
+Snippet: Ruhul Islam J.—This appeal by special leave arises from an application under section 14 of the Non-Agricultural Tenancy Act, 1949 filed by respondent No. l in respect of certain land with the Dacca City. The sale under pre-emption was effected by Ayesha Khatun respondent No. 2 in favour of the appellant by a kabala dated 10-9-73 which was registered on 5-4-76. The case land appertained to a perman...
+----------------------------------------
+File: case_5393_bengal_government_estate_manual__1932_.json
+Ref: 35 DLR (AD) 230 | Case No: Civil Appeal No.58 of 1982
+Parties: S.M. Basiruddin ----- Appellant  Vs.   Zahurul Islam Chowdhury and another ----- Respondents
+Matched Patterns (3): /partition/i, /separate khatian/i, /separate tenancy/i
+Snippet: Ruhul Islam J.—This appeal by special leave arises from an application under section 14 of the Non-Agricultural Tenancy Act, 1949 filed by respondent No. l in respect of certain land with the Dacca City. The sale under pre-emption was effected by Ayesha Khatun respondent No. 2 in favour of the appellant by a kabala dated 10-9-73 which was registered on 5-4-76. The case land appertained to a perman...
+----------------------------------------
+File: case_10947_sa_khatian.json
+Ref: 1 ADC 515 | Case No: Civil Appeal No. 85-86 of 1998
+Parties: Abdul Mumin alias Tanu Miah ------ Appellant (in all the appeals)  Vs.  Mahfujur Rahman and others ------ Respondents (in C.a. No 85 of 1998)  Pervejur Rahman and others ------ Respondents (in C.a. No 86 of 1998)  Riajur Rahman and others ------ Respondents (in C.a. No 87 of 1998)  Salimur Rahman and others ------ Respondents (in C.a. No 88 of 1998)  Selima Rahman and others ------ Respondents (in Ca. No 89 of 1998)
+Matched Patterns (3): /partition/i, /separate khatian/i, /separate tenancy/i
+Snippet: Md. Ruhul Amin, J :- These appeals, by leave, are against the order dated June 30, 1997 of a Division Bench of the High Court Division passed in Civil Order Nos. 3230, 3231, 3232, 3233 and 3234 of 1997 rejecting the 5 revisional applications summarily. The revisional applications were filed against the judgment and order dated 10.4.1996 of the 1st Court of Additional District Judge, Sylhet, passed...
+----------------------------------------

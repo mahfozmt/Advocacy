@@ -150,5 +150,81 @@
   "sa act": {
     "last_page": 248,
     "completed": false
+  },
+  "Dhaka Nawab": {
+    "last_page": 4,
+    "completed": true
+  },
+  "Nawab Estate": {
+    "last_page": 3,
+    "completed": true
+  },
+  "Chief Manager": {
+    "last_page": 7,
+    "completed": true
+  },
+  "approval of Chief Manager": {
+    "last_page": 4,
+    "completed": true
+  },
+  "settlement without approval": {
+    "last_page": 4,
+    "completed": true
+  },
+  "khas mahal": {
+    "last_page": 1,
+    "completed": true
+  },
+  "Government Estates Manual": {
+    "last_page": 2,
+    "completed": true
+  },
+  "ঢাকা নবাব": {
+    "last_page": 1,
+    "completed": true
+  },
+  "নবাব এস্টেট": {
+    "last_page": 1,
+    "completed": true
+  },
+  "কোর্ট অব ওয়ার্ডস": {
+    "last_page": 1,
+    "completed": true
+  },
+  "চিফ ম্যানেজার": {
+    "last_page": 1,
+    "completed": true
+  },
+  "খাস মহল": {
+    "last_page": 1,
+    "completed": true
+  },
+  "section 144A": {
+    "last_page": 2,
+    "completed": true
+  },
+  "144-A": {
+    "last_page": 30,
+    "completed": true
+  },
+  "presumption of correctness": {
+    "last_page": 8,
+    "completed": true
+  },
+  "finally published": {
+    "last_page": 15,
+    "completed": true
+  },
+  "record of rights": {
+    "last_page": 22,
+    "completed": true
+  },
+  "SA khatian": {
+    "last_page": 123,
+    "completed": true
+  },
+  "RS khatian": {
+    "last_page": 66,
+    "completed": false
   }
 }

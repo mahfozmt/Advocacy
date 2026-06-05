@@ -3,32 +3,38 @@ const fs = require('fs');
 const path = require('path');
 
 const keywords = [
-    // 1. Dhaka Nawab variations (priority)
-    "Dhaka Nowab State", "Dhaka Nawab State", "Dhaka Nowab Estate", "Dhaka Nawab Estate",
-    "Nobab", "Nawab",
+    // A. Core — Nawab Estate to SA transition
+    "Dhaka Nawab", "Nawab Estate", "Court of Wards", "Chief Manager", 
+    "approval of Chief Manager", "settlement without approval", "khas mahal", 
+    "Government Estates Manual", "ঢাকা নবাব", "নবাব এস্টেট", "কোর্ট অব ওয়ার্ডস", 
+    "চিফ ম্যানেজার", "খাস মহল",
+
+    // B. SA presumption — your sword
+    "section 144A", "144-A", "presumption of correctness", "finally published", 
+    "record of rights", "SA khatian", "RS khatian", "recent record prevails",
+    "১৪৪এ", "১৪৪ক", "চূড়ান্তভাবে প্রকাশিত", "রেকর্ড অব রাইটস", "এসএ খতিয়ান",
+
+    // C. Mutation/Volume — their weakness
+    "mutation has no presumptive value", "volume entry", "interpolation", 
+    "different ink", "correction without decree", "section 143", "section 144",
+    "মিউটেশন", "ভলিউম", "ভিন্ন কালি", "সংশোধন", "ডিক্রি ছাড়া",
+
+    // D. Partition technicalities
+    "partial partition", "hotchpot", "non-joinder", "Order 1 Rule 9", 
+    "CPC Order XXIII Rule 3", "solenama", "compromise decree",
+    "আংশিক বাটোয়ারা", "হচপট", "পক্ষদোষ", "সোলেনামা",
+
+    // E. Burden of proof — Hayetullah line
+    "section 103 Evidence Act", "burden shifts", "onus to prove correction", 
+    "plaintiff prima facie", "১০৩ ধারা", "প্রমাণের দায়িত্ব",
+
+    // F. Limitation & Munsif jurisdiction
+    "misc case", "record correction", "limitation", "revenue officer not court",
+    "মিস কেস", "খতিয়ান সংশোধন", "তামাদি", "রাজস্ব কর্মকর্তা",
     
-    // 2. Kabuliyat/Patta variations
-    "kabuliyot", "kabuliyat", "kobuliyat", "koboliat",
-    "patta", "pattan", "rent roll",
-
-    // 3. CS Khas variations
-    "cs khas", "cadastral survey", "2 no khas katiyan",
-
-    // 3.5 Specific Authorities / Manuals
-    "Court of Wards", "Bengal Government Estate Manual (1932)", "The Government Estates Manual (1958)",
-    "BTA 1885", "Bengal Tenancy",
-
-    // 4. Hotchpot/Joinder variations
-    "common hotchpot", "hotchpot", "হচপট দোষ",
-    "non-joinder", "misjoinder", "পক্ষদোষ",
-
-    // 5. Presumption & Burden of Proof
-    "presumption", "sa khatian", "50 dlr 186",
-    "burden of proof", "reversal",
-
-    // 6. SA & CS variations (keep at the end due to volume/noise)
-    "state acquisition and tenancy act", "sata", "act, 1950", "sa act", "SAT Act",
-    "SA", "S.A.", "cs"
+    // Legacy / Volume keywords (keep at end)
+    "cs khas", "cadastral survey", "2 no khas katiyan", "kabuliyot", "kabuliyat", "kobuliyat", "koboliat",
+    "patta", "pattan", "rent roll", "state acquisition and tenancy act", "sata", "act, 1950", "sa act", "SAT Act", "cs", "SA", "S.A."
 ];
 
 const resourceDir = path.join('F:', 'Mahfoz', 'Advocacy', 'Resource', 'Judgements');
@@ -108,6 +114,17 @@ function sanitizeKeyword(kw) {
 async function run() {
     console.log("Starting robust fetch process...");
     
+    // Track already downloaded case IDs to prevent duplicates across keywords
+    const downloadedCaseIds = new Set();
+    const existingFiles = fs.readdirSync(resourceDir);
+    for (const file of existingFiles) {
+        const match = file.match(/^case_(\d+)/);
+        if (match) {
+            downloadedCaseIds.add(parseInt(match[1]));
+        }
+    }
+    console.log(`Loaded ${downloadedCaseIds.size} existing cases to skip duplicates.`);
+    
     let totalSaved = 0;
     
     for (const keyword of keywords) {
@@ -158,12 +175,17 @@ async function run() {
                     continue;
                 }
                 
+                if (downloadedCaseIds.has(item.Id)) {
+                    continue;
+                }
+                
                 const safeKw = sanitizeKeyword(keyword);
                 const caseFile = path.join(resourceDir, `case_${item.Id}_${safeKw}.json`);
                 
                 if (!fs.existsSync(caseFile)) {
                     item._scraped_keyword = keyword;
                     fs.writeFileSync(caseFile, JSON.stringify(item, null, 2), 'utf8');
+                    downloadedCaseIds.add(item.Id);
                     pageSavedCount++;
                     totalSaved++;
                 }
