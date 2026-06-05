@@ -224,7 +224,87 @@
     "completed": true
   },
   "RS khatian": {
-    "last_page": 66,
+    "last_page": 123,
+    "completed": true
+  },
+  "recent record prevails": {
+    "last_page": 0,
+    "completed": true
+  },
+  "১৪৪এ": {
+    "last_page": 0,
+    "completed": true
+  },
+  "১৪৪ক": {
+    "last_page": 0,
+    "completed": true
+  },
+  "চূড়ান্তভাবে প্রকাশিত": {
+    "last_page": 1,
+    "completed": true
+  },
+  "রেকর্ড অব রাইটস": {
+    "last_page": 1,
+    "completed": true
+  },
+  "এসএ খতিয়ান": {
+    "last_page": 1,
+    "completed": true
+  },
+  "mutation has no presumptive value": {
+    "last_page": 4,
+    "completed": true
+  },
+  "volume entry": {
+    "last_page": 2,
+    "completed": true
+  },
+  "interpolation": {
+    "last_page": 5,
+    "completed": true
+  },
+  "different ink": {
+    "last_page": 2,
+    "completed": true
+  },
+  "correction without decree": {
+    "last_page": 4,
+    "completed": true
+  },
+  "section 143": {
+    "last_page": 30,
+    "completed": true
+  },
+  "section 144": {
+    "last_page": 30,
+    "completed": true
+  },
+  "মিউটেশন": {
+    "last_page": 1,
+    "completed": true
+  },
+  "ভলিউম": {
+    "last_page": 1,
+    "completed": true
+  },
+  "ভিন্ন কালি": {
+    "last_page": 1,
+    "completed": true
+  },
+  "সংশোধন": {
+    "last_page": 12,
+    "completed": true
+  },
+  "ডিক্রি ছাড়া": {
+    "last_page": 1,
+    "completed": true
+  },
+  "partial partition": {
+    "last_page": 3,
+    "completed": true
+  },
+  "Order 1 Rule 9": {
+    "last_page": 172,
     "completed": false
   }
 }
