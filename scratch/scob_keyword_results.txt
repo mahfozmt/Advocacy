@@ -1,0 +1,12 @@
+File: 11_SCOB_2019.pdf
+Matches: S\.A\., \bS\.A\b, \bpartition\b, \bpreemption\b
+
+File: 13_SCOB_2020.pdf
+Matches: \bpartition\b, State\s+Acquisition, \bvesting\b, \btenancy\b, \bestoppel\b, adverse\s+inference
+
+File: 3033275_C_R_No_2522_2024.pdf
+Matches: \btenancy\b, \bestoppel\b
+
+File: 7_SCOB_2016.pdf
+Matches: S\.A\., \bS\.A\b, \bSA\s+khatian\b, \bSA\s+record\b, \bkabuliyat\b, Court\s+of\s+Wards, \bpartition\b, State\s+Acquisition, SAT\s+Act, \bvesting\b, record\s+of\s+rights, \btenancy\b, adverse\s+inference, section\s+144, \bpreemption\b
+

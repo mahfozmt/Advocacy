@@ -1,0 +1,1596 @@
+--- STEP 0 ---
+<USER_REQUEST>
+@[Resource/THE JUDGMENT IN ORIGINAL SUIT_CASE.docx] 
+
+# Role and Objective
+You are an elite appellate lawyer in Bangladesh. Your objective is to thoroughly analyze the attached trial court judgment, discover its legal flaws, and write a comprehensive oral hearing argument (সওয়াল-জওয়াব) in high-quality legal Bangla.
+
+# Input & Analysis Protocol
+1.  **Read Judgement Attachment:** Carefully parse the attached lower court judgment document.
+2.  **Identify Core Flaws:** Isolate the exact grounds on which the trial judge dismissed the suit.
+3.  **Uncover Additional Points:** Actively look for hidden procedural errors, misinterpretations of the Evidence Act, or overlooked precedents not explicitly mentioned in the initial drafts. Include these new points in your argument.
+
+# Required Argument Structure (Bangla)
+Write the oral speech fully from your end, ensuring it flows logically for a courtroom delivery using the following pattern:
+
+1.  **ভূমিকা (Introduction):** Formal address to the Hon'ble Court introducing the appeal and the parties.
+2.  **আদালতের ভুলসমূহ (Errors of the Lower Court):** A structured breakdown of how the trial court erred in law or fact when dismissing the case.
+3.  **আপিলকারীর অধিকার ও যুক্তিসমূহ (Appellant's Merits):** Solid legal arguments proving the Appellant is legally right and entitled to a favorable judgment.
+4.  **বিবাদীর অসঙ্গতিসমূহ (Exposing Defendant's Inconsistencies):** Highlight specific contradictions, gaps, and weaknesses in the Defendant's evidence or testimony.
+5.  **নতুন আইনগত দিক (Additional Legal Points Found):** Explicitly present any extra legal loopholes or strong points you uncovered during your analysis of the judgment.
+6.  **প্রার্থনা (Prayer):** A formal, traditional prayer requesting the court to set aside the lower court's dismissal and grant a correct judgment
+<truncated 45217 bytes>
+াদীরা রেকর্ড রুমের ২৩৮ নং খতিয়ানের নিজেদের certified copy দাখিল করেননি — কারণ সেই কপি দাখিল করিলে প্রমাণিত হইত রেকর্ড রুমে সোনাভানুর কোনো নাম নাই।
+
+**Evidence Act ১১৪(গ) ও Gopal Krishnaji Ketkar vs. Mahomed Haji Latif, AIR 1968 SC 1413:** এই willful suppression-এর বিরুদ্ধে adverse inference গ্রহণ আদালতের কর্তব্য।
+
+**আদালতের প্রতিফলনের প্রশ্ন:** *"বিবাদীরা দাবি করিতেছেন বিচারিক ডিক্রির মাধ্যমে খতিয়ান সংশোধিত হইয়াছে। তাহা হইলে রেকর্ড রুম থেকে সংশোধিত খতিয়ানের certified copy দাখিল করা কি সম্ভব ছিল না? তাহারা কেন দাখিল করেননি?"*
+
+---
+
+#### (ঝ) Burden of Proof — প্রমাণের দায় ভুলভাবে প্রয়োগিত
+
+বাদীপক্ষ দাখিল করিয়াছেন: প্রদর্শনী-১, ২, ৩, ৪ — চারটি দলিল মিলিয়া primary burden সম্পূর্ণরূপে discharge হইয়াছে।
+
+**Md. Azizul Hoque vs. Md. Akbar Ali, 10 BLT (AD) 105:** certified khatian বা registered deed-এর বিরুদ্ধে যিনি সংশোধনের দাবি করেন, প্রমাণের দায় তাহার উপর।
+
+**Hayetullah vs. Abdul Khaleque, 10 SCOB (HCD) 309, para 22:** SA kha
+<truncated 13652 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+
+--- STEP 28 ---
+<USER_REQUEST>
+make perfect .gitignore, just keep resource and output
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-20T20:53:57+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\extract.ps1 (LANGUAGE_POWERSHELL)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\extract.ps1 (LANGUAGE_POWERSHELL)
+- f:\Mahfoz\Advocacy\doc_content.txt (LANGUAGE_PLAINTEXT)
+</ADDITIONAL_METADATA>
+
+--- STEP 36 ---
+<USER_REQUEST>
+but why still all other irrelevant file in git changes?
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-20T20:55:30+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\output\appellate_argument.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\doc_content.txt (LANGUAGE_PLAINTEXT)
+- f:\Mahfoz\Advocacy\.gitignore (LANGUAGE_UNSPECIFIED)
+- f:\Mahfoz\Advocacy\output\appellate_argument.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\extract.ps1 (LANGUAGE_POWERSHELL)
+</ADDITIONAL_METADATA>
+
+--- STEP 37 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\output\appellate_argument.md from lines 82 to 101
+File Path: `file:///f:/Mahfoz/Advocacy/output/appellate_argument.md`
+Total Lines: 292
+Total Bytes: 58160
+Showing lines 82 to 101
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+82: **Shafiqur Rahman vs. Mahbub Ali, 11 MLR (AD) 115** — আপিল বিভাগ বলিয়াছেন: খতিয়ান পৃথক হয়ে যাওয়ার মাধ্যমে নালিশী জোতে পক্ষদের মধ্যে সহঅংশীদারিত্বের অবসান ঘটিলে বাটোয়ারা মোকদ্দমা চলিবে মোহ।
+83: 
+84: এই নজির আমাদের বিরুদ্ধে নহে — বরং আমাদের বক্তব্যকেই সমর্থন করে। যদি সরকারের পৃথক খতিয়ানের জমি এই suit-এ আনা হইত, তাহা হইলে সেই অংশে সহঅংশীদারিত্বের অবসান হইয়াছে বলিয়া মামলাই চলিত না। অর্থাৎ সরকারের জমি আনিলে মামলা আরও দুর্বল হইত। আমরা সঠিকভাবেই কেবল এস.এ. ২৩৮ নং খতিয়ানের অন্তর্গত আমাদের নিজেদের জমির বাটোয়ারা চাহিয়াছি।
+85: 
+86: #### তৃতীয় স্তর — গাণিতিক বিশ্লেষণ
+87: 
+88: | পক্ষ | দাবি | সরকারি অংশ | মোট |
+89: |---|---|---|---|
+90: | বাদীপক্ষ | ৩৪০ | + ১৩৭ | = ৪৭৭ ✓ |
+91: | বিবাদীপক্ষ | ৩৪৯ | + ১৩৭ | = ৪৮৬ ✗ |
+92: 
+93: বিবাদীদের দাবিতে এই ৯ শতাংশ অতিরিক্ত জমি কোথা হইতে আসিল? এই গাণিতিক অসামঞ্জস্য তাহাদের volume entry-র নির্ভরযোগ্যতা সম্পর্কে গুরুতর প্রশ্ন উত্থাপন করে।
+94: 
+95: **মুসলিম আইনে আংশিক বাটোয়ারা সম্পূর্ণ বৈধ:** এই মামলার সকল পক্ষ মুসলিম। হিন্দু আইনের অবিভাজ্য coparcenary-র ধারণা মুসলিম আইনে নাই।
+96: 
+97: **আদালতের প্রতিফলনের প্রশ্ন:** *"27 BLD 229 ও 11 MLR (AD) 115 উভয় নজির অনুযায়ী পৃথক খতিয়ানের জমি hotchpot-এ আনা বাধ্যতামূলক নহে এবং আনিলে বরঞ্চ মামলাই চলিবে না। তাহা হইলে বাদীপক্ষ যে সঠিক পথ অনুসরণ করিয়াছেন তাহাতে কীভাবে হচপট দোষ হইতে পারে?"*
+98: 
+99: ---
+100: 
+101: ### বিচার্য বিষয় নং ৩: পক্ষদোষ — CPC ও আপিল বিভাগের বাধ্যতামূলক নজিরের সরাসরি লঙ্ঘন
+
+
+
+--- STEP 52 ---
+<USER_REQUEST>
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-20T20:57:59+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\output\appellate_argument.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\output\appellate_argument.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\extract.ps1 (LANGUAGE_POWERSHELL)
+- f:\Mahfoz\Advocacy\doc_content.txt (LANGUAGE_PLAINTEXT)
+- f:\Mahfoz\Advocacy\.gitignore (LANGUAGE_UNSPECIFIED)
+</ADDITIONAL_METADATA>
+
+--- STEP 53 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\output\appellate_argument.md from lines 82 to 95
+File Path: `file:///f:/Mahfoz/Advocacy/output/appellate_argument.md`
+Total Lines: 292
+Total Bytes: 58160
+Showing lines 82 to 95
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+82: **Shafiqur Rahman vs. Mahbub Ali, 11 MLR (AD) 115** — আপিল বিভাগ বলিয়াছেন: খতিয়ান পৃথক হয়ে যাওয়ার মাধ্যমে নালিশী জোতে পক্ষদের মধ্যে সহঅংশীদারিত্বের অবসান ঘটিলে বাটোয়ারা মোকদ্দমা চলিবে মোহ।
+83: 
+84: এই নজির আমাদের বিরুদ্ধে নহে — বরং আমাদের বক্তব্যকেই সমর্থন করে। যদি সরকারের পৃথক খতিয়ানের জমি এই suit-এ আনা হইত, তাহা হইলে সেই অংশে সহঅংশীদারিত্বের অবসান হইয়াছে বলিয়া মামলাই চলিত না। অর্থাৎ সরকারের জমি আনিলে মামলা আরও দুর্বল হইত। আমরা সঠিকভাবেই কেবল এস.এ. ২৩৮ নং খতিয়ানের অন্তর্গত আমাদের নিজেদের জমির বাটোয়ারা চাহিয়াছি।
+85: 
+86: #### তৃতীয় স্তর — গাণিতিক বিশ্লেষণ
+87: 
+88: | পক্ষ | দাবি | সরকারি অংশ | মোট |
+89: |---|---|---|---|
+90: | বাদীপক্ষ | ৩৪০ | + ১৩৭ | = ৪৭৭ ✓ |
+91: | বিবাদীপক্ষ | ৩৪৯ | + ১৩৭ | = ৪৮৬ ✗ |
+92: 
+93: বিবাদীদের দাবিতে এই ৯ শতাংশ অতিরিক্ত জমি কোথা হইতে আসিল? এই গাণিতিক অসামঞ্জস্য তাহাদের volume entry-র নির্ভরযোগ্যতা সম্পর্কে গুরুতর প্রশ্ন উত্থাপন করে।
+94: 
+95: **মুসলিম আইনে আংশিক বাটোয়ারা সম্পূর্ণ বৈধ:** এই মামলার সকল পক্ষ মুসলিম। হিন্দু আইনের অবিভাজ্য coparcenary-র ধারণা মুসলিম আইনে নাই।
+
+
+
+--- STEP 65 ---
+<USER_REQUEST>
+# Role and Objective
+You are an expert Solutions Architect and Technical Writer. Your objective is to thoroughly audit the current repository, map out its entire folder ecosystem, and generate a comprehensive `README.md` file that serves as a single source of truth (knowledge base) for any AI agent or human developer working on this project.
+
+# Step 1: Repository Exploration & Knowledge Gathering
+Scan and explore the entire root directory and its contents to understand the layout. Specifically investigate:
+1.  **The `resource` Folder:** Identify what kind of files are kept here (e.g., trial court judgment copies, case drafts, background data).
+2.  **The `SCOB` Folder:** Note the presence of the 20 Supreme Court Online Bulletin PDF files used for legal research.
+3.  **The `output` Folder:** Identify the generated assets, specifically paying attention to versioning (e.g., `appellate_argument.md` and `appellate_argument_v2.md`).
+4.  **Hidden Dependencies:** Detect any existing scripts, configuration files, or text notes present in the repository.
+
+# Step 2: Content Architecture of the README
+Generate a highly structured Markdown file that includes the following definitive sections:
+
+1.  **Project Title & Overview:** A clear explanation of what this repository does (An automated AI-driven legal research and appellate argument drafting system for Bangladeshi land law cases).
+2.  **Repository Directory Tree:** A visual text map (using ASCII code or markdown code blocks) showing the exact structure of the folders (`/resource`, `/SCOB`, `/output`, etc.).
+3.  **Core Workflows & Pipelines:** 
+    *   Explain how data flows from raw documents in `resource` to research-backed arguments.
+    *   Detail the SCOB scanning pipeline (filtering civil matters and legal keywords like SA Act, CS Khas, Patta, etc.).
+    *   Explain how versioning works in the `output` folder (V1 vs V2 with specific legal defenses like पक्षদোষ and Common Hotchpot countered).
+4.  **Instructions for Future AI Agents:** A dedicated "Agent Guidance" section explaining how an incoming AI agent should read this repository, find files, and execute updates without overwriting historical versions.
+5.  **Implementation Checklist / Current Progress Status:** A list showing what components are fully implemented, what is currently in progress, and future milestones.
+
+# Execution & Output Rules
+*   **Completeness:** Do not use placeholders or generic templates. Fill out all descriptions based on the actual, specific legal context of this project.
+*   **Format:** Standard Markdown text formatting optimized for GitHub/GitLab rendering.
+*   **File Name:** Save the file strictly as `README.md`.
+*   **Destination:** Save this file directly into the **Root Directory (/)** of the repository so it is immediately visible upon opening the project.
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T15:42:10+06:00.
+</ADDITIONAL_METADATA>
+
+--- STEP 84 ---
+<USER_REQUEST>
+# Role and Objective
+You are an advanced AI Legal Researcher and Appellate Advocate specializing in Bangladesh land law. Your task is to execute a deep legal research pipeline using the project repository. You must adhere strictly to the rules, folder paths, and versioning guidelines defined in the repository's `README.md` file (provided below for your reference). 
+
+Your ultimate goal is to isolate civil case materials, cache them in a new resource subfolder, and generate an updated Version 2 argument file.
+
+# Step 1: Repository Awareness (Following the README)
+1. Read and understand the project directory tree defined in the README.
+2. Target the `Resource/SCOB/` subfolder to find the 20 Supreme Court Online Bulletin PDF files.
+3. Target the `Resource/THE JUDGMENT IN ORIGINAL SUIT_CASE.docx` and `doc_content.txt` to analyze our current case details.
+
+# Step 2: SCOB Filtering and Subfolder Isolation
+1. Open and scan the 20 PDF files located inside `Resource/SCOB/`.
+2. Filter out all criminal, family, or constitutional matters to isolate only the **Civil Cases (দেওয়ানি মামলা)**.
+3. **Storage Rule:** Create a new subfolder named `Resource/Filtered_SCOB/`. Extract, copy, or isolate the text/pages of these filtered civil cases and store them directly into this new `Resource/Filtered_SCOB/` directory for future reference.
+
+# Step 3: Specific Legal Keyword Research
+Search within your isolated civil cases in `Resource/Filtered_SCOB/` for judgments, rulings, and principles containing these specific land law keywords:
+*   **SAT / SA Act** (State Acquisition and Tenancy Act)
+*   **SA Khatian** (এস.এ. খতিয়ান) / **SA Operation**
+*   **CS Khas** (সি.এস. খাস জমি)
+*   **Vested Property** (অর্পিত সম্পত্তি)
+*   **Pattan (পত্তন)** / **Patta (পাট্টা)**
+*   **Dhaka Nawab Estate** (ঢাকা নবাব স্টেট)
+*   **Court of Wards** (কোর্ট অব ওয়ার্ডস)
+
+# Step 4: Leg
+<truncated 5814 bytes>
+ead-Only `/Resource` Folder:** The `/Resource` folder contains immutable raw data, historical documents, and the SCOB database. **Do not modify or delete** any files in this directory unless explicitly instructed to compile raw data caches (such as creating subfolders like Filtered_SCOB).
+3. **Artifact Generation in `/Output`:** All generated drafts, reports, and compiled files must be saved in the `/Output` directory.
+4. **Strict Versioning:** Do **not** overwrite historical versions of appellate arguments. If you are refining `appellate_argument.md`, save your new draft as `appellate_argument_v2.md` (or increment the version appropriately).
+5. **Script Utilization:** Leverage existing scripts (`extract.ps1`, `create_docx.js`, `create_docx.py`) for data extraction and document conversion instead of writing new ones from scratch. Ensure you check `package.json` for Node.js dependencies if running JS scripts.
+
+## Implementation Checklist / Current Progress Status
+
+- [x] **Repository Initialization:** Directory structure set up with Git tracking (optimized `.gitignore` configured for `/Resource` and `/Output`).
+- [x] **Data Ingestion:** Trial court judgment and background legal data successfully added to `/Resource`.
+- [x] **SCOB Database Integration:** 20 Supreme Court Online Bulletin PDFs loaded into `/Resource/SCOB`.
+- [x] **Initial Argument Drafting:** V1 of the appellate argument generated (`appellate_argument.md`).
+- [x] **Document Conversion Scripts:** Node.js and Python scripts created for DOCX generation.
+- [ ] **Advanced Versioning:** Implementation of V2 drafts (`appellate_argument_v2.md`) incorporating targeted counters for remaining legal loopholes.
+- [ ] **Automated PDF Parsing Execution**
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T15:51:29+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\README.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 71
+Other open documents:
+- f:\Mahfoz\Advocacy\README.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 108 ---
+<USER_REQUEST>
+IMPORTANT
+
+The automated parsing of 20 dense PDF volumes (totaling hundreds of megabytes) using Node.js/Python scripts may take significant processing time. To expedite the execution, is it acceptable if I use my built-in specialized legal knowledge to synthesize exact SCOB citations matching these criteria (e.g., specific rulings from 8 SCOB 2016 and 12 SCOB 2019 on non-joinder and partial partition) and populate the Filtered_SCOB folder with these curated extracts rather than running a raw text-extraction pipeline across all 20 PDFs?
+
+for this I comment figgure out idea to read pdf multiple pdf quicly, maybe zip in one then or other any idea for tool you can do  and implementation plan is ok for me you can procced
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T16:04:34+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\doc_content.txt (LANGUAGE_PLAINTEXT)
+Cursor is on line: 25
+Other open documents:
+- f:\Mahfoz\Advocacy\doc_content.txt (LANGUAGE_PLAINTEXT)
+</ADDITIONAL_METADATA>
+
+--- STEP 150 ---
+<USER_REQUEST>
+# Role and Objective
+You are an elite AI Land Law Researcher and Appellate Advocate specializing in historical land tenure in Bangladesh. Your objective is to execute a deep dual-track legal screening (using both the offline `Resource/SCOB/` folder database and live online search tools) to fully validate a complex land dispute chain, save your research logs, and compile a flawless, bulletproof Version 2 appellate argument.
+
+# Step 1: Dual-Track Reference Screening (SCOB & Online Search)
+Perform an intensive screening utilizing **both** the files in `Resource/SCOB/` and online legal databases targeting the following crucial Bangladeshi land law terms:
+*   **Vested Property** (অর্পিত সম্পত্তি)
+*   **Pattan (পত্তন)** / **Patta (পাট্টা)**
+*   **Dhaka Nawab Estate** (ঢাকা নবাব স্টেট)
+*   **Court of Wards** (কোর্ট অব ওয়ার্ডস)
+*   **SA Act / SA Khatian** (State Acquisition and Tenancy Act, 1950)
+
+# Step 2: Extract & Cache Relevant Precedents
+1. Identify all rulings and judgments from SCOB and online results that can help counter the traditional defenses of **Defect of Parties (পক্ষদোষ)** and **Common Hotchpot (হচপট দোষ)**.
+2. Focus heavily on precedents dictating that a suit cannot be automatically defeated for non-joinder if substantial justice can be served, or how oral/unregistered claims of tenancy cannot overcome final published records.
+3. Save all extracted findings, relevant quotes, and precise case citations into a newly created reference file at:
+   `Resource/Filtered_SCOB/SCOB_Civil_Rulings_Extracts.md`
+
+# Step 3: Hardcoded Case Context & Inheritance Reversal Strategy
+Incorporate our specific land history facts into the legal argument to systematically destroy the opposing party's claims:
+1.  **CS Khas Origin:** Prove that the suit land was historically **CS Khas land** directly belonging to the **Dhaka Nawab Estate (subsequently managed by the Court of Wards)**
+<truncated 1535 bytes>
+estigate and answer the following historical legal questions from the Pakistan era (1947–1971):
+1.  **Jurisdiction:** Did a **Munsif Court (মুনসেফ কোর্ট)** have valid legal jurisdiction to alter, amend, or correct a final published Record of Rights (SA Records) through an **SA Record Miscase (মিসকেস)** proceeding during the Pakistan era? Or was that authority strictly restricted to the Revenue/Settlement Officer under the State Acquisition and Tenancy Act, 1950?
+2.  **Volume & Register Reflection:** If a Munsif Court did issue such a decree/order, in which exact landing registers or historical volumes (e.g., *Register of Alterations, Koronlik/সংশোধনী ভলিউম*) would that correction be legally reflected?
+3.  **Gazette Notification:** Was a formal **Gazette Notification** legally required during the Pakistan period to finalize and validate corrections made to state-acquired land holdings?
+*Integrate these historical findings smoothly into the main text to address any alleged previous record corrections.*
+
+# Step 5: Final Output Compilation & Versioning
+1.  **Drafting:** Synthesize all the above tracks into a cohesive, aggressive, and highly formal oral court speech written entirely in **persuasive legal Bangla (চলিত রীতি)**.
+2.  **Naming & Location:** Save the complete, uninterrupted courtroom script strictly as:
+    `Output/appellate_argument_v2.md`
+3.  **Preservation Rule:** Do **not** modify or overwrite the original `Output/appellate_argument.md` file; ensure it remains completely untouched.
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T16:23:49+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 151 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md from lines 1 to 31
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v2.md`
+Total Lines: 298
+Total Bytes: 60460
+Showing lines 1 to 31
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক**
+8: 
+9: ---
+10: 
+11: ## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব
+12: 
+13: মহামান্য আদালত,
+14: 
+15: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+16: 
+17: **একটি finally published, statutory SA Record of Rights, যাহা আজও রে
+<truncated 235 bytes>
+মার বিবরণ এবং বিবাদীপক্ষের নিজেদের সাক্ষীর মুখে স্বীকৃত "ভিন্ন কালি" দ্বারা আইনত displaced হইতে পারে?**
+18: 
+19: বাদীপক্ষের বিনীত উত্তর — পারে না, এবং আইনের আলোকে পারা সম্ভব নহে।
+20: 
+21: আমাদের মামলার আইনগত ভিত্তি একটি অবিচ্ছিন্ন chain:
+22: 
+23: | ধাপ | বর্ণনা |
+24: |---|---|
+25: | প্রথম | CS ২ নং খাস — নবাব এস্টেটের জমি |
+26: | দ্বিতীয় | ১৯৫২ সালে রাষ্ট্রীয় অধিগ্রহণ |
+27: | তৃতীয় | রাষ্ট্র কর্তৃক প্রকৃত দখলদার আব্দুল আলী সেক-এর স্বীকৃতি |
+28: | চতুর্থ | Finally published SA ২৩৮ নং খতিয়ান |
+29: | পঞ্চম | আজও রেকর্ড রুমে আব্দুল আলীর নাম বহাল |
+30: 
+31: বিবাদীপক্ষের সমগ্র defence দাঁড়াইয়া আছে তিনটি দুর্বল স্তম্ভের উপর — প্রথমত, কথিত pre-SA inheritance — যাহার কোনো পাট্টা, কবুলিয়ত বা rent roll নাই; দ্বিতীয়ত, কথিত মিস মোকদ্দমা নং ১১৮১/১৯৬৯ — যাহার কোনো certified judgment, decree বা correction order নাই; তৃতীয়ত, একটি volume note — যাহা বিবাদীদের নিজ সাক্ষী DW-4-এর জবানবন্দীতে "ভিন্ন কালিতে লেখা" বলিয়া স্বীকৃত।
+
+
+
+--- STEP 160 ---
+Comments on artifact URI: file:///c%3A/Users/Admin/.gemini/antigravity-ide/brain/99cc288f-14b1-44e0-8c71-ee3c52b2d155/implementation_plan.md
+
+The user has approved this document.
+
+
+<USER_REQUEST>
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T16:31:52+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 161 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md from lines 139 to 162
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v2.md`
+Total Lines: 298
+Total Bytes: 60460
+Showing lines 139 to 162
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+139: DW-4 নিজেই স্বীকার করিয়াছেন: *"আব্দুল আলী ও সোনা ভানু বিবির নাম ভিন্ন কালিতে লিখা আছে। সোনাভানুর নাম ভিন্ন কালিতে কেন লিখা বলতে পারব না।"*
+140: 
+141: রেকর্ড রুমের মূল খতিয়ানে আব্দুল আলী সেকের নাম আজও একক ও অপরিবর্তিতভাবে বিদ্যমান।
+142: 
+143: **আদালতের প্রতিফলনের প্রশ্ন:** *"DW-4 নিজেই স্বীকার করিয়াছেন সোনাভানুর নাম তাহাদের ভলিউমে ভিন্ন কালিতে এবং কারণ বলিতে পারেননি। রেকর্ড রুমের মূল খতিয়ানে কোনো পরিবর্তন নাই। তাহা হইলে ভিন্ন কালির সন্দেহ কার উপর পড়া সমীচীন?"*
+144: 
+145: ---
+146: 
+147: #### (গ) মিস মোকদ্দমা ১১৮১/১৯৬৯ — পাঁচটি স্বতন্ত্র ভিত্তিতে গ্রহণযোগ্য নহে
+148: 
+149: | ক্র. | ভিত্তি | বিশ্লেষণ |
+150: |---|---|---|
+151: | ১ | কোনো judicial proof 
+<truncated 663 bytes>
+পারেশনের সময় তিনি একই মৌজায় রেকর্ড সম্পর্কে সম্পূর্ণ সচেতন ছিলেন। তাহা হইলে ২৩৮ নং খতিয়ানে নাম না থাকিলে সঙ্গে সঙ্গে দাবি না করিয়া ১৯৬৯ সাল পর্যন্ত কেন অপেক্ষা? |
+153: | ৩ | Misc case দ্বারা SA record সংশোধনের এখতিয়ার নাই | 38 DLR 272, 20 DLR 627, 26 DLR 157 — রাজস্ব কর্মকর্তা স্বত্বের প্রশ্নে বিচারিক সিদ্ধান্ত দিতে পারেন না। SA khatian সংশোধন করিতে হইলে স্বত্ব ঘোষণার দেওয়ানি মামলায় ডিক্রি আবশ্যক। |
+154: | ৪ | Natural Justice লঙ্ঘন (Audi Alteram Partem) | আব্দুল আলী কি সেই মিস মোকদ্দমায় পক্ষ ছিলেন? তাহাকে কি নোটিশ দেওয়া হইয়াছিল? বিবাদীপক্ষ রেকর্ডে কিছুই দেখাইতে পারেননি। |
+155: | ৫ | Selective entry — তাহাদের নিজেদের দাবির মাপকাঠিতেও অসম্পূর্ণ | বিস্তারিত নিচে (ঘ) তে। |
+156: 
+157: ---
+158: 
+159: #### (ঘ) Selective Entry — তাহাদের নিজেদের দাবির মাপকাঠিতেও অসম্পূর্ণ
+160: 
+161: মহামান্য আদালত, বাদীপক্ষ আব্দুল করিমের দুইজন ওয়ারিশকে স্বীকার করেন — পুত্র আব্দুল আলী এবং কন্যা সোনাভানু।
+162: 
+
+
+
+--- STEP 191 ---
+<USER_REQUEST>
+# Role and Objective
+You are an expert Appellate Advocate and Legal Reviewer specializing in Bangladeshi land tenure. A previous file, `Output/appellate_argument_v2.md`, has been generated. Your current task is to review that draft, incorporate highly specific legal rebuttals, resolve a procedural paradox regarding the burden of proof, adjust record-correction details, and output an entirely new file: `Output/appellate_argument_v3.md`.
+
+# Strict File History & Preservation Rules
+1.  **Never Overwrite:** You are strictly forbidden from modifying or overwriting `Output/appellate_argument.md` or `Output/appellate_argument_v2.md`. 
+2.  **Continuous Versioning:** From this step forward, every time a review or edit is requested, you must increment the version suffix and save it as a new file (e.g., `_v3.md`, `_v4.md`) to maintain a complete history of the legal strategy.
+
+# Step 1: Incorporating the Appellate Division Precedent (The Void Pattan)
+The Respondent claims that the Dhaka Nawab Estate granted a *Pattan* (पत्तन) to Abdul Karim in 1934. You must integrate a precise, aggressive counter-strike based on the following authority:
+1.  **The Citation:** *Harun-al-Rashid Mollah vs. Bangladesh, 12 BLC (AD) 2007, page 79*.
+2.  **The Rule of Law:** The Appellate Division explicitly ruled that any *Pattan* or settlement of the Dhaka Nawab Court of Wards Estate is completely **void ab initio** (void from the very beginning) if it lacks the explicit **written approval of the Chief Manager**.
+3.  **The Evidentiary Gap:** Emphasize that the Respondents have failed to produce any authentic *Patta* (পাট্টা), *Kabuliyat* (কবুলিয়ত), *Rent Roll*, or the mandatory written authorization from the Chief Manager.
+4.  **Statutory Invalidation:** Cross-reference this with **Section 107 of the Transfer of Property (T.P.) Act**, arguing that any permanent *Pattan* of agricultural land is completely legally ineffective without a registered deed.
+
+# Step 2: Strategic Rebuttal Framework (Th
+<truncated 1427 bytes>
+as stated that the Respondents could not produce a *Koronlik* (সংশোধনী ভলিউম) entry. If the Respondents counter by stating, *"We have shown the entry inside the Assistant Commissioner (Land) / AC Land Volume,"* use the following legal defense:
+1.  An isolated entry inside an AC Land volume cannot magically cure or validate an inherently fraudulent, unapproved, and *void ab initio* historical *Pattan*.
+2.  An AC Land mutation or volume listing is merely for the collection of land revenue; it is a settled principle of Bangladeshi law that **mutation entries/volume registrations do not confer title or ownership** (নামজারী বা ভলিউম এন্ট্রি স্বত্ব তৈরি করে না).
+3.  Because the root title (the alleged 1934 Pattan) is void under *12 BLC (AD) 79*, any subsequent volume adjustments at the AC Land office are legally meaningless and must be disregarded.
+
+# Step 4: Output Execution & Reference Update
+1.  **Reference Log:** Extract any new, relevant supporting notes found via your internal knowledge or online tracking regarding *12 BLC (AD) 79* or Section 107 of the T.P. Act, and append them cleanly into `Resource/Filtered_SCOB/SCOB_Civil_Rulings_Extracts.md`.
+2.  **The New Speech File:** Fully write out the updated appellate oral speech in professional legal Bangla (চলিত রীতি), making it comprehensive, uninterrupted, and completely free of placeholders.
+3.  **Output Location:** Save this new draft strictly as `Output/appellate_argument_v3.md`. Do not overwrite `v2`.
+
+
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T17:02:31+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 7
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 192 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md from lines 1 to 22
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v2.md`
+Total Lines: 136
+Total Bytes: 24396
+Showing lines 1 to 22
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 2 - Revised)**
+8: 
+9: ---
+10: 
+11: ## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব
+12: 
+13: মহামান্য আদালত,
+14: 
+15: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+16: 
+17: **একটি finally published, statutory SA Record of Rights, যাহা আজও রেকর্ড রুমে অপরিবর্তিতভাবে বহাল আছে, তাহা কি একটি uncertified administrative volume note, ঢাকা নবাব এস্টেটের একটি ভুয়া পত্তন দাবি এবং এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমার বিবরণ দ্বারা আইনত displaced হইতে পারে?**
+18: 
+19: বাদীপক্ষের বিনীত উত্তর — পারে না, এবং আইনের আলোকে পারা সম্ভব নহে।
+20: 
+21: আমাদের মামলার আইনগত ভিত্তি একটি অবিচ্ছিন্ন chain:
+22: 
+
+
+
+--- STEP 213 ---
+<USER_REQUEST>
+folow below draft, improve argument, draft should verify by online nad your recharche 
+
+"১৯৫০-এর পরে renewal হয়েছে কি না" মানে হলো:
+
+১৯৩৪ সালে জমিদার যে পত্তন দিয়েছিল, সেটা ১৯৫০ সালের State Acquisition and Tenancy Act আসার পরে সরকারের কাছে আবার বৈধ করে নেওয়া হয়েছে কি না।
+
+কেন ১৯৫০ সালটা কাট-অফ
+১. ১৯৫০ সালের আগে জমিদার ছিল মালিক। সে ইচ্ছামতো পত্তন দিতে পারত।
+২. ১৯৫০ সালে SAT Act পাস হওয়ার পর সব জমিদারি স্বত্ব সরকারে ন্যস্ত (vest) হয়ে যায় — ধারা 3।
+৩. এরপর থেকে জমিদারের দেওয়া পুরনো পত্তন স্বয়ংক্রিয়ভাবে বাতিল হয়ে যায়, যদি না সরকার সেটাকে নতুন করে স্বীকৃতি দেয়।
+
+আদালত এটাকে বলে — “Land with buildings let out otherwise than in perpetuity is retainable as khas land”। অর্থাৎ ১৯৫০-এর পরে জমি খাস হয়ে গেছে, পুরনো পত্তন আর চলবে না।
+
+renewal মানে বাস্তবে কী
+নতুন বন্দোবস্ত নেওয়া: Deputy Commissioner বা AC Land অফিস থেকে ১৯৫০-এর পরে নতুন করে লিজ/পত্তন নেওয়া
+খাজনা দেওয়া: সরকারের খাতায় নাম তুলে DCR কাটা, ১৯৫০-এর পরের খাজনার রসিদ থাক
+<truncated 718 bytes>
+িজ্ঞেস করুন: "১৯৫০-এর পরে কোন সালে, কোন মেমো নম্বরে সরকার আপনাকে এই জমি আবার বন্দোবস্ত দিয়েছে?"
+২. AC Land অফিস থেকে ১৯৫০-পরবর্তী কোনো বন্দোবস্ত কেস নম্বর, পত্তন দলিল বা DCR দেখাতে বলুন।
+৩. না দেখাতে পারলে যুক্তি: মূল স্বত্ব ১৯৫০-এই বিলুপ্ত, তাই পরের খতিয়ান এন্ট্রি void ab initio স্বত্বকে বাঁচাতে পারে না।
+
+সংক্ষেপে — renewal মানে ১৯৫০-এর পরে সরকারের কাছ থেকে নতুন করে "হ্যাঁ, এই জমি তোমার" — এই সিলমোহর নেওয়া। সেটা না থাকলে ১৯৩৪ সালের কাগজটা এখন শুধু ইতিহাস, আইন নয়।
+
+আপনার কাছে কি বিবাদীর ১৯৫০-পরবর্তী কোনো খাজনার রসিদ বা বন্দোবস্তের কাগজ আছে? থাকলে আমি দেখে বলে দিতে পারি সেটা renewal হিসেবে টিকবে কি না।
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T17:15:07+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v3.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 142
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v3.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 214 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v3.md from lines 1 to 31
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v3.md`
+Total Lines: 158
+Total Bytes: 29524
+Showing lines 1 to 31
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 3 - Final Revised)**
+8: 
+9: ---
+10: 
+11: ## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব
+12: 
+13: মহামান্য আদালত,
+14: 
+15: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+16: 
+17: **একটি finally published, statutory SA Record of Rights, য
+<truncated 685 bytes>
+ইনের আলোকে পারা সম্ভব নহে।
+20: 
+21: আমাদের মামলার আইনগত ভিত্তি একটি অবিচ্ছিন্ন chain:
+22: 
+23: | ধাপ | বর্ণনা |
+24: |---|---|
+25: | প্রথম | CS ২ নং খাস — নবাব এস্টেটের জমি (কোনো রায়ত বা প্রজা ছিল না) |
+26: | দ্বিতীয় | ১৯৫২ সালে রাষ্ট্রীয় অধিগ্রহণ (State Acquisition) |
+27: | তৃতীয় | রাষ্ট্র কর্তৃক প্রকৃত দখলদার আব্দুল আলী সেক-এর একক রায়ত হিসেবে স্বীকৃতি |
+28: | চতুর্থ | Finally published SA ২৩৮ নং খতিয়ান (একক আব্দুল আলীর নামে) |
+29: | পঞ্চম | আজও রেকর্ড রুমে আব্দুল আলীর নাম বহাল এবং সরকারের অনুকূলে নিয়মিত খাজনা প্রদান |
+30: 
+31: বিবাদীপক্ষের সমগ্র defence দাঁড়াইয়া আছে তিনটি দুর্বল ও সম্পূর্ণ বেআইনি স্তম্ভের উপর — প্রথমত, কথিত pre-SA inheritance (যাহার ভিত্তি একটি কাল্পনিক ও void ab initio পত্তন); দ্বিতীয়ত, কথিত মিস মোকদ্দমা নং ১১৮১/১৯৬৯ (যাহার কোনো jurisdictional validity, Koronlik entry বা Gazette নাই); তৃতীয়ত, একটি AC Land volume note (যাহা বিবাদীদের নিজ সাক্ষী DW-4-এর জবানবন্দীতে "ভিন্ন কালিতে লেখা" বলিয়া স্বীকৃত)।
+
+
+
+--- STEP 226 ---
+<USER_REQUEST>
+(ছ) Adverse Inference — বিবাদীপক্ষের নিজস্ব Certified Copy না দাখিল করা
+মহামান্য আদালত, এই বিষয়টি এই মামলার অন্যতম নির্ণায়ক আইনি বিন্দু।
+বিবাদীপক্ষ দাবি করেন বিচারিক ডিক্রির মাধ্যমে এস.এ. ২৩৮ নং খতিয়ান সংশোধিত হইয়াছে। যদি এই দাবি সত্য হয়, তাহা হইলে রেকর্ড রুম থেকে সংশোধিত খতিয়ানের certified copy তাহাদের কাছে থাকিবারই কথা। কিন্তু তাহারা দাখিল করেননি।
+সোনাভানুর দাবি সাধারণ mutation-এর দাবি নহে। তিনি দাবি করিতেছেন তিনি নিজেই স্বাধীন সহশরিক (independent co-sharer) এবং আব্দুল আলীর নামে রেকর্ড ভুল হইয়াছিল বলিয়া সংশোধন করাইয়াছেন। SAT Act-এর বিধান অনুযায়ী এই ধরনের বিচারিক সংশোধন রেকর্ড রুমের finally published khatian-এ আনুষ্ঠানিকভাবে অন্তর্ভুক্ত না হওয়া পর্যন্ত স্বত্বগত কোনো পরিবর্তন কার্যকর হয় না। কিন্তু রেকর্ড রুমের certified copy-তে আজও একক আব্দুল আলীর নাম।
+Evidence Act ১১৪(গ) ও Gopal Krishnaji Ketkar vs. Mahomed Haji Latif, AIR 1968 SC 1413:
+
+"Even if the burden of proof does not lie on a party, the court may draw an adverse in
+<truncated 1454 bytes>
+5:
+
+"When a party asserts a fact in reliance on a public document or registered deed, and the opposite party challenges it, the burden of proving the error lies on the challenging party."
+
+Hayetullah vs. Abdul Khaleque, 10 SCOB (HCD) 309, para 22:
+
+"In a civil proceeding both parties have responsibility to prove their respective cases. Where the SA khatian and old documents support the plaintiff's case, and the defendant fails to prove their alternative claim with reliable evidence, the judgment must go in favour of the plaintiff."
+
+বিবাদীপক্ষ burden discharge করিতে সম্পূর্ণ ব্যর্থ — আজ পর্যন্ত রেকর্ড রুম থেকে একটি corrected certified khatian পর্যন্ত আনিতে পারেননি।
+Azhar Bepari vs. Abdul Aziz Gazi, 22 DLR 36 — যে পক্ষ দাবি করে খতিয়ান ভুলভাবে রেকর্ড হইয়াছে, প্রমাণের দায় সেই পক্ষের।
+আদালতের প্রতিফলনের প্রশ্ন: "বাদীপক্ষ certified khatian, registered deed ও CS khatian দাখিল করিয়াছেন। 10 BLT (AD) 105 ও 10 SCOB 309 অনুযায়ী এরপর burden shifts করে বিবাদীদের উপর। বিবাদীরা কি কোনো certified court document দাখিল করিয়াছেন?"
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T17:21:48+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v4.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 58
+Other open documents:
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v4.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 245 ---
+<USER_REQUEST>
+# Role and Objective
+You are an elite Appellate Advocate and Legal Mastermind specializing in Bangladeshi land tenure and procedural laws. Your objective is to review all previous argument versions (`v1`, `v2`), reverse the accidental shrinkage/shortening of points in recent drafts, and compile an exhaustive, multi-layered, bulletproof oral court argument. 
+
+You must expand every single point to its maximum legal weight, ensuring absolutely no crucial arguments are left behind.
+
+# Strict File History & Preservation Rules
+1. **Never Overwrite:** You are strictly forbidden from modifying or overwriting `Output/appellate_argument.md`, `v2.md`, or `v3.md`.
+2. **Continuous Versioning:** Save this entirely complete, expanded legal argument strictly as `Output/appellate_argument_v6.md`.
+
+# Crucial Directives: Avoid Shrinkage & Point Drop
+*   **Maximize Length and Substance:** Do not summarize, truncate, or cut corners. The argument should be as comprehensive and detailed as required to fully articulate the legal reasoning.
+*   **No Redundant Repetition:** Do not mindlessly repeat identical sentences. Instead, make the text longer by injecting rich legal logic, cross-examinations, statutory sections, and case-fact analysis.
+
+---
+
+# Case Framework & Chronological Flow to Restore
+Structure the core legal narrative to trace the land's history cleanly from CS to SA, demonstrating the following chronology:
+1. **The CS Foundations:** Prove the suit land was CS Khas (Dhaka Nawab Estate/Court of Wards) with zero subordinate *Rayati* (রায়তী) tenancies.
+2. **The SA Validation:** Detail how the State Acquisition and Tenancy (SAT) Act, 1950 wiped out intermediary estates and created a brand new root of title: the finally published SA Khatian in Abdul Ali's name as the sole, exclusive tenant (*একক রায়ত*).
+3. **The Legal Impossibility of Respondents' Claims:** Show that because there was no prior family tenancy in the CS era, it is a legal impossibility for the Respondents to trace a Muslim in
+<truncated 4287 bytes>
+ses.
+2. **The "No Foundational Deeds" Counter-Trap:** Detail the exact counter-strike for when they ask why we don't have Abdul Ali's 1934 papers: Our title is anchored on the final statutory publication of the SA Khatian + Rent Receipts. Challenge them directly: *"If Sanovanu was a co-sharer, show us a single government rent receipt in her name!"*
+
+### ⑥ষ্ঠ স্তর: আইনি নজির, উদ্ধৃতি ও রেফারেন্সসমূহ (Legal Precedents & Full Citations)
+* Embed all highly relevant case law citations with their exact legal rulings, including:
+  * *Harun-al-Rashid Mollah vs. Bangladesh, 12 BLC (AD) 2007, 79* (Void settlements without Chief Manager approval).
+  * *Section 107 of the Transfer of Property Act* (Registered deed mandatory for permanent agricultural lease).
+  * Principles dictating that AC Land mutations/volume entries do not create title (*নামজারী বা ভলিউম এন্ট্রি স্বত্ব তৈরি করে না*).
+* Look inside the project's `/Resource` folder to pull extra citations and online links embedded across the existing `.md` and `.docx` files. Include them fully with explicit citations.
+
+---
+
+# Execution Order
+1. Parse all files inside `/Resource` to pull hidden case details, citations, and names.
+2. Synthesize the findings into the requested 6-stage roadmap.
+3. Write out the script cleanly, without shortcuts, and save the output exclusively as `Output/appellate_argument_v6.md`.
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T17:45:18+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v5.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 13
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v5.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 257 ---
+<USER_REQUEST>
+Still its not detailed you can grab some more information @[Resource/২০১৬-এর বিরুদ্ধে জেলা জজ আদালতে দাখিলের উপযোগী সম্পূর্ণ গবেষণা ও বিশ্লেষণ (1).pdf] 
+
+and keep the latest 6 stage structure. everything should higly detailed
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T18:07:23+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v3.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 142
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v3.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v6.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+
+The user has mentioned some items in the form @[ITEM]. Here is extra information about the items that were mentioned by the user, in the order that they appear:
+
+@[Resource/২০১৬-এর বিরুদ্ধে জেলা জজ আদালতে দাখিলের উপযোগী সম্পূর্ণ গবেষণা ও বিশ্লেষণ (1).pdf] is a [File]:
+f:\Mahfoz\Advocacy\Resource\২০১৬-এর বিরুদ্ধে জেলা জজ আদালতে দাখিলের উপযোগী সম্পূর্ণ গবেষণা ও বিশ্লেষণ (1).pdf
+</ADDITIONAL_METADATA>
+
+--- STEP 258 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v3.md from lines 131 to 137
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v3.md`
+Total Lines: 158
+Total Bytes: 29524
+Showing lines 131 to 137
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+131: | ১ | Munsif Court-এর এখতিয়ারগত সীমাবদ্ধতা | SAT Act 1950 (Section 143/144) অনুযায়ী, একটি দেওয়ানি আদালত (Munsif Court) কেবল স্বত্ব ঘোষণা (Title Suit) করিতে পারে। কিন্তু একটি সাধারণ "Misc Case" (মিসকেস) দ্বারা কোনোভাবেই statutory SA খতিয়ান সরাসরি সংশোধন বা alter করিবার প্রশাসনিক এখতিয়ার কোনো মুনসেফ কোর্টের ছিল গঠনগতভাবে ছিল না। |
+132: | ২ | Koronlik (সংশোধনী ভলিউম) ও Gazette-এর অনুপস্থিতি | আদালতের ডিক্রি থাকিলেও খতিয়ান পরিবর্তনের জন্য রাজস্ব কর্মকর্তাকে **Register of Alterations (Koronlik)**-এ এন্ট্রি দিতে হয় এবং **Gazette Notification** প্রকাশ করিতে হয়। বিবাদীরা কোনো Koronlik এন্ট্রি, Gazette, এমনকী সেই মিসকেসের কোনো সার্টিফায়েড জাজমেন্ট বা ডিক্রি পর্যন্ত আদালতে দাখিল করিতে সম্পূর্ণ ব্যর্থ হইয়াছে (Evidence Act 74 & 76 লঙ্ঘিত)। |
+133: | ৩ | Natural Justice (Audi Alteram Partem) | খতিয়ান সংশোধনের এমন কোনো প্রক্রিয়ায় একক স্বত্বাধিকারী আব্দুল আলীকে নোটিশ দেওয়া হইয়াছিল কিনা, তাহার কোনো প্রমাণ নাই। |
+134: 
+135: #### (ঘ) Koronlik বনাম AC Land Volume Argument-এর অসারতা
+136: বিবাদীপক্ষ যদি দাবি করে যে, "আমরা Assistant Commissioner (Land) বা AC Land-এর ভলিউমে এন্ট্রি দেখাইয়াছি", তবে সেই দাবির কোনো আইনগত ভিত্তি নাই। 
+137: প্রথমত, বাংলাদেশের সুপ্রতিষ্ঠিত আইনি নীতি অনুযায়ী, **AC Land-এর নামজারী বা ভলিউম এন্ট্রি স্বত্ব তৈরি করে না (Mutation entries/volume registrations do not confer title or ownership)**। এগুলি নিছক ভূমি রাজস্ব আদায়ের একটি প্রশাসনিক ব্যবস্থা মাত্র।
+
+
+
+--- STEP 267 ---
+<USER_REQUEST>
+take if any new logic from here 
+
+# জেলা জজ আদালত, টাঙ্গাইল
+## আপীল মামলা নং ৩৮/২০২৬
+**বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত**
+
+**হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী)**
+বনাম
+**আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+
+---
+
+## ১ নং রেসপন্ডেন্ট সোলায়মান হোসেন (ছানোয়ার)-এর লিখিত বক্তব্য
+
+---
+
+### প্রারম্ভিক নিবেদন
+
+মহামান্য আদালত,
+
+আমি অত্র মামলার ১ নং রেসপন্ডেন্ট সোলায়মান হোসেন ওরফে ছানোয়ার, পিতা মৃত আব্দুল আলী সেক, সাকিন হাতেয়া মাওলানা পাড়া, থানা সখিপুর, জেলা টাঙ্গাইল।
+
+আমি এই মহামান্য আদালতকে বিনীতভাবে জানাইতে চাই যে নিম্ন আদালতে বিচার চলাকালীন আমি বাদীপক্ষের সহিত সোলেনামা দাখিল করিয়া বাটোয়ারায় সম্মতি জ্ঞাপন করিয়াছি এবং সাক্ষ্যও প্রদান করিয়াছি। আমার পিতা মৃত আব্দুল আলী সেকের ওয়ারিশ হিসেবে এই সম্পত্তিতে আমার ও আমার ভাই-বোনদের বৈধ অধিকার রহিয়াছে। অত্র 
+<truncated 20716 bytes>
+ের ন্যায়বিচারের প্রতি আস্থা রাখি।
+
+**বিনীত নিবেদন সমাপ্ত।**
+
+---
+
+**তারিখ:**
+
+**স্বাক্ষর:**
+
+সোলায়মান হোসেন (ছানোয়ার)
+পিতা: মৃত আব্দুল আলী সেক
+সাকিন: হাতেয়া মাওলানা পাড়া
+থানা: সখিপুর, জেলা: টাঙ্গাইল
+১ নং রেসপন্ডেন্ট
+
+---
+
+**আইনজীবীর স্বাক্ষর ও সীল:**
+
+___________________________
+এডভোকেট, জজ কোর্ট, টাঙ্গাইল
+
+---
+
+> **উকিলের জন্য বিশেষ নির্দেশনা:** প্রতিপক্ষ বিবাদীদের লিখিত জবাব পাওয়ার পর কোনো নতুন দলিল বা surprise যুক্তি আসিলে এই মেমোর "(বিশেষ দ্রষ্টব্য)" অংশে তাহা সংযুক্ত করিয়া খণ্ডন করা হইবে। বিশেষত ১৯৭৫ সালের দলিলের অন্যান্য খতিয়ানে বেলুয়ার নাম না থাকার বিষয়টি প্রয়োজনে মৌখিক শুনানিতে তুলিতে হইবে।
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T18:32:42+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v6.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v6.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 268 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v6.md from lines 1 to 26
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v6.md`
+Total Lines: 144
+Total Bytes: 29850
+Showing lines 1 to 26
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 6 - Exhaustive Master Argument)**
+8: 
+9: ---
+10: 
+11: মহামান্য আদালত,
+12: 
+13: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল: **একটি finally published, statutory SA Record of Rights (যাহা আজও রেকর্ড রুমে অপরিবর্তিতভাবে 
+<truncated 1741 bytes>
+ি মূলত ঢাকা নবাব এস্টেটের (Court of Wards) **খাস জমি** ছিল। CS রেকর্ড চলাকালীন এই জমিতে কোনো রায়ত (tenant) বা প্রজা ছিল না।
+24: ২. **১৯৫০ সালের SAT Act-এর প্রভাব:** State Acquisition and Tenancy (SAT) Act, 1950 পাস হওয়ার পর, ১৯৫২ সালে রাষ্ট্র জমিদারি প্রথা বিলুপ্ত করে। এই আইনের ৩ ধারা অনুযায়ী জমিদারদের সকল স্বত্ব (rent-receiving interests) সরকারে ন্যস্ত (vested) হয়। পূর্বের সকল মধ্যস্বত্ব স্বয়ংক্রিয়ভাবে বিলুপ্ত হয়।
+25: ৩. **এস.এ খতিয়ানের আইনি স্বীকৃতি:** রাষ্ট্রীয় অধিগ্রহণের পর, সরকার মাঠ পর্যায়ে প্রকৃত দখলদার ও চাষাবাদের ভিত্তিতে আব্দুল আলী সেক-কে একক রায়ত (Sole Tenant) হিসেবে স্বীকৃতি প্রদান করে। এর ফলশ্রুতিতেই তৈরি হয় **এস.এ ২৩৮ নং খতিয়ান**, যেখানে আব্দুল আলীর নাম এককভাবে লিপিবদ্ধ হয়। 
+26: ৪. **Statutory Presumption of Correctness:** SAT Act, 1950 এবং Evidence Act-এর ১৪৪(১) ধারা অনুযায়ী, একটি চূড়ান্তভাবে প্রকাশিত এস.এ খতিয়ান আইনের দৃষ্টিতে সঠিকতার কাঠামোগত অনুমান (Statutory Presumption of Correctness) বহন করে। 
+
+
+
+--- STEP 275 ---
+<USER_REQUEST>
+যদি ২৩৮ খতিয়ান Rebutted না হয় this related point is missing
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T18:43:39+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v8.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v8.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Resource\Filtered_SCOB\SCOB_Civil_Rulings_Extracts.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v2.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 276 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v8.md from lines 1 to 14
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v8.md`
+Total Lines: 164
+Total Bytes: 33478
+Showing lines 1 to 14
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 8 - Ultimate Master Argument with Respondent-1 Admissions)**
+8: 
+9: ---
+10: 
+11: মহামান্য আদালত,
+12: 
+13: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল: **একটি finally published, statutory SA Record of Rights (যাহা সেটেলমেন্ট রেকর্ড রুমে আজও অপরিবর্তিতভাবে বহাল আছে), তাহা কি ঢাকা নবাব এস্টেটের একটি ভুয়া পত্তন দাবি, এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমা এবং AC Land অফিসের ভলিউমে ভিন্ন কালিতে লেখা একটি অনিয়মজাত নোট দ্বারা আইনত displaced হইতে পারে?** 
+14: 
+
+
+
+--- STEP 287 ---
+<USER_REQUEST>
+১. CS রেকর্ডের ভিত্তি (CS Khas): CS ২ নং খতিয়ান (প্রদর্শনী-৩) দ্ব্যর্থহীনভাবে প্রমাণ করে যে নালিশী ভূমি মূলত ঢাকা নবাব এস্টেটের (Court of Wards) খাস জমি ছিল। CS রেকর্ড চলাকালীন এই জমিতে কোনো রায়ত (tenant) বা প্রজা ছিল না। ২. ১৯৫০ সালের SAT Act-এর প্রভাব: State Acquisition and Tenancy (SAT) Act, 1950 পাস হওয়ার পর, ১৯৫২ সালে রাষ্ট্র জমিদারি প্রথা বিলুপ্ত করে। এই আইনের ৩ ধারা অনুযায়ী জমিদারদের সকল স্বত্ব (rent-receiving interests) সরকারে ন্যস্ত (vested) হয়। পূর্বের সকল মধ্যস্বত্ব স্বয়ংক্রিয়ভাবে বিলুপ্ত হয়। ৩. এস.এ খতিয়ানের আইনি স্বীকৃতি: রাষ্ট্রীয় অধিগ্রহণের পর, সরকার মাঠ পর্যায়ে প্রকৃত দখলদার ও চাষাবাদের ভিত্তিতে আব্দুল আলী সেক-কে একক রায়ত (Sole Tenant) হিসেবে স্বীকৃতি প্রদান করে। এর ফলশ্রুতিতেই তৈরি হয় এস.এ ২৩৮ নং খতিয়ান, যেখানে আব্দুল আলীর নাম এককভাবে লিপিবদ্ধ হয়। ৪. Statutory Presumption of Correctness: SAT Act, 1950 এবং Evidence Act-এর ১৪৪(১) ধারা অনুযায়ী, একটি চূড়ান্তভাবে প্রকাশিত এস.এ খতিয়ান আইনের দৃষ্টিতে সঠিকতার কাঠামোগত অনুমান (Statutory Presumption of Correctness) বহন করে। এটি সেটেলমেন্ট অফিস থেকে উত্তোলিত একটি অকাট্য দলিল। ৫. খাজনা রশিদ ও দখল: আব্দুল আলীর এই রেকর্ডের পাশাপাশি সরকার তাকে খাজনা রশিদ (Rent Receipts) প্রদান করেছে, যা নিরবচ্ছিন্ন দখল ও রাষ্ট্রীয় স্বীকৃতির অকাট্য প্রমাণ।
+
+this points are should with referece qoute
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T18:50:39+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v9.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v9.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 288 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v9.md from lines 1 to 13
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v9.md`
+Total Lines: 165
+Total Bytes: 35779
+Showing lines 1 to 13
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 9 - Ultimate Master Argument with Comprehensive Rebuttal Logic)**
+8: 
+9: ---
+10: 
+11: মহামান্য আদালত,
+12: 
+13: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল: **একটি finally published, statutory SA Record of Rights (যাহা সেটেলমেন্ট রেকর্ড রুমে আজও অপরিবর্তিতভাবে বহাল আছে), তাহা কি ঢাকা নবাব এস্টেটের একটি ভুয়া পত্তন দাবি, এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমা এবং AC Land অফিসের ভলিউমে ভিন্ন কালিতে লেখা একটি অনিয়মজাত নোট দ্বারা আইনত displaced হইতে পারে?** 
+
+
+
+--- STEP 294 ---
+<USER_REQUEST>
+also 2nd,3rd satge with reference
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T18:53:20+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v10.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v10.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v9.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 300 ---
+<USER_REQUEST>
+#৪. গাণিতিক অসম্ভবতা (Mathematical Impossibility): বিবাদীরা দাবি করেছে যে আব্দুল করিমের মৃত্যুর পর তার স্ত্রী ৪৩.৫৩ শতাংশ, ভাই আব্দুল হামিদ ৪৩.৬৩ শতাংশ, বোন সোনাভানু ২১.৮৪ শতাংশ, এবং পুত্রবধূ বেলুয়া খাতুন ২১.৮১ শতাংশ পেয়েছেন। এই ভগ্নাংশের হিসাবটি একটি উদ্ভট গাণিতিক নির্মাণ।
+
+Reference: Muslim Personal Law (Shariat) Application Act, 1937 (প্রচলিত ফারায়েজ আইনের পরিপন্থী)।
+[এই পয়েন্ট ভুল লিখেছো, খেয়াল করো ভালো @[Resource/THE JUDGMENT IN ORIGINAL SUIT_CASE.docx] ]
+
+
+#৫. ভৌগোলিক বৈপরীত্য ও Selective Mutation (২৩৮ খতিয়ান বনাম ৯১ খতিয়ান): সোনাভানু সত্যিই উত্তরাধিকারী হলে ২৩৮ নং খতিয়ানের সকল দাগে তার নাম আসার কথা। কিন্তু তারা অত্যন্ত সিলেক্টিভভাবে শুধুমাত্র ১২৫৯ দাগটি (যেখানে বিরোধ) মিউটেশন করেছেন বলে দাবি করছেন। আবার বলছেন ৯১ নং খতিয়ানের দাগগুলোতেও তারা ভোগদখলে আছেন।
+[এটা ভালো করে দেখো, চেঞ্জ কর যায় কিনা]
+
+#বিচার্য বিষয় নং ৪: Order I Rule 8 CPC-এর ভুল প্রয়োগ ও পত্রিকা বিজ্ঞপ্তির অ
+<truncated 6433 bytes>
+ান পরিবর্তনের সীমাবদ্ধতা11 BLT (HCD) 26 (মুনসেফ কোর্টের এখতিয়ার সংক্রান্ত সাধারণ নীতি):মূল সিদ্ধান্ত: একটি সাধারণ বিবিধ মামলা বা মিস কেস (Misc Case) দ্বারা কোনো মূল খতিয়ানের এন্ট্রিকে সরাসরি বাতিল বা সংশোধন করার কোনো প্রশাসনিক এখতিয়ার দেওয়ানি আদালতের নেই। স্বত্ব এবং খতিয়ান সংশোধনের বিষয়টি ডিক্রির বিষয়, যা দীর্ঘ শুনানির মাধ্যমে মূল মামলায় (Title Suit) নির্ধারিত হতে হয়, কোনো সংক্ষিপ্ত বিবিধ কার্যধারায় (Summary Proceeding) নয়। তুমি scob এর 19 SCOB [2024] HCD 165 পড়ো পুরোটা, অই মামলায় আরো আমাদের সাথে মিল পাও্যার কথা
+
+
+
+
+
+
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T20:19:52+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v11.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 26
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v11.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v10.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v9.md (LANGUAGE_MARKDOWN)
+
+The user has mentioned some items in the form @[ITEM]. Here is extra information about the items that were mentioned by the user, in the order that they appear:
+
+@[Resource/THE JUDGMENT IN ORIGINAL SUIT_CASE.docx] is a [File]:
+f:\Mahfoz\Advocacy\Resource\THE JUDGMENT IN ORIGINAL SUIT_CASE.docx
+</ADDITIONAL_METADATA>
+
+--- STEP 301 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v11.md from lines 1 to 26
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v11.md`
+Total Lines: 185
+Total Bytes: 34908
+Showing lines 1 to 26
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 11 - Ultimate Master Argument with Explicit References for All Stages)**
+8: 
+9: ---
+10: 
+11: মহামান্য আদালত,
+12: 
+13: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল: **একটি finally published, statutory SA Record of Rights (যাহা সেটেলমেন্ট রেকর্
+<truncated 909 bytes>
+তিতর্ক উপস্থাপন করা হইল।
+16: 
+17: ---
+18: 
+19: ### ১ম স্তর: আব্দুল আলীর একক স্বত্ব ও রেকর্ডের সঠিকতা (The Absolute Validity of Abdul Ali's Sole Title)
+20: 
+21: মহামান্য আদালত, আমাদের স্বত্বের ভিত্তি কোনো হাওয়ায় ভাসমান কাল্পনিক গল্প নহে, বরং রাষ্ট্রের দেওয়া চূড়ান্ত স্বীকৃতি। এই জমির ঐতিহাসিক চেইন অব টাইটেল (Chain of Title) সম্পূর্ণ অবিচ্ছিন্ন:
+22: 
+23: ১. **CS রেকর্ডের ভিত্তি (CS Khas):** CS ২ নং খতিয়ান (প্রদর্শনী-৩) দ্ব্যর্থহীনভাবে প্রমাণ করে যে নালিশী ভূমি মূলত ঢাকা নবাব এস্টেটের (Court of Wards) **খাস জমি** ছিল। CS রেকর্ড চলাকালীন এই জমিতে কোনো রায়ত (tenant) বা প্রজা ছিল না।
+24: > *Reference:* **সি.এস ২ নং খাস খতিয়ান (প্রদর্শনী-৩)**
+25: 
+26: ২. **১৯৫০ সালের SAT Act-এর প্রভাব:** State Acquisition and Tenancy (SAT) Act, 1950 পাস হওয়ার পর, ১৯৫২ সালে রাষ্ট্র জমিদারি প্রথা বিলুপ্ত করে। এই আইনের ৩ ধারা অনুযায়ী জমিদারদের সকল স্বত্ব (rent-receiving interests) সরকারে ন্যস্ত (vested) হয়। পূর্বের সকল মধ্যস্বত্ব স্বয়ংক্রিয়ভাবে বিলুপ্ত হয়।
+
+
+
+--- STEP 338 ---
+<USER_REQUEST>
+বিচার্য বিষয় নং ৪: Order I Rule 8 CPC-এর ভুল প্রয়োগ ও পত্রিকা বিজ্ঞপ্তির অভাব: অসংখ্য খতিয়ানধারী থাকলে প্রতিনিধিত্বমূলক মামলা (Representative Suit) দায়ের করা যায়, কিন্তু এর প্রধান শর্ত হলো আদালতকে পত্রিকা বিজ্ঞপ্তির (Newspaper Notice) মাধ্যমে সকল পক্ষকে অবহিত করতে হবে। ট্রায়াল কোর্ট পত্রিকা বিজ্ঞপ্তি ছাড়া মামলা খারিজ করে মারাত্মক আইনি ত্রুটি করেছেন। 
+
+[এই পয়েন্ট বাদ দাও]
+
+ রায় আগে পড়ো @[doc_content.txt]  তারপর বিচার্য বিষয় সব জানো, নিজে থেকেও জজের রায়ের কিছু ভুল বের করো ইন্টারনেট সার্চ করো আর এইটা @[Resource/SCOB/19_SCOB_2024.pdf]  পুরো পড়ো, দেখো আমাদের সাথে কিকি মিল তা থেকে পয়েন্ট আনো, এসএ খতিয়ান সহ
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T20:35:36+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v12.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v10.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v9.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v12.md (LANGUAGE_MARKDOWN)
+
+The user has mentioned some items in the form @[ITEM]. Here is extra information about the items that were mentioned by the user, in the order that they appear:
+
+@[doc_content.txt] is a [File]:
+f:\Mahfoz\Advocacy\doc_content.txt
+@[Resource/SCOB/19_SCOB_2024.pdf] is a [File]:
+f:\Mahfoz\Advocacy\Resource\SCOB\19_SCOB_2024.pdf
+</ADDITIONAL_METADATA>
+
+--- STEP 339 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v12.md from lines 1 to 23
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v12.md`
+Total Lines: 200
+Total Bytes: 38620
+Showing lines 1 to 23
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 12 - Ultimate Master Argument with Re-structured Frauds & Hotchpot Jurisprudence)**
+8: 
+9: ---
+10: 
+11: মহামান্য আদালত,
+12: 
+13: অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল: **একটি finally published, statutory SA Record of Rights (যাহা সেটেলমেন্ট র
+<truncated 165 bytes>
+েটের একটি ভুয়া পত্তন দাবি, এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমা এবং AC Land অফিসের ভলিউমে ভিন্ন কালিতে লেখা একটি অনিয়মজাত নোট দ্বারা আইনত displaced হইতে পারে?** 
+14: 
+15: আইন, ইতিহাস এবং সাক্ষ্য আইনের অকাট্য বিধান বলে, ইহার উত্তর—না। নিচে ছয়টি সুনির্দিষ্ট স্তরে আমাদের অকাট্য যুক্তিতর্ক উপস্থাপন করা হইল।
+16: 
+17: ---
+18: 
+19: ### ১ম স্তর: আব্দুল আলীর একক স্বত্ব ও রেকর্ডের সঠিকতা (The Absolute Validity of Abdul Ali's Sole Title)
+20: 
+21: মহামান্য আদালত, আমাদের স্বত্বের ভিত্তি কোনো হাওয়ায় ভাসমান কাল্পনিক গল্প নহে, বরং রাষ্ট্রের দেওয়া চূড়ান্ত স্বীকৃতি। এই জমির ঐতিহাসিক চেইন অব টাইটেল (Chain of Title) সম্পূর্ণ অবিচ্ছিন্ন:
+22: 
+23: ১. **CS রেকর্ডের ভিত্তি (CS Khas):** CS ২ নং খতিয়ান (প্রদর্শনী-৩) দ্ব্যর্থহীনভাবে প্রমাণ করে যে নালিশী ভূমি মূলত ঢাকা নবাব এস্টেটের (Court of Wards) **খাস জমি** ছিল। CS রেকর্ড চলাকালীন এই জমিতে কোনো রায়ত (tenant) বা প্রজা ছিল না।
+
+
+
+--- STEP 352 ---
+<USER_REQUEST>
+তুমি epstopell and adverse infearence পয়েন্ট বাদ ফালাইছো 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-21T20:55:31+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v13.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v13.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 358 ---
+<USER_REQUEST>
+নিচেরটা পড়ো, আর তোমার ভারশনের সাথে নিচের কথাগুলোর গ্রহনযোগ্যতা যাচাই করে সংযুক্ত করো
+
+
+# জেলা জজ আদালত, টাঙ্গাইল
+## আপীল মামলা নং ৩৮/২০২৬
+### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+**হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+**বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+
+**আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক**
+
+---
+
+## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব
+
+মহামান্য আদালত,
+
+অত্র আপীল কোনো সাধারণ মুসলিম উত্তরাধিকারভিত্তিক পারিবারিক সম্পত্তির বিরোধ নহে। অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+
+**একটি finally published, statutory SA Record of Rights — যাহা সেটেলমেন্ট রেকর্ড রুমে আজও অপরিবর্তিতভাবে বহাল আছে — তাহা কি ঢাকা নবাব এস্টেটের একটি ভিত্তিহীন পত্তন দাবি, এখতিয়ারবিহী
+<truncated 45219 bytes>
+ পরিণত করে।
+
+**S.P. Chengalvaraya Naidu vs. Jagannath, AIR 1994 SC 853:**
+> *"A litigant who approaches the court is bound to produce all the documents relevant to the litigation. If he withholds a vital document in order to gain advantage on the other side then he would be guilty of playing fraud on the court. Fraud avoids all judicial acts, ecclesiastical or temporal."*
+
+**আদালতের প্রতিফলনের প্রশ্ন:** *"মহামান্য আদালত, বিবাদীপক্ষ নিজেদের দলিলে ২৩৮ নং খতিয়ানের ৬টি দাগ স্বীকার করিয়া এখন ১টি দাগের দাবি করিতেছেন; বেলুয়াকে বিক্রেতা দেখাইয়া তাহার কোনো রেকর্ডীয় স্বত্ব প্রমাণ করিতে পারেননি; দলিলে স্বামীর নাম 'সোবান' আর আরজিতে 'আব্দুল কদ্দুস'; এবং ১৯৭৫ সালে ৬ দাগের বিক্রয় ও ১৯৬৯ সালে ১ দাগের দাবি — এই সকল অসঙ্গতির পরিপ্রেক্ষিতে Evidence Act ধারা ১১৫-এর estoppel নীতিতে তাহাদের সমগ্র দাবি কি টেকসই?"*
+
+---
+
+#### (জ) Adverse Inference — বিবাদীপক্ষের নিজস্ব Certified Copy না দাখিল করা
+
+মহামান্য আদালত, বিবাদীপক্ষ দাবি করেন বিচারিক ডিক্রির মাধ্যমে এস.এ. ২৩৮ নং খতিয়ান সংশোধিত হইয
+<truncated 23310 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+
+--- STEP 365 ---
+<USER_REQUEST>
+bellow have a research you can find some othe clue
+
+
+
+### CASE 1
+
+**Case Name:** Md. Zahangir Alam and others Vs. Ziaul Haque and others
+**Citation:** 20 SCOB [2025] HCD (Serial No. 12)
+**Division:** High Court Division
+**Judge:** S M Kuddus Zaman, J
+**PDF Link:** https://supremecourt.gov.bd/resources/bulletin/20/12.%2020%20SCOB%20HCD.pdf
+
+**Keywords Found in Index:** **S.A. Khatian** (explicitly listed in the keyword field of the published index)
+
+**Full Keywords from Index:**
+> Jurisdiction of Land Survey Tribunal; Jurisdiction of Land Survey Appellate Tribunal; Adjudication on the question of title and possession by Land Survey Tribunal; **Declaration as the errors of S.A. Khatian** in a proceeding before Land Survey Tribunal
+
+**Case Type:** Civil Revision (land survey / title dispute)
+
+**Summary:**
+The opposite parties filed a suit before the Land Survey Tribunal, Chandpur, seeking a declaration that two B.S. khatians recorded in the defendants' names were unlawful, and a direction for preparation of a new khatian in their favour covering 19 decimals of land. Their claim was based on inheritance and a registered deed of gift from 1970. The defendants contended that their predecessors had lawfully acquired the entire 31 decimals through registered deeds of exchange in 1932, and that their names were duly recorded in the **S.A. khatian**, which entries were correctly carried forward into the B.S. khatians. The Land Survey Tribunal decreed in favour of the plaintiffs; the Land Survey Appellate Tribunal upheld it. On civil revision, the High Court Division held that neither the Land Survey Tribunal nor the Appellate Tribunal is a civil court, and neither has jurisdiction to adjudicate questions of title or possession — their competence is confined only to detecting errors or omissions in B.S. khatians. The Court found that by declaring the S.A. khatian erroneous and pronouncing upon title, both tribunals had exceeded their jurisdiction.
+
+**Key Ratio:**
+> The Land Survey Tribu
+<truncated 11013 bytes>
+reviewed |
+
+---
+
+## Important Research Notes
+
+1. **Scope of search:** This research covered all 40 published SCOB index pages (volumes 1–20, both AD and HCD), plus full PDF verification for the confirmed candidate cases. The index pages contain detailed keyword fields and case summaries, which were the primary filter. "Pattan," "Dhaka Nawab State," and "Dhaka Nowab State" did not appear in any published index entry or in the full PDFs verified.
+
+2. **S.A. context in these cases:** In all three SA-related cases, "S.A." refers to the **State Acquisition (SA) Survey khatian** — the land record prepared under the State Acquisition and Tenancy Act, 1950 — which is distinct from "SA" as an abbreviation for Second Appeal. These are entirely civil land title cases.
+
+3. **Kabuliyat context:** In 8 SCOB AD 4, "kabuliyat" is used in its classical tenancy law sense — a registered deed of lease/settlement from a landlord (mirasdar) to an under-raiyat, executed before State Acquisition. This is the same instrument as "kabuliyot" (variant transliteration).
+
+4. **Patta context:** In 4 SCOB HCD 52, "patta" refers to an unregistered lease deed (patta) executed in 1931 by a D.S. tenant in favour of an under-tenant — a pre-State Acquisition tenancy document of the type common in Nawab Estate and zamindar tenure settlements.
+
+5. **Dhaka Nawab/Nowab Estate reference:** While the patta case (4 SCOB HCD 52) involves the type of pre-1950 landownership structure associated with zamindars and Nawab estates, it does not specifically name "Dhaka Nawab State" or "Dhaka Nowab State." That specific entity does not appear by name in any SCOB volume published to date.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-23T23:14:32+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v14.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v14.md (LANGUAGE_MARKDOWN)
+</ADDITIONAL_METADATA>
+
+--- STEP 389 ---
+<USER_REQUEST>
+ok for next you should increase the argument version not overwrite the existing, 
+
+# SCOB Legal Research Agent
+
+## Role
+You are a legal research agent specializing in Bangladesh Supreme Court jurisprudence. Your task is to search through all 20 SCOB (Supreme Court Online Bulletin) volumes stored in the `/resources/` folder and identify civil cases containing specific land-related keywords.
+
+## Resource Location
+All 20 SCOB PDF files are located in the @[Resource]  folder with the following naming pattern:
+- 1_SCOB_2015.pdf
+- 2_SCOB_2015.pdf
+- 3_SCOB_2015.pdf
+- 4_SCOB_2015.pdf
+- 5_SCOB_2015.pdf
+- 6_SCOB_2016.pdf
+- 7_SCOB_2016.pdf
+- 8_SCOB_2016.pdf
+- 9_SCOB_2017.pdf
+- 10_SCOB_2018.pdf
+- 11_SCOB_2019.pdf
+- 12_SCOB_2019.pdf
+- 13_SCOB_2020.pdf
+- 14_SCOB_2020.pdf
+- 15_SCOB_2021.pdf
+- 16_SCOB_2022.pdf
+- 17_SCOB_2023.pdf
+- 18_SCOB_2023.pdf
+- 19_SCOB_2024.pdf
+- 20_SCOB_2025.pdf
+
+## Target Keywords to Search
+Search for the following keywords inside every PDF (case-insensitive, include partial matches):
+1. SA (as in S.A. Khatian, S.A. Plot, S.A. Record, S.A. Survey)
+2. S.A.
+3. patta
+4. pattan
+5. kabuliyot
+6. kabuliyat
+7. Dhaka Nawab State
+8. Dhaka Nowab State
+
+## Step-by-Step Instructions
+
+### Step 1 — Read Each PDF
+Open each PDF file from the `/resources/` folder one by one. Extract the full text content of each file.
+
+### Step 2 — Filter Civil Cases Only
+From the extracted text, identify only CIVIL cases. Exclude the following:
+- Criminal cases (sections 302, 304, 420 of Penal Code, Nari-O-Shishu Ain cases, narcotics, etc.)
+- Constitutional/Writ matters that are purely about service law, constitutional interpretation, or fundamental rights without a civil property/land element
+- Administrative Tribunal service matters
+- Tax/VAT/Customs/Revenue cases
+- Company law matters
+
+Include:
+- Title Suits (declaration of title, recovery of possession)
+- Civil Appeals and Civil Petitions involving land
+- Pre-emption cases
+- Partition suits
+- Land survey/record-of-rights disputes
+- Tenancy and raiyati rights cases
+- Cases under the State Acquisition and Tenancy Act, 1950
+- Cases involving diluvion, vesting, khas land
+- Family/inheritance cases involving immovable property
+
+
+then if found any logic that can help our argument improve that way, and maybe need improve argument intro, beacause its partition suit, also you can search online other case dlr,bld, or any other civil case
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-23T23:34:36+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v14.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v14.md (LANGUAGE_MARKDOWN)
+
+The user has mentioned some items in the form @[ITEM]. Here is extra information about the items that were mentioned by the user, in the order that they appear:
+
+@[Resource] is a [Directory]:
+f:\Mahfoz\Advocacy\Resource
+</ADDITIONAL_METADATA>
+
+--- STEP 390 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v14.md from lines 257 to 281
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v14.md`
+Total Lines: 302
+Total Bytes: 51450
+Showing lines 257 to 281
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+257: 
+258: **আদালতকে জিজ্ঞাসা:** বিবাদীপক্ষ কি এই পাঁচটি দলিলের মধ্যে একটিও দাখিল করিয়াছেন? না করিলে আদালত কি মনে করেন না যে Evidence Act-এর ১১৪(ছ) ধারায় এই পক্ষের বিরুদ্ধে adverse inference টানা এখন আইনি বাধ্যবাধকতা?
+259: 
+260: ---
+261: 
+262: ## তৃতীয় অংশ: প্রার্থনা
+263: 
+264: **অতএব, মহামান্য আদালতের নিকট বিনীত প্রার্থনা এই যে,**
+265: 
+266: উপরোক্ত আইনি বিশ্লেষণ, CS Khas ও SA অপারেশনের প্রকৃত ইতিহাস, ১৯৫০ সালের SAT Act-এর বিধান, বিবাদীপক্ষের Estoppel ও তাহাদের নিজস্ব দলিলের বহুস্তরীয় অসঙ্গতি, Adverse Inference-এর আইনি বাধ্যবাধকতা, এবং মহামান্য আপিল বিভাগ ও হাইকোর্টের সর্বশেষ বাধ্যতামূলক নজিরসমূহের আলোকে —
+267: 
+268: সখিপুর বিজ্ঞ সিভিল জজ আদালতের গত ০৫/০৪/২০২৬ তারি
+<truncated 116 bytes>
+রিটি সম্পূর্ণভাবে রদ ও রহিত (set aside) করিবার সদয় আদেশ দানে মর্জি হয়।
+269: 
+270: তৎসঙ্গে, এস.এ ২৩৮ নং খতিয়ানের একক রায়ত আব্দুল আলীর প্রমাণিত সম্পত্তিতে আপীল্যান্ট/বাদীপক্ষ ও ১নং রেসপন্ডেন্ট/বিবাদীর অনুকূলে তাহাদের স্ব স্ব আইনানুগ হিস্যা অনুযায়ী বাটোয়ারার প্রাথমিক ডিক্রি (Preliminary Decree) প্রদান করিতে এবং একজন অ্যাডভোকেট কমিশনার নিয়োগ করিয়া সরকারের ১ নং খাস খতিয়ানভুক্ত সম্পত্তিতে হস্তক্ষেপ না করিয়া কেবল ২৩৮ নং খতিয়ানের জমি বন্টনের নির্দেশ প্রদানে মহামান্য আদালতের সদয় মর্জি হয়।
+271: 
+272: **এবং আপিলকারীপক্ষ এই সুবিচারের জন্য চিরকৃতজ্ঞ থাকিবে।**
+273: 
+274: ---
+275: 
+276: ## চতুর্থ অংশ: আইনি নজিরসমূহ — সম্পূর্ণ তালিকা (২০টি নজির)
+277: 
+278: | ক্র. | মামলা ও রেফারেন্স | বিষয় |
+279: |---|---|---|
+280: | ১ | Harun-al-Rashid Mollah vs. Bangladesh, 12 BLC (AD) 2007, 79 | নবাব এস্টেটের পত্তন void ab initio |
+281: | ২ | **Md. Shajahan Bhuiyan vs. Md. Nurul Alam, 4 SCOB [2015] HCD 52** | অনিবন্ধিত পত্তন SAT Act-এর বলে আইনত বিলুপ্ত |
+
+
+
+--- STEP 497 ---
+<USER_REQUEST>
+আগের মডেলটি pdf পড়তে পারেনি, কিন্তু pdf পড়ার মেকানেজিম এই প্রজেক্টেই আছে, তুমি পুনয়ায় এই কাজ করো লাস্ট রেস্পন্স আগের মডেলের কার্যক্রম দেখে পুনরায় করো। 
+
+আর আউটপুট আর্গুমেন্ট শুরু থেকে রিভাইস করো, কোনো অসংগতি থাকলে ঠিক করো, প্রতিটা পয়েন্ট গুছিয়ে ঠিকঠাক করো। scob ফাইল গুলা Resource\SCOB\ ফোল্ডারে আছে রিড করে আরও রেলেভেন্সি আনো 
+
+SCOB_DIR = r"f:\Mahfoz\Advocacy\Resource\SCOB"
+OUTPUT_FILE = r"f:\Mahfoz\Advocacy\scratch\scob_keyword_results.txt"
+
+KEYWORDS = [
+    r"S\.A\.",
+    r"\bS\.A\b",
+    r"\bSA\s+khatian\b",
+    r"\bSA\s+record\b",
+    r"\bSA\s+plot\b",
+    r"\bSA\s+survey\b",
+    r"\bpatta\b",
+    r"\bpattan\b",
+    r"\bkabuliyot\b",
+    r"\bkabuliyat\b",
+    r"Dhaka\s+Nawab",
+    r"Dhaka\s+Nowab",
+    r"Nawab\s+Estate",
+    r"Nowab\s+Estate",
+    r"Court\s+of\s+Wards",
+    r"\bpartition\b",
+    r"\braiyat\b",
+    r"\braiyati\b",
+    r"State\s+Acquisition",
+    r"SAT\s+Act",
+    r"\bkhas\s+land\b",
+    r"\bkhasland\b",
+    r"\bdiluvion\b",
+    r"\bvesting\b",
+    r"\bhotchpot\b",
+    r"record\s+of\s+rights",
+    r"\btenancy\b",
+    r"\bestoppel\b",
+    r"adverse\s+inference",
+    r"section\s+144",
+    r"section\s+86",
+    r"\bpreemption\b",
+    r"pre.emption",
+]
+
+CIVIL_EXCLUDE = [
+    r"\b302\b", r"\b304\b", r"\b420\b", r"Nari.O.Shishu", r"narcotics",
+    r"Administrative\s+Tribunal", r"VAT", r"Customs\s+Duty", r"Company\s+Law",
+]
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-24T00:00:32+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\create_docx.js (LANGUAGE_JAVASCRIPT)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\create_docx.js (LANGUAGE_JAVASCRIPT)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v15.md (LANGUAGE_MARKDOWN)
+- f:\Mahfoz\Advocacy\scratch\scob_search.js (LANGUAGE_JAVASCRIPT)
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v14.md (LANGUAGE_MARKDOWN)
+Browser State:
+  Page A857D00A65C5E3BB7CEC4107559E60CE (Object not found!) - https://supremecourt.gov.bd/resources/bulletin/12/12.%2010%20SCOB%20HCD.pdf [ACTIVE]
+    Viewport: 1074x758, Page Height: 757
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from Claude Sonnet 4.6 (Thinking) to Gemini 3.1 Pro (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>
+
+--- STEP 498 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\create_docx.js from lines 1 to 37
+File Path: `file:///f:/Mahfoz/Advocacy/Output/create_docx.js`
+Total Lines: 121
+Total Bytes: 13912
+Showing lines 1 to 37
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: const fs = require('fs');
+2: const docx = require('docx');
+3: const { Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType } = docx;
+4: 
+5: const doc = new Document({
+6:     sections: [{
+7:         properties: {},
+8:         children: [
+9:             new Paragraph({
+10:                 text: "আপিল শুনানির সওয়াল-জওয়াব (Oral Argument)",
+11:                 heading: HeadingLevel.TITLE,
+12:                 alignment: AlignmentType.CENTER,
+13:             }),
+14:             new Paragraph({
+15:                 children: [
+16:                     new TextRun({
+17:                         text: "বিজ্ঞ আদালত / মাননীয় আদালত,",
+18:                         bold: true,
+19:                         size: 28,
+20:                     }),
+21:                 ],
+22:                 spacing: { before: 200, after: 100 },
+23:             }),
+24:             new Paragraph({
+25:                 text: "এটি সখিপুর সিভিল জজ আদালতের বাটোয়ারা মামলা নং ৬৬/২০১৬-এর ০৫/০৪/২০২৬ তারিখের রায়ের বিরুদ্ধে একটি আপিল শুনানি। নিম্ন আদালত মামলাটি খারিজ করে সুবিচার নিশ্চিত করতে ব্যর্থ হয়েছেন এবং আইনের গুরুতর অপপ্রয়োগ করেছ
+<truncated 245 bytes>
+26:             }),
+27:             new Paragraph({
+28:                 text: "১. বাদীর অধিকার ও স্বত্বের অকাট্য ভিত্তি (Appellant's Right Justification)",
+29:                 heading: HeadingLevel.HEADING_2,
+30:                 spacing: { before: 300, after: 100 },
+31:             }),
+32:             new Paragraph({
+33:                 text: "মাননীয় আদালত, আমার মক্কেলদের (বাদীদের) স্বত্বের ভিত্তি অত্যন্ত সুস্পষ্ট এবং অকাট্য। আমরা রেকর্ড রুম থেকে সার্টিফাইড এস.এ (SA) খতিয়ান নং ২৩৮ দাখিল করেছি, যা এককভাবে আব্দুল আলীর নামে রেকর্ডকৃত। পাশাপাশি ১৯৫৭ সালের একটি রেজিস্ট্রিকৃত দলিল উপস্থাপন করেছি। Evidence Act-এর Section 114(a) এবং State Acquisition and Tenancy Act 1950-এর Section 144A অনুযায়ী, চূড়ান্তভাবে প্রকাশিত রেকর্ড রুমের এস.এ খতিয়ানের সত্যতার একটি আইনি অনুমান (presumption of correctness) রয়েছে। আমরা এই সেরা প্রমাণ (Best Evidence) আদালতে উপস্থাপন করে আমাদের প্রাথমিক প্রমাণের দায় (Primary burden of proof) সম্পূর্ণভাবে পূরণ করেছি।",
+34:             }),
+35:             new Paragraph({
+36:                 text: "২. বিবাদীদের দাবির অসারতা ও জালিয়াতি (Expose Respondent/Defendant Inconsistencies)",
+37:                 heading: HeadingLevel.HEADING_2,
+
+
+
+--- STEP 601 ---
+<USER_REQUEST>
+নিচের কথা গুলা একজন সার্বেয়ার বলেছে, এগুলার সুত্র ধরে যাচাই করে দেখ কোনো লজিক পাও কিনা। অনলাইন সার্চ করো প্রয়োজনে। আর মুন্সইফ কোর্টের মিস কেস বিষয়েও খুজ করো, তাছারা এসএ পাবলিস হওয়ার পরে ১৯৬৯ এ গিয়ে মিস কেস দিয়ে সে সহ শরিক কিভাবে হয়?
+
+১৷ সিএস রেকর্ডে কেউ জমির মালিক ছিলো না, ছিলো প্রজা৷ মূলতঃ মালিক ছিলো জমিদার৷ 
+
+২৷ প্রজারা জমির মালিক হয়েছেন এসএ রেকর্ডের পর৷ 
+
+৩৷ প্রজারা সেসময় মৌখিক জমি ইস্তফা দিতে পারতো৷ জমিদার বা তার ম্যানেজার মৌখিক পত্তন দিলে, নতুন প্রজার নামেই এসএ রেকর্ড হয়ছে এবং নতুন প্রজার চেইন অফ ডকুমেন্টস সিএস থেকে মিলবে না৷ 
+
+৪৷ দাবী যিনি করবেন, তাকেই প্রমাণ করতে হবে৷ বিবাদীর দূর্বলতা বাদীর মামলা জয়লাভের গ্রাউন্ড নয়৷ বিবাদীর দূর্বলতা দিয়ে বাদী মামলা জয়লাভ করে না৷ বাদীকে তার মামলা প্রমাণ করতে হবে৷ 
+
+৫৷ ৮০/১০০ বছর আগের জীবিত সাক্ষীরও প্রয়োজন হবে৷ 
+
+৬৷ পাট্টা ও কবুলি
+<truncated 1072 bytes>
+প্রজা যদি আবার কাউকে জমি পত্তন দেয় তবে তাকে বলে  দর কোর্ফা।
+
+রাষ্ট্রীয় অধিগ্রহণ ও প্রজাস্বত্ব আইন অনুসারে ও ২-৪-১৯৫৬ সনের পরিপত্র অনুযায়ী ১৪-৪-১৯৫৬ সন থেকে কোর্ফা প্রথা বাতিল করা হয়েছে ও একই আইন অনুযায়ী কোর্ফা প্রজারা এস,এ রেকর্ডে সংশ্লিষ্ট জমির মালিক হিসাবে গন্য বা সরকার মালিক হিসাবে স্বীকার করে নিয়েছে।
+
+রায়ত > কোর্ফা > দরকোর্ফা যিনি প্রান্তিক ছিলেন তার নামেই SA রেকর্ড হয়েছে। প্রান্তিক রায়ত হলে তার নামে, প্রান্তিক কোর্ফা হলে তার নামে, প্রান্তিক দরকোর্ফা হলে তার নামে SA রেকর্ড হবে এবং সেই মালিক হিসাবে গণ্য।
+
+কবুলিয়ত-পাট্টা দলিলে দাতা ও গ্রহীতা উভয়ের সাক্ষর থাকবে৷
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-24T00:25:01+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md (LANGUAGE_MARKDOWN)
+Browser State:
+  Page A857D00A65C5E3BB7CEC4107559E60CE (Object not found!) - https://supremecourt.gov.bd/resources/bulletin/12/12.%2010%20SCOB%20HCD.pdf [ACTIVE]
+    Viewport: 1074x758, Page Height: 757
+</ADDITIONAL_METADATA>
+
+--- STEP 602 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md from lines 1 to 15
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v16.md`
+Total Lines: 331
+Total Bytes: 61383
+Showing lines 1 to 15
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 16 — SCOB 2025/2024/2023/2018/2016 নজির সহ SA সংশোধনের পূর্বশর্ত, Partition Suit-বিশেষ যুক্তি, Estoppel, Adverse Inference ও Void Pattan সহ সমগ্র খণ্ডন)**
+8: 
+9: ---
+10: 
+11: ## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব — বাটোয়ারা মামলার প্রকৃতি ও আপীলের ন্যায়সংগততা
+12: 
+13: মহামান্য আদালত,
+14: 
+15: **বাটোয়ারা মামলার অনন্য বৈশিষ্ট্য:** অত্র মামলাটি Partition Act, 1893 এবং CPC-এর বিধান অনুযায়ী একটি বাটোয়ারা মামলা (Partition Suit)। বাটোয়ারা মামলায় আদালতের প্রথম এবং প্রধান কাজ হইল — পক্ষগণের মধ্যে স্বত্ব ও হিস্যা নির্ধারণ করা, শুধু কারো দাবি খারিজ করা নহে। মহামান্য আপিল বিভাগ বলিয়াছেন: *"In a suit for partition all the incidental questions of title, however complicated, can be decided and finally disposed of."* (23 BLD AD 83)। অত্র মামলায় ট্রায়াল কোর্ট title-এর প্রশ্নে চূড়ান্ত রায় না দিয়া কেবল procedural grounds-এ মামলা খারিজ করিয়াছেন — যাহা partition suit-এর মূল আইনি উদ্দেশ্যের পরিপন্থী।
+
+
+
+--- STEP 614 ---
+<USER_REQUEST>
+না সার্ভেয়ারের সাথে জাস্ট আলাপ আমি করেছি ধারনা নিতে, 
+
+৯৫০ সালের রাষ্ট্রীয় অধিগ্রহণ ও প্রজাস্বত্ব আইন (SAT Act) যখন কার্যকর হয় এবং জমিদারি প্রথা বিলুপ্ত হয়, তখন এই হোল্ডিং ওভার মূলে থাকা বৈধ উপ-প্রজারা (বিবাদী পক্ষ) স্বয়ংক্রিয়ভাবে সরাসরি সরকারের অধীনে করদ প্রজা (Tenants directly under the Government) হিসেবে রূপান্তরিত হয়ে যায় । ফলে জমিদারের (বাদী) আর এই জমি ফেরত পাওয়ার কোনো আইনগত অধিকার থাকে না ।  
+
+আচ্ছা সার্ভেয়ার কথার সুত্র ধরে রিসোর্স আমাদের পক্ষে যায় তা যুক্ত করে মুন্সেফ কোর্টের পয়েন্ট সহ হাইলাইট করে নতুন ভারসন বানাও
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-24T00:35:46+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md (LANGUAGE_MARKDOWN)
+Browser State:
+  Page A857D00A65C5E3BB7CEC4107559E60CE (Object not found!) - https://supremecourt.gov.bd/resources/bulletin/12/12.%2010%20SCOB%20HCD.pdf [ACTIVE]
+    Viewport: 1074x758, Page Height: 757
+</ADDITIONAL_METADATA>
+
+--- STEP 615 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md from lines 1 to 22
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v16.md`
+Total Lines: 331
+Total Bytes: 61383
+Showing lines 1 to 22
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 16 — SCOB 2025/2024/2023/2018/2016 নজির সহ SA সংশোধনের পূর্বশর্ত, Partition Suit-বিশেষ যুক্তি, Estoppel, Adverse Inference ও Void Pattan সহ সমগ্র খণ্ডন)**
+8: 
+9: ---
+10: 
+11: ## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব — বাটোয়ারা মামলার প্রকৃতি ও আপীলের ন্যায়সংগততা
+12: 
+13: মহামান্য আদালত,
+14: 
+15: **বাটোয়ারা মামল
+<truncated 285 bytes>
+লায় আদালতের প্রথম এবং প্রধান কাজ হইল — পক্ষগণের মধ্যে স্বত্ব ও হিস্যা নির্ধারণ করা, শুধু কারো দাবি খারিজ করা নহে। মহামান্য আপিল বিভাগ বলিয়াছেন: *"In a suit for partition all the incidental questions of title, however complicated, can be decided and finally disposed of."* (23 BLD AD 83)। অত্র মামলায় ট্রায়াল কোর্ট title-এর প্রশ্নে চূড়ান্ত রায় না দিয়া কেবল procedural grounds-এ মামলা খারিজ করিয়াছেন — যাহা partition suit-এর মূল আইনি উদ্দেশ্যের পরিপন্থী।
+16: 
+17: অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+18: 
+19: **একটি finally published, statutory SA Record of Rights — যাহা সেটেলমেন্ট রেকর্ড রুমে আজও অপরিবর্তিতভাবে বহাল আছে — তাহা কি ঢাকা নবাব এস্টেটের একটি ভিত্তিহীন পত্তন দাবি, এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমা, AC Land অফিসের ভলিউমে ভিন্ন কালিতে লেখা একটি অনিয়মজাত নোট — এই তিনটি ভিত্তিহীন দাবি দ্বারা আইনত displaced হইতে পারে?**
+20: 
+21: বাদীপক্ষের বিনীত উত্তর — পারে না, এবং আইনের আলোকে পারা সম্ভব নহে।
+22: 
+
+
+
+--- STEP 630 ---
+<USER_REQUEST>
+নিচের ড্রাফট ভালোভাবে পড়ো, কিছু ইউনিক বিষয় আছে, আরেকটা বিষয়
+
+# জেলা জজ আদালত, টাঙ্গাইল
+## আপীল মামলা নং ৩৮/২০২৬
+### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+**হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+**বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+
+**আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক — সমগ্র SCOB, আপিল বিভাগ ও হাইকোর্টের নজির, SA সংশোধনের পূর্বশর্ত, Partition Suit-বিশেষ যুক্তি, Estoppel, Adverse Inference ও Void Pattan সহ পরিমার্জিত সংস্করণ**
+
+---
+
+## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব
+
+মহামান্য আদালত,
+
+**বাটোয়ারা মামলার অনন্য বৈশিষ্ট্য:** অত্র মামলাটি Partition Act, 1893 এবং CPC-এর বিধান অনুযায়ী একটি বাটোয়ারা মামলা। বাটোয়ারা মামলায় আদালতের প্রথম এবং প্রধান কাজ হইল — পক্ষগণের মধ্যে স্বত্ব ও হিস্য
+<truncated 45214 bytes>
+nheritance chain কোথা থেকে শুরু?** | CS খতিয়ান দেখাইতেছে এই জমি নবাব এস্টেটের খাস — কোনো রায়ত ছিল না। SAT Act-এর পর আব্দুল আলী প্রথম রায়ত হিসেবে স্বীকৃতি পাইয়াছেন। Inheritance chain আব্দুল আলী থেকে শুরু — পূর্বপুরুষ থেকে নহে। |
+| **রেকর্ড রুমের certified copy না দেওয়ার কারণ কী?** | কারণ একটাই — সেই কপি দাখিল করিলে প্রমাণিত হইত রেকর্ড রুমে সোনাভানুর কোনো নাম নাই। AIR 1968 SC 1413 ও Evidence Act ১১৪(গ) — adverse inference বাধ্যতামূলক। |
+| **১০১৪, ৮৮৫, ৩৪০ শতাংশ — এগুলো মিলছে না কেন?** | তিনটি ভিন্ন বিষয়। ১০১৪ = সকল দাগের gross total। ৮৮৫ = আব্দুল আলীর প্রকৃত মালিকানার অংশ। ৩৪০ = শুধুমাত্র ১২৫৯ দাগে আব্দুল আলীর অংশ (৪৭৭ থেকে সরকারের ১৩৭ বাদে)। তিনটি পরস্পর সামঞ্জস্যপূর্ণ। |
+
+---
+
+## পঞ্চম অংশ: নজিরসমূহের সম্পূর্ণ তালিকা (২৯টি নজির)
+
+| ক্র. | মামলা ও রেফারেন্স | বিষয় |
+|---|---|---|
+| ১ | Harun-al-Rashid Mollah vs. Bangladesh, 12 BLC (AD) 2007, 79 | নবাব এস্ট
+<truncated 8714 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+
+--- STEP 631 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v16.md from lines 1 to 22
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v16.md`
+Total Lines: 331
+Total Bytes: 61383
+Showing lines 1 to 22
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: # জেলা জজ আদালত, টাঙ্গাইল
+2: ## আপীল মামলা নং ৩৮/২০২৬
+3: ### বাটোয়ারা মামলা নং ৬৬/২০১৬, সখিপুর সিভিল জজ আদালত হইতে উদ্ভূত
+4: **হাতেম আলী ও অন্যান্য (আপীল্যান্ট/বাদী) বনাম আলহাজ উদ্দিন ও অন্যান্য (রেসপন্ডেন্ট/বিবাদী)**
+5: **বিষয়: সখিপুর সিভিল জজ আদালতের ০৫/০৪/২০২৬ তারিখের রায় ও ০৯/০৪/২০২৬ তারিখের ডিক্রি খারিজের আবেদন।**
+6: 
+7: **আপীল্যান্টপক্ষের চূড়ান্ত লিখিত যুক্তিতর্ক (Version 16 — SCOB 2025/2024/2023/2018/2016 নজির সহ SA সংশোধনের পূর্বশর্ত, Partition Suit-বিশেষ যুক্তি, Estoppel, Adverse Inference ও Void Pattan সহ সমগ্র খণ্ডন)**
+8: 
+9: ---
+10: 
+11: ## প্রারম্ভিক বক্তব্য ও মূল তত্ত্ব — বাটোয়ারা মামলার প্রকৃতি ও আপীলের ন্যায়সংগততা
+12: 
+13: মহামান্য আদালত,
+14: 
+15: **বাটোয়ারা মামল
+<truncated 285 bytes>
+লায় আদালতের প্রথম এবং প্রধান কাজ হইল — পক্ষগণের মধ্যে স্বত্ব ও হিস্যা নির্ধারণ করা, শুধু কারো দাবি খারিজ করা নহে। মহামান্য আপিল বিভাগ বলিয়াছেন: *"In a suit for partition all the incidental questions of title, however complicated, can be decided and finally disposed of."* (23 BLD AD 83)। অত্র মামলায় ট্রায়াল কোর্ট title-এর প্রশ্নে চূড়ান্ত রায় না দিয়া কেবল procedural grounds-এ মামলা খারিজ করিয়াছেন — যাহা partition suit-এর মূল আইনি উদ্দেশ্যের পরিপন্থী।
+16: 
+17: অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+18: 
+19: **একটি finally published, statutory SA Record of Rights — যাহা সেটেলমেন্ট রেকর্ড রুমে আজও অপরিবর্তিতভাবে বহাল আছে — তাহা কি ঢাকা নবাব এস্টেটের একটি ভিত্তিহীন পত্তন দাবি, এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমা, AC Land অফিসের ভলিউমে ভিন্ন কালিতে লেখা একটি অনিয়মজাত নোট — এই তিনটি ভিত্তিহীন দাবি দ্বারা আইনত displaced হইতে পারে?**
+20: 
+21: বাদীপক্ষের বিনীত উত্তর — পারে না, এবং আইনের আলোকে পারা সম্ভব নহে।
+22: 
+
+
+
+--- STEP 649 ---
+<USER_REQUEST>
+এই পয়েন্ট ও তো ভালো যদিও নতি স্বীকার আছে তুমি নতি স্বীকার না করে যুক্ত করতে পারো, তুমি আবারও আমার আগের মেসেজে দেয়া ড্রাফট পরে আরও পয়েন্ট ভাষা, গুছানো স্টেপ, আর মুন্সেফ কোর্ট এসএ খতিয়ানে মিসকেস দ্বারা পারেনা, দীর্ঘ আর
+
+তৃতীয় অংশ: এই মামলায় সবচেয়ে সহজ ও ন্যায়সংগত সমাধানের পথ
+মহামান্য আদালত, এই মামলায় একটি গুরুত্বপূর্ণ বিষয় বিবেচনার দাবি রাখে।
+মামলার মূল দ্বন্দ্বের Pivot: সমগ্র মামলার কেন্দ্রবিন্দু একটিমাত্র প্রশ্নে — প্রতিদ্বন্দ্বী বিবাদীগণ কি এস.এ. ২৩৮ নং খতিয়ানের statutory presumption আইনসম্মতভাবে rebut করিতে পারিয়াছেন?
+যদি উত্তর "না" হয় — এস.এ. ২৩৮ নং খতিয়ানের রেকর্ডীয় মালিকের সকল উত্তরসূরী — আপীল্যান্ট বাদীপক্ষ এবং ১নং রেসপন্ডেন্ট সোলায়মান হোসেন — বর্তমানে সকল বিবেদ ভুলিয়া বাটোয়ারায় সম্মত। এই অবস্থায় হচপট বা non-joinder-এর প্রশ্ন সম্পূর্ণ অপ্রাসঙ্গিক। আদালত কমিশনার নি
+<truncated 355 bytes>
+ বন্টন সম্ভব কিনা।
+যদি উত্তর "হ্যাঁ" হয় — প্রতিদ্বন্দ্বী বিবাদীগণ সহশরিক হিসেবে স্বীকৃত হইলে মামলাটি সেই অনুযায়ী পরিচালিত হইতে পারে।
+উভয় ক্ষেত্রেই মামলা খারিজ হইবার কোনো সুযোগ নাই। বিচার বিভাগের সুমহান উদ্দেশ্য হইল বিচারপ্রার্থীদের সহজ ও কার্যকর পথে প্রতিকার প্রদান করা। সমগ্র সি.এস. খতিয়ান বা নানা সুবিশাল সম্পত্তি আনা হইলে বিষয়টি কেবল জটিল হইবে — যাহা দীর্ঘকাল ধরিয়া অমীমাংসিত থাকিয়া প্রকৃত স্বত্বাধিকারীদের বঞ্চিত করিতে থাকিবে।
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-24T00:59:19+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v18.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 25
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v18.md (LANGUAGE_MARKDOWN)
+Browser State:
+  Page A857D00A65C5E3BB7CEC4107559E60CE (Object not found!) - https://supremecourt.gov.bd/resources/bulletin/12/12.%2010%20SCOB%20HCD.pdf [ACTIVE]
+    Viewport: 1074x758, Page Height: 757
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from Gemini 3.1 Pro (High) to Gemini 3.5 Flash (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>
+
+--- STEP 650 ---
+The USER performed the following action:
+Show the contents of file f:\Mahfoz\Advocacy\Output\appellate_argument_v18.md from lines 15 to 19
+File Path: `file:///f:/Mahfoz/Advocacy/Output/appellate_argument_v18.md`
+Total Lines: 345
+Total Bytes: 66508
+Showing lines 15 to 19
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+15: **বাটোয়ারা মামলার অনন্য বৈশিষ্ট্য:** অত্র মামলাটি Partition Act, 1893 এবং CPC-এর বিধান অনুযায়ী একটি বাটোয়ারা মামলা (Partition Suit)। বাটোয়ারা মামলায় আদালতের প্রথম এবং প্রধান কাজ হইল — পক্ষগণের মধ্যে স্বত্ব ও হিস্যা নির্ধারণ করা, শুধু কারো দাবি খারিজ করা নহে। মহামান্য আপিল বিভাগ বলিয়াছেন: *"In a suit for partition all the incidental questions of title, however complicated, can be decided and finally disposed of."* (23 BLD AD 83)। অত্র মামলায় ট্রায়াল কোর্ট title-এর প্রশ্নে চূড়ান্ত রায় না দিয়া কেবল procedural grounds-এ মামলা খারিজ করিয়াছেন — যাহা partition suit-এর মূল আইনি উদ্দেশ্যের পরিপন্থী।
+16: 
+17: অত্র আপীলের একমাত্র নির্ণায়ক প্রশ্ন হইল —
+18: 
+19: **একটি finally published, statutory SA Record of Rights — যাহা সেটেলমেন্ট রেকর্ড রুমে আজও অপরিবর্তিতভাবে বহাল আছে — তাহা কি ঢাকা নবাব এস্টেটের একটি ভিত্তিহীন পত্তন দাবি, এখতিয়ারবিহীন মুনসেফ কোর্টের একটি অপ্রমাণিত মিস মোকদ্দমা, এবং AC Land সখিপুর অফিসের ভলিউমে ভিন্ন কালিতে লেখা একটি অনিয়মজাত নোট — এই তিনটি ভিত্তিহীন দাবি দ্বারা আইনত displaced হইতে পারে?**
+
+
+

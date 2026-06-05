@@ -3,14 +3,17 @@
 
 !Resource/
 !Output/
+!scratch/
 
 */*
 !Resource/**
 !Output/**
+!scratch/**
 
 # Re-ignore node_modules
 Output/node_modules/
 node_modules/
+scratch/node_modules/
 
 !.gitignore
 !README.md
