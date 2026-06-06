@@ -31,365 +31,399 @@
 
 ---
 
-## Enhanced Chain of Title Diagram
+## Enhanced Chain of Title - Simple Text Version
 
 ```
-OWNERSHIP PROOF STRUCTURE (Abdul Ali)
-═════════════════════════════════════════════════════════════════════════════════
+OWNERSHIP CHAIN - ABDUL ALI
+═════════════════════════════════════════════════════════════════
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  FOUNDATIONAL LAYER: CS KHATIAN 2 (Dhaka Nawab Estate Historical Record)    │
-│  Status: Original Estate holding document                                   │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                    ↓
-┌───────────────���─────────────────────────────────────────────────────────────┐
-│  PATTA LAYER 1 (1357 BN / 1950-51): DAG 1259, 340 SQ METERS                │
-│  Holder: Abdul Ali                                                          │
-│  Authority: Nawab Estate (Pre-Acquisition Recognition)                      │
-│  Legal Significance: Documentary proof of tenancy status                    │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                    ↓
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  PATTA LAYER 2 (1357 BN / 1950-51): DAG 433, OTHER PROPERTIES              │
-│  Holder: Abdul Ali                                                          │
-│  Authority: Nawab Estate (Pre-Acquisition Recognition)                      │
-│  Legal Significance: Extended landholding documentation                     │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                    ↓
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  SETTLEMENT SURVEY LAYER: SA 238 KHATIAN (1952)                             │
-│  ★★★ CRITICAL DOCUMENT ★★★                                                 │
-│  Published Owner: Abdul Ali (Sole Rayat)                                    │
-│  Dags Recorded: 1259 (340 sq) & Related holdings                            │
-│  Authority: Government Settlement Officer under SAT Act §144A              │
-│  Status: ✓ FINAL PUBLISHED ✓ PRESUMPTION OF CORRECTNESS                    │
-│  Location: Settlement Record Room (DC Record Room, Tangail)                 │
-│  Modification Status: UNCHANGED FOR 50+ YEARS                               │
-│  Legal Weight: HIGHEST - Statutory presumption per 50 DLR 186              │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                    ↓
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  DOCUMENTARY TRANSACTION LAYER: 1957 PURCHASE DEED NO. 2398                 │
-│  Seller: Nawab Estate (through Estate officials)                            │
-│  Buyer: Abdul Ali Sheikh                                                    │
-│  Properties: Dags 1259 (340 sq) covered under deed consideration            │
-│  Timestamp: AFTER State Acquisition (1957)                                  │
-│  Legal Significance: Formalized proprietary transaction                     │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                    ↓
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  STATE SUCCESSION LAYER: 1957 ESTATE ACQUISITION                            │
-│  Former Owner: Dhaka Nawab Estate (Abolished)                               │
-│  New Owner: State of Bangladesh                                             │
-│  Record Status: SA 238 RECOGNIZED & PRESERVED                               │
-│  Abdul Ali's Status: PROTECTED by State recognition of SA 238               │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                    ↓
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  INHERITANCE LAYER: SOLENAMA SUCCESSION                                     │
-│  Original Owner: Abdul Ali                                                  │
-│  Direct Heirs: Hatem Ali & others (Plaintiffs) + Defendant 1               │
-│  Document: Solenama Entry (Documented Succession)                           │
-│  Legal Status: VALID INHERITANCE per succession laws                        │
-└─────────────────────────────────────────────────────────────────────────────┘
+LAYER 1: CS KHATIAN 2
+Original Estate Record → Dhaka Nawab Estate
 
-RESULT: UNBROKEN 7-LAYER OWNERSHIP CHAIN
-═════════════════════════════════════════════════════════════════════════════════
+        ↓↓↓
+
+LAYER 2: PATTA 1357 BANGLA
+Patta for Dag 1259 (340 sq meters) → Abdul Ali
+Patta for Dag 433 (Other properties) → Abdul Ali
+
+        ↓↓↓
+
+LAYER 3: SA 238 KHATIAN (1952)
+Published by Government Settlement Officer
+Recorded Owner: ABDUL ALI (Sole Rayat)
+Location: DC Record Room, Tangail
+Status: FINAL PUBLISHED - UNCHANGED 50+ YEARS
+
+        ↓↓↓
+
+LAYER 4: PURCHASE DEED 1957
+Deed No. 2398
+Seller: Nawab Estate
+Buyer: Abdul Ali Sheikh
+Property: Dags 1259 (340 sq) + others
+Status: COMPLETED TRANSACTION
+
+        ↓↓↓
+
+LAYER 5: STATE ACQUISITION (1957)
+Dhaka Nawab Estate dissolved
+State of Bangladesh becomes successor
+SA 238 Record recognized & preserved
+
+        ↓↓↓
+
+LAYER 6: DIRECT INHERITANCE (SOLENAMA)
+Abdul Ali (deceased) → Direct Heirs
+Plaintiffs: Hatem Ali & others
+Defendant 1: Co-heir
+
+        ↓↓↓
+
+RESULT: UNBROKEN 6-STEP OWNERSHIP CHAIN
+Abdul Ali → Plaintiffs & Defendant 1
+
+═════════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## Defendants' Counter-Claims: CONTRADICTED AT EVERY LEVEL
+## What Defendants Claim vs What Evidence Shows
 
-### **Claim 1: Unregistered 1934 Patta**
-| Pillar | Status | Legal Problem |
-|--------|--------|---------------|
-| Registration | ✗ MISSING | Registration Act 1908 requires registration for >1 year tenure |
-| Estate Approval | ✗ ABSENT | No Chief Manager signature (Harun-al-Rashid v. Bangladesh, 12 BLC AD 79) |
-| Abdul Ali's Pattas | ✓ EXIST | Abdul Ali has 1357 BN pattas—contradicts "Abdul Karim" ownership |
-| SA Record | ✓ SHOWS Abdul Ali | SA 238 names Abdul Ali, not Abdul Karim |
-| **Legal Effect** | VOID AB INITIO | Extinguished by State Acquisition (4 SCOB 2015 HCD 52) |
+### **CLAIM 1: Unregistered 1934 Patta for Abdul Karim**
 
-### **Claim 2: Misc Case No. 1181/1969 (Alleged Title Amendment)**
-| Required Element | Status | Problem |
-|------------------|--------|---------|
-| Judgment Copy | ✗ NONE | Defendants cannot produce |
-| Order/Decree | ✗ NONE | Defendants cannot produce |
-| Case Record | ✗ NONE | Defendants cannot produce |
-| Certified Copy | ✗ NONE | Defendants cannot produce |
-| Register Entry | ✗ NONE | Not in Register of Alterations |
-| **Legal Standing** | VOID | Cannot adjudicate title (CPC §2(2), SRA §42) |
-| **Notification** | VOID | No notice to Abdul Ali = ultra vires (7 SCOB 2016 HCD 135) |
-
-### **Claim 3: AC Land Volume Note (Different Ink Entry)**
-| Factor | Status | Finding |
-|--------|--------|---------|
-| Original Record | SA 238 = Abdul Ali | Government's primary official record |
-| Volume Note | Sona Bhanu (manual) | Secondary administrative notation |
-| Mutation Application | ✗ NONE FILED | No formal application record |
-| Owner Notification | ✗ NO | Abdul Ali was never notified |
-| Tahsildar Investigation | ✗ NOT DONE | No field inspection documented |
-| AC Formal Order | ✗ UNSIGNED | No authorized directive |
-| District Record Amendment | ✗ NOT EXECUTED | Record Room copy unchanged |
-| Register Entry | ✗ ABSENT | No alteration register entry |
-| **Legal Weight** | SECONDARY | No presumptive value per 53 DLR 19 |
-| **Practical Test** | FAILS | If valid, why keep original unchanged 50 years? |
+| Question | Defendants' Answer | Reality | Problem |
+|----------|-------------------|---------|---------|
+| Who is Abdul Karim? | Abdul Ali's predecessor | NOT in any government record | Unproven claim |
+| Where is 1934 patta? | They can't produce it | Abdul Ali HAS 1357 BN pattas | No 1934 documentation |
+| Is it registered? | They won't say | Registration Act 1908 requires it | VOID if unregistered |
+| Who approves it? | Estate manager approved | No signature or approval found | No Estate endorsement |
+| **Result** | Claims it exists | Nothing to prove it | **FAILS** |
 
 ---
 
-## Abdul Ali's Documentation Hierarchy (Strongest to Weakest)
+### **CLAIM 2: Misc Case 1181/1969 (Alleged Title Change)**
 
-### **TIER 1: UNASSAILABLE (State-Recognized)**
-```
-1. SA 238 Khatian (1952)
-   ↳ Published under SAT Act §144A
-   ↳ Presumption of correctness (statutory)
-   ↳ Unchanged in Record Room 50+ years
-   ↳ Defendants' challenge = extraordinary burden
-```
-
-### **TIER 2: STRONGLY SUPPORTIVE**
-```
-2. Two Pattas (1357 BN / 1950-51)
-   ↳ Dag 1259 (340 sq meters)
-   ↳ Dag 433 (other properties)
-   ↳ Pre-Survey recognition by Estate
-   ↳ Direct documentary evidence
-```
-
-### **TIER 3: CONFIRMATORY**
-```
-3. 1957 Purchase Deed No. 2398
-   ↳ Formal property transaction
-   ↳ Post-State-Acquisition timing
-   ↳ Shows proprietary interest completion
-```
-
-### **TIER 4: DERIVATIVE (Flows from Above)**
-```
-4. Solenama Entry (Inheritance)
-   ↳ Valid succession from Abdul Ali
-   ↳ Plaintiffs as direct heirs
-   ↳ Defendant 1 as co-heir
-```
+| Required | Defendants Have It? | Can They Show It? | Legal Problem |
+|----------|-------------------|-------------------|---------------|
+| Judgment | NO | NO | Misc case cannot decide title (CPC §2) |
+| Decree | NO | NO | Must come from full suit, not misc case |
+| Certified Copy | NO | NO | Should exist if valid |
+| Case Record | NO | NO | No file in courts |
+| Register Entry | NO | NO | No alteration record exists |
+| Notice to Abdul Ali | NO | NO | Without notice, it's void (7 SCOB 2016) |
+| **Conclusion** | **ZERO OUT OF 6** | **Cannot produce anything** | **GHOST CASE** |
 
 ---
 
-## Critical Legal Foundations
+### **CLAIM 3: AC Land Volume Note (Different Ink Entry)**
 
-### **SA 238 Khatian Cannot Be Overturned Without Meeting Extraordinary Standard**
-
-> **Dayal Chandra Mondal v. Asst. Custodian, 50 DLR 186**:
-> *"A record of rights finally published and revised under section 144A of the S.A.T. Act has a presumption of correctness and that presumption cannot be lightly displaced."*
-
-> **Nurul Islam v. Asst. Settlement Officer, 5 SCOB (2015) AD 89**:
-> *"Once a SA Khatian is finally published, it is conclusively presumed to be correct. The burden on any challenger is extraordinarily high."*
-
-### **Defendants Cannot Meet This Burden**
-
-| Requirement | Defendants Have? | Evidence? |
-|-------------|-----------------|-----------|
-| Valid title document (pre-1934 patta) | ✗ NO | Only oral claim |
-| Registration proof | ✗ NO | Never registered |
-| Estate approval documentation | ✗ NO | Never provided |
-| Misc Case judgment | ✗ NO | "Ghost case"—no records |
-| Certified modification copy | ✗ NO | Record Room shows no change |
-| Register of Alterations entry | ✗ NO | Non-existent |
-| **CONCLUSION** | ✗ FAILS | Cannot displace SA 238 |
+| Factor | What It Is | What It Should Be | Problem |
+|--------|-----------|------------------|---------|
+| Original Record | SA 238 = Abdul Ali | PRIMARY official record | **This controls** |
+| Volume Note | Sona Bhanu (manual) | SECONDARY notation only | **This doesn't control** |
+| How Changed? | Manual entry, different ink | Formal mutation application needed | **No formal process** |
+| Who Notified? | Nobody | Abdul Ali should get notice | **No notification** |
+| Tahsildar Checked? | NO | YES required | **Not verified** |
+| AC Signed Order? | NO | YES required | **No authority document** |
+| District Record Updated? | NO | YES required | **Original unchanged** |
+| Register Altered? | NO | YES required | **No alteration entry** |
+| **Legal Status** | Invalid entry | Would be valid if done properly | **Invalid** |
 
 ---
 
-## Defendants' Own 1975 Deed (Destroys Their Case)
+## Abdul Ali's Documentation - Ranked by Strength
 
-### **The Fatal Contradiction**
+### **RANK 1: UNBEATABLE**
+**SA 238 Khatian (1952)**
+- Published by Government
+- Under SAT Act §144A
+- Presumed correct by law (50 DLR 186)
+- In Record Room 50+ years
+- Unchanged
 
-**Defendants' Claim in Current Appeal:**
-- Sona Bhanu owns 1 plot (Dag 1259) per alleged 1969 modification
-
-**Defendants' Own 1975 Deed No. 3596:**
-- Sona Bhanu listed as owner of **6 PLOTS**
-- Describes **SIX separate holdings**
-
-### **What This Proves**
-
-```
-Timeline:
-═════════
-1952: SA 238 published → Abdul Ali (Sole Rayat, Dags 1259, 433, etc.)
-1957: Abdul Ali's deed confirms holdings
-1969: Alleged "Misc Case" claimed to transfer title to Sona Bhanu (UNPROVEN)
-1975: Defendants' OWN deed → Shows Sona Bhanu with 6 PLOTS (NOT 1!)
-2026: Current appeal → Defendants now claim only 1 plot per 1969 order (CONTRADICTORY!)
-```
-
-### **Legal Effect**
-
-| Principle | Application |
-|-----------|-------------|
-| **Estoppel** | Defendants cannot contradict their own 1975 authenticated deed |
-| **Adverse Inference** | Court draws negative conclusion about 1969 alleged modification |
-| **Evidence Act §114(g)** | Unexplained inconsistency damages their credibility |
-| **Evidence Act §115** | Party cannot accept 6 plots in 1975 then claim 1 plot in 2026 |
+**Why Unbeatable?**
+- Only plaintiffs needed to show this
+- Defendants must prove it WRONG
+- Defendants cannot produce any government record that changes it
+- Burden on defendants is "extraordinarily high"
 
 ---
 
-## Trial Court's Core Error
+### **RANK 2: VERY STRONG**
+**Two Pattas (1357 Bangla)**
+- Dag 1259 (340 sq meters) - Abdul Ali
+- Dag 433 (other properties) - Abdul Ali
+- Issued by Estate directly
+- Pre-dates SA 238 Survey
 
-### **Error: Burden Reversal**
+**Why Very Strong?**
+- Shows Abdul Ali recognized BEFORE survey
+- Estate itself acknowledged him as holder
+- Two different pattas = two different properties
+- Matches SA 238 exactly
 
-The trial court required **Plaintiffs to disprove** an unproven claim.
+---
 
-**What Should Have Happened:**
+### **RANK 3: CONFIRMATORY**
+**1957 Purchase Deed No. 2398**
+- Abdul Ali as buyer
+- Estate as seller
+- Money paid
+- Formal transaction
+
+**Why Confirmatory?**
+- Shows Abdul Ali's ownership completed
+- Done AFTER state took over estate
+- State allowed the transaction = State recognized his rights
+
+---
+
+### **RANK 4: DIRECT RESULT**
+**Solenama (Inheritance)**
+- Abdul Ali's heirs = Plaintiffs + Defendant 1
+- Flows from ranks 1-3 above
+- Valid under succession law
+
+**Why Direct Result?**
+- Cannot happen unless Abdul Ali was the owner first
+
+---
+
+## The Fatal Problem for Defendants
+
+### **Their Own 1975 Deed Contradicts Their Appeal**
 
 ```
-CORRECT BURDEN DISTRIBUTION
-═════════════════════════════════════════════════════════════════════════════
+DEFENDANTS' POSITION OVER TIME:
+════════════════════════════════════════════════════════════════
 
-STAGE 1: Plaintiffs' Initial Burden
-✓ Present SA 238 Khatian (Abdul Ali as Rayat)
-✓ Show pattas (1357 BN evidence)
-✓ Show deed (1957 transaction)
-✓ Show inheritance (Solenama)
-✓ BURDEN DISCHARGED
+1952 (SA 238 Published):
+→ Court record shows: Abdul Ali owns the property
 
-STAGE 2: Defendants' Rebuttal Burden
-✗ Must prove Misc Case No. 1181/1969 existed
-✗ Must produce judgment/decree/certified copy
-✗ Must show Register of Alterations entry
-✗ Must show Record Room notification
-✗ BURDEN UNMET (Cannot produce any document)
+1969 (Alleged Misc Case):
+→ Defendants claim: Title transferred to Sona Bhanu
+→ Defendants' proof: NONE (ghost case)
 
-LEGAL RESULT: SA 238 Stands; Defendants Lose
-```
+1975 (Deed No. 3596 - THEIR OWN DOCUMENT):
+→ Their deed shows: Sona Bhanu owns 6 PLOTS
+→ Not 1 plot, but SIX plots!
 
-**What Trial Court Actually Did:**
+2026 (Current Appeal):
+→ Defendants now claim: Sona Bhanu owns 1 plot (Dag 1259)
+→ Based on: Alleged 1969 Misc Case
 
-```
-INCORRECT BURDEN APPLICATION
-═════════════════════════════════════════════════════════════════════════════
+THE PROBLEM:
+════════════════════════════════════════════════════════════════
+1975 deed says: 6 plots
+2026 appeal says: 1 plot (per 1969 order)
 
-STAGE 1: Plaintiffs Prove SA 238
-✓ Successfully presented evidence
+WHICH IS TRUE?
+- If 1969 order was valid → Only 1 plot should be in their hands
+- But 1975 deed shows 6 plots
+- This means 1969 order was NOT valid or was NOT executed
 
-STAGE 2: Trial Court Reversal
-✗ Told Plaintiffs: "Now disprove the alleged Misc Case"
-✗ Defendants never had to prove Misc Case existed
-✗ Result: Plaintiffs punished for defendants' inability to produce documents
-
-LEGAL ERROR: Violated Evidence Act §103 & established case law
+Result: Defendants destroyed their own case with their own 1975 deed!
 ```
 
 ---
 
-## Four Unanswered Questions That Destroy Defendants' Case
+## Question-Based Proof (Four Questions Defendants Cannot Answer)
 
-### **Question 1: Record Room Mystery**
-> If Misc Case 1181/1969 validly modified SA 238, **why is the original SA 238 in Record Room still unchanged after 50+ years?**
+### **Q1: Why is SA 238 Still Unchanged?**
 
-**Legal Standard**: Government must implement formal amendments in official records (7 SCOB 2016 HCD 135)
+**Defendants claim**: 1969 Misc Case transferred the property
 
-**Fact**: No such implementation exists
+**If this is true, then**:
+- Record Room should have new SA 238 with Sona Bhanu's name
+- Original should be marked as superseded
 
-**Implication**: Misc Case, if it existed, never took legal effect
+**Reality**:
+- Original SA 238 with Abdul Ali's name still sits in Record Room
+- No replacement exists
+- No notation of amendment
 
----
-
-### **Question 2: Register of Alterations**
-> If SA 238 was amended in 1969, **why is there no entry in the official Register of Alterations?**
-
-**Legal Requirement**: SAT Act §144A amendments must be recorded (SAT Act manual provisions)
-
-**Fact**: No such entry
-
-**Implication**: No valid amendment ever occurred per statutory procedure
+**What this proves**:
+- 1969 case (if it existed) never took legal effect
+- Government never processed any change
+- SA 238 remains the binding record
 
 ---
 
-### **Question 3: Certified Copy**
-> If Sona Bhanu became owner via Misc Case 1969, **where is her certified copy of the modified Khatian?**
+### **Q2: Why is Register of Alterations Empty?**
 
-**Legal Standard**: Modified records must be issued to affected party (standard administrative practice)
+**Defendants claim**: SA 238 was modified in 1969
 
-**Fact**: No such copy produced by defendants
+**If this is true, then**:
+- Every amendment to SA records is logged in "Register of Alterations"
+- This register would show the 1969 change
 
-**Implication**: Defendants never possessed title documents proving ownership
+**Reality**:
+- No entry exists in this register
+- It's a statutory requirement (SAT Act manual)
+- Defendants have never shown this entry
 
----
-
-### **Question 4: The Name Discrepancy**
-> Alleged 1969 modification was for **Sona Bhanu** (per defendants' theory)
-
-> Yet SA 238 and pattas all show **Abdul Ali**
-
-> **Where did Sona Bhanu appear in any official record before the manual AC volume note (different ink)?**
-
-**Implication**: Sona Bhanu's claim traces only to unverified AC volume note, not to any valid legal procedure
+**What this proves**:
+- No legal amendment procedure was followed
+- A valid change REQUIRES this entry
+- Without it, the change never happened officially
 
 ---
 
-## Strength Assessment Matrix
+### **Q3: Where is the Certified Copy for Sona Bhanu?**
 
-| Evidence Layer | Abdul Ali (Plaintiffs) | Sona Bhanu (Defendants) | Winner |
-|---|---|---|---|
-| **Official State Record (SA 238)** | ✓✓✓ Named explicitly | ✗ Not mentioned | PLAINTIFFS |
-| **Period Pattas (1357 BN)** | ✓✓ Two pattas exist | ✗ None produced | PLAINTIFFS |
-| **Purchase Deed (1957)** | ✓✓ Exists and dated | ✗ None for S.B. | PLAINTIFFS |
-| **Inheritance Documentation** | ✓ Solenama entry | ✗ No inheritance docs | PLAINTIFFS |
-| **Statutory Presumption** | ✓✓✓ SA 238 presumed correct | ✗ Must overcome (failed) | PLAINTIFFS |
-| **Valid Amendment Record** | ✓ Unchanged 50+ years | ✗ No valid amendment | PLAINTIFFS |
-| **Own Documentary Admissions** | ✓ Consistent across time | ✗ 1975 deed contradicts claim | PLAINTIFFS |
-| **Legal Burden Met** | ✓✓✓ FULLY MET | ✗✗ COMPLETELY UNMET | PLAINTIFFS |
+**Defendants claim**: Sona Bhanu became owner in 1969
 
----
+**If this is true, then**:
+- She would receive a certified copy showing her as owner
+- She would use this to prove her rights
+- She would keep it for 57 years (1969-2026)
 
-## Appellate Court's Clear Path
+**Reality**:
+- No such certified copy exists
+- Defendants have never produced one
+- Sona Bhanu never had proof of ownership to show courts
 
-### **Finding #1: SA 238 Stands**
-- Abdul Ali is sole Rayat per Government's own published record
-- Statutory presumption of correctness applies
-- Defendants cannot displace it
-
-### **Finding #2: Misc Case Never Took Legal Effect**
-- No judgment, no decree, no certification
-- No Register entry, no notification, no amendment
-- Cannot override government record without formal procedure
-- Procedure utterly lacking here
-
-### **Finding #3: AC Volume Note is Inferior to SA 238**
-- Different ink, manual entry, procedural violations
-- No formal mutation application filed
-- No authorized orders issued
-- Lacks presumptive value (53 DLR 19)
-
-### **Finding #4: Burden Was Reversed (Trial Court Error)**
-- Plaintiffs presented complete chain (SA 238 + pattas + deed + inheritance)
-- Defendants produced nothing to contradict this chain
-- Trial court wrongly asked plaintiffs to disprove unproven assertion
-- This violates Evidence Act §103
-
-### **Finding #5: Defendants' Own 1975 Deed Destroys Their Claim**
-- Shows Sona Bhanu with 6 plots, not 1
-- Contradicts current appeal claim
-- Triggers estoppel and adverse inference
-- Confirms 1969 alleged modification never properly executed
+**What this proves**:
+- She never received official title from government
+- Without certified copy, title transfer incomplete
+- Cannot claim ownership without government's written acknowledgment
 
 ---
 
-## Recommended Prayer for Appeal
+### **Q4: Who Authorized This AC Volume Note?**
+
+**Defendants claim**: AC Land volume note shows Sona Bhanu
+
+**Real questions**:
+- Did AC file a formal mutation application? NO
+- Did AC send notice to Abdul Ali? NO
+- Did Tahsildar do field inspection? NO
+- Did AC issue signed order? NO
+- Did District Record Room update original? NO
+- Did Register of Alterations get updated? NO
+
+**What this proves**:
+- This is not a valid mutation
+- It's just a manual note in a secondary book
+- It cannot override the government's primary official record (SA 238)
+- Courts have ruled volume notes have "no presumptive value" (53 DLR 19)
+
+---
+
+## Trial Court's Big Mistake (Burden Reversal)
+
+### **What the Law Says**
+
+**Evidence Act §103**:
+> If you claim a special fact exists (like a 1969 court case), YOU must prove it exists
+
+**Md. Azizul Hoque v. Md. Akbar Ali (10 BLT AD 105)**:
+> "The burden of proving error lies on the challenging party"
+
+---
+
+### **What Should Have Happened**
+
+```
+CORRECT LEGAL PROCESS:
+═════════════════════════════════════════════════════════════════
+
+STEP 1: Plaintiffs Show Evidence
+Action: Present SA 238 + Pattas + Deed + Inheritance
+Result: PLAINTIFFS' BURDEN COMPLETE ✓
+
+STEP 2: Defendants Challenge
+Action: Present proof that SA 238 is wrong
+Must Show: Misc Case 1169 judgment + decree + certified copy
+Result: What do they show? NOTHING ✗
+
+STEP 3: Court Decision
+Finding: Defendants failed to meet burden
+Result: SA 238 stands; Plaintiffs win
+
+═════════════════════════════════════════════════════════════════
+```
+
+---
+
+### **What Trial Court Actually Did**
+
+```
+INCORRECT PROCESS (Trial Court Error):
+═════════════════════════════════════════════════════════════════
+
+STEP 1: Plaintiffs Show Evidence
+Action: Present SA 238 + Pattas + Deed + Inheritance
+Result: PLAINTIFFS' BURDEN COMPLETE ✓
+
+STEP 2: Trial Court Reversal ⚠️ ERROR
+Action: Tell Plaintiffs "Now prove the 1969 case is WRONG"
+Problem: Defendants never had to prove it's RIGHT!
+
+STEP 3: Defendants Do Nothing
+Action: Stay silent (no proof needed per trial court)
+Result: Plaintiffs punished for defendants' failure
+
+STEP 4: Trial Court Decision
+Finding: Plaintiffs couldn't disprove impossible Misc Case
+Result: Plaintiffs lose (WRONG!)
+
+═════════════════════════════════════════════════════════════════
+This is backwards!
+```
+
+---
+
+## Simple Scoring System (Who Wins Each Point?)
+
+| Evidence | Abdul Ali | Sona Bhanu | Points |
+|----------|-----------|-----------|--------|
+| Official government record (SA 238) | ✓✓✓ | ✗ | ABDUL ALI +3 |
+| Period pattas (1357 BN) | ✓✓ | ✗ | ABDUL ALI +2 |
+| Formal deed (1957) | ✓✓ | ✗ | ABDUL ALI +2 |
+| Legal presumption | ✓✓✓ | ✗ | ABDUL ALI +3 |
+| Proof of ownership change | ✓ (none, so SA 238 stays) | ✗ (no proof shown) | ABDUL ALI +1 |
+| Government's written acknowledgment | ✓ (Record Room) | ✗ (no document) | ABDUL ALI +1 |
+| Consistent over time | ✓ (same 50 years) | ✗ (changes claim) | ABDUL ALI +1 |
+| Own documents support claim | ✓ (all consistent) | ✗ (1975 deed contradicts) | ABDUL ALI +1 |
+| **TOTAL SCORE** | **+14** | **0** | **ABDUL ALI WINS** |
+
+---
+
+## What the Appellate Court Should Say
+
+### **Finding 1: SA 238 Is Law**
+Abdul Ali = Sole Rayat per government's official published record. This stands.
+
+### **Finding 2: Misc Case Is a Ghost**
+Defendants cannot produce judgment, decree, or any proof this case changed anything.
+
+### **Finding 3: AC Volume Note Doesn't Matter**
+Secondary administrative note cannot override primary government record. No valid mutation procedure was followed.
+
+### **Finding 4: Trial Court Reversed the Burden**
+Plaintiffs showed complete chain. Defendants showed nothing. Trial court wrongly punished plaintiffs.
+
+### **Finding 5: Defendants' Own 1975 Deed Destroys Them**
+Shows Sona Bhanu with 6 plots, contradicting their current 1-plot claim. Proves 1969 alleged change was never properly executed.
+
+---
+
+## Prayer for Appeal Court
 
 **ALLOW THE APPEAL AND:**
 
-1. ✓ **Restore SA 238 Khatian** as the controlling legal record of ownership
-2. ✓ **Declare Abdul Ali** as the rightful Rayat/owner (now deceased)
-3. ✓ **Recognize succession** to Plaintiffs & Defendant 1 via Solenama entry
-4. ✓ **Reject Defendants' 1934 patta claim** as void and unproven
-5. ✓ **Reject alleged Misc Case 1181/1969** as legally ineffective
-6. ✓ **Reject AC volume note** as secondary and procedurally defective
-7. ✓ **Order partition** of property among valid heirs per succession law
-8. ✓ **Award costs** to appellants for defending against baseless claims
+1. Restore SA 238 Khatian as binding record
+2. Declare Abdul Ali as rightful owner (now deceased)
+3. Recognize succession to Plaintiffs & Defendant 1
+4. Reject 1934 patta claim as void and unproven
+5. Reject Misc Case 1181/1969 as legally ineffective
+6. Reject AC volume note as secondary and defective
+7. Order partition among valid heirs
+8. Award costs to appellants
 
 ---
 
-**Document Status**: Comprehensive legal brief with Abdul Ali's three-pillar ownership proof structure
-**Date Prepared**: 6 June 2026
-**Source**: Appellate Argument Final Master + Additional Documentation
+**Document Status**: Simplified, text-based, fully readable
+**Date**: 6 June 2026
+**Purpose**: Appellate oral argument support
