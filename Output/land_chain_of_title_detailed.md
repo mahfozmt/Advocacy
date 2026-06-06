@@ -1,3 +1,29 @@
+```mermaid
+%% Ownership chain chart for Output/land_chain_of_title_detailed.md
+graph TD
+  A["CS Khatian 2 (Atia Zamidari — Dhaka Nawab Estate)"]
+  A -->|1934 (alleged) Patta| B["Abdul Ali Sheikh\n(Plaintiff's predecessor)\nPatta: Dag 1259 — 340 sq m; Dag 433 — 1357 BN\nDeed: 1957, No.2398"]
+  B -->|Recorded in SA Survey (1952)| C["SA 238 Khatian\nAbdul Ali — Sole Rayat\nPublished 1952 — DC Record Room\nStatutory presumption"]
+  C -->|Inheritance (Solenama)| D["Plaintiffs & Defendant No.1\n(Recorded heirs)"]
+
+  E["Unregistered Patta (1934)\n(Alleged)"] -->|Claimed to pass to| F["Sona Bhanu\n(Defendants' claimant)"]
+  F -->|Alleged basis| G["Misc Case No.1181/1969\n(NO certified copy / NO Register entry)"]
+  G -->|Recorded only as| H["AC Land Volume Note\n(Different ink — manual entry)\nNo formal mutation / No Tahsildar order"]
+  H -->|Asserted succession to| I["Defendants 2–8, 19–22\n(Challengers)"]
+
+  K["1975 Deed No.3596\n(Defendants' own document)\nShows Sona Bhanu with 6 plots (contradicts 1-plot claim)"] -.->|Contradicts 1969 1-plot theory| F
+
+  classDef official fill:#e6ffed,stroke:#2e8b57,stroke-width:2px;
+  classDef contested fill:#fff5f5,stroke:#cc0000,stroke-dasharray:5 5;
+  classDef secondary fill:#fff7e6,stroke:#ff8c00;
+  classDef contradiction fill:#fff8c8,stroke:#d4a017,stroke-width:2px;
+
+  class B,C,D official
+  class A official
+  class E,G,H,I contested
+  class K contradiction
+```
+
 # Comprehensive Chain of Title - Tangail District Court Appeal 38/2026
 ## Abdul Ali's Multi-Document Ownership Proof
 
@@ -101,7 +127,7 @@ Abdul Ali → Plaintiffs & Defendant 1
 
 ---
 
-### **CLAIM 2: Misc Case 1181/1969 (Alleged Title Change)**
+### **CLAIM 2: Misc Case 1181/1969 (Alleged Title Amendment)**
 
 | Required | Defendants Have It? | Can They Show It? | Legal Problem |
 |----------|-------------------|-------------------|---------------|
@@ -126,7 +152,7 @@ Abdul Ali → Plaintiffs & Defendant 1
 | Tahsildar Checked? | NO | YES required | **Not verified** |
 | AC Signed Order? | NO | YES required | **No authority document** |
 | District Record Updated? | NO | YES required | **Original unchanged** |
-| Register Altered? | NO | YES required | **No alteration entry** |
+| Register Entry | NO | YES required | **No alteration entry** |
 | **Legal Status** | Invalid entry | Would be valid if done properly | **Invalid** |
 
 ---
@@ -292,138 +318,4 @@ Result: Defendants destroyed their own case with their own 1975 deed!
 
 ### **Q4: Who Authorized This AC Volume Note?**
 
-**Defendants claim**: AC Land volume note shows Sona Bhanu
-
-**Real questions**:
-- Did AC file a formal mutation application? NO
-- Did AC send notice to Abdul Ali? NO
-- Did Tahsildar do field inspection? NO
-- Did AC issue signed order? NO
-- Did District Record Room update original? NO
-- Did Register of Alterations get updated? NO
-
-**What this proves**:
-- This is not a valid mutation
-- It's just a manual note in a secondary book
-- It cannot override the government's primary official record (SA 238)
-- Courts have ruled volume notes have "no presumptive value" (53 DLR 19)
-
----
-
-## Trial Court's Big Mistake (Burden Reversal)
-
-### **What the Law Says**
-
-**Evidence Act §103**:
-> If you claim a special fact exists (like a 1969 court case), YOU must prove it exists
-
-**Md. Azizul Hoque v. Md. Akbar Ali (10 BLT AD 105)**:
-> "The burden of proving error lies on the challenging party"
-
----
-
-### **What Should Have Happened**
-
-```
-CORRECT LEGAL PROCESS:
-═════════════════════════════════════════════════════════════════
-
-STEP 1: Plaintiffs Show Evidence
-Action: Present SA 238 + Pattas + Deed + Inheritance
-Result: PLAINTIFFS' BURDEN COMPLETE ✓
-
-STEP 2: Defendants Challenge
-Action: Present proof that SA 238 is wrong
-Must Show: Misc Case 1169 judgment + decree + certified copy
-Result: What do they show? NOTHING ✗
-
-STEP 3: Court Decision
-Finding: Defendants failed to meet burden
-Result: SA 238 stands; Plaintiffs win
-
-═════════════════════════════════════════════════════════════════
-```
-
----
-
-### **What Trial Court Actually Did**
-
-```
-INCORRECT PROCESS (Trial Court Error):
-═════════════════════════════════════════════════════════════════
-
-STEP 1: Plaintiffs Show Evidence
-Action: Present SA 238 + Pattas + Deed + Inheritance
-Result: PLAINTIFFS' BURDEN COMPLETE ✓
-
-STEP 2: Trial Court Reversal ⚠️ ERROR
-Action: Tell Plaintiffs "Now prove the 1969 case is WRONG"
-Problem: Defendants never had to prove it's RIGHT!
-
-STEP 3: Defendants Do Nothing
-Action: Stay silent (no proof needed per trial court)
-Result: Plaintiffs punished for defendants' failure
-
-STEP 4: Trial Court Decision
-Finding: Plaintiffs couldn't disprove impossible Misc Case
-Result: Plaintiffs lose (WRONG!)
-
-═════════════════════════════════════════════════════════════════
-This is backwards!
-```
-
----
-
-## Simple Scoring System (Who Wins Each Point?)
-
-| Evidence | Abdul Ali | Sona Bhanu | Points |
-|----------|-----------|-----------|--------|
-| Official government record (SA 238) | ✓✓✓ | ✗ | ABDUL ALI +3 |
-| Period pattas (1357 BN) | ✓✓ | ✗ | ABDUL ALI +2 |
-| Formal deed (1957) | ✓✓ | ✗ | ABDUL ALI +2 |
-| Legal presumption | ✓✓✓ | ✗ | ABDUL ALI +3 |
-| Proof of ownership change | ✓ (none, so SA 238 stays) | ✗ (no proof shown) | ABDUL ALI +1 |
-| Government's written acknowledgment | ✓ (Record Room) | ✗ (no document) | ABDUL ALI +1 |
-| Consistent over time | ✓ (same 50 years) | ✗ (changes claim) | ABDUL ALI +1 |
-| Own documents support claim | ✓ (all consistent) | ✗ (1975 deed contradicts) | ABDUL ALI +1 |
-| **TOTAL SCORE** | **+14** | **0** | **ABDUL ALI WINS** |
-
----
-
-## What the Appellate Court Should Say
-
-### **Finding 1: SA 238 Is Law**
-Abdul Ali = Sole Rayat per government's official published record. This stands.
-
-### **Finding 2: Misc Case Is a Ghost**
-Defendants cannot produce judgment, decree, or any proof this case changed anything.
-
-### **Finding 3: AC Volume Note Doesn't Matter**
-Secondary administrative note cannot override primary government record. No valid mutation procedure was followed.
-
-### **Finding 4: Trial Court Reversed the Burden**
-Plaintiffs showed complete chain. Defendants showed nothing. Trial court wrongly punished plaintiffs.
-
-### **Finding 5: Defendants' Own 1975 Deed Destroys Them**
-Shows Sona Bhanu with 6 plots, contradicting their current 1-plot claim. Proves 1969 alleged change was never properly executed.
-
----
-
-## Prayer for Appeal Court
-
-**ALLOW THE APPEAL AND:**
-
-1. Restore SA 238 Khatian as binding record
-2. Declare Abdul Ali as rightful owner (now deceased)
-3. Recognize succession to Plaintiffs & Defendant 1
-4. Reject 1934 patta claim as void and unproven
-5. Reject Misc Case 1181/1969 as legally ineffective
-6. Reject AC volume note as secondary and defective
-7. Order partition among valid heirs
-8. Award costs to appellants
-
----
-
-**Document Status**: Simplified, text-based, fully readable
-**Date**: 6 June 2026
-**Purpose**: Appellate oral argument support
+{
