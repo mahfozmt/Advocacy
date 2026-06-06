@@ -3,37 +3,30 @@ const fs = require('fs');
 const path = require('path');
 
 const keywords = [
-    // A. Core — Nawab Estate to SA transition
-    "Dhaka Nawab", "Nawab Estate", "Court of Wards", "Chief Manager", 
-    "approval of Chief Manager", "settlement without approval", "khas mahal", 
-    "Government Estates Manual", "ঢাকা নবাব", "নবাব এস্টেট", "কোর্ট অব ওয়ার্ডস", 
-    "চিফ ম্যানেজার", "খাস মহল", "ভারত সম্রাট",
+    // Level 1 — SA Khatian Presumption
+    "SA khatian presumption of correctness", "finally published record of rights", "record of rights presumption rebuttal", "burden to rebut SA record", "settlement record room", "presumption attached to SA khatian", "revenue record presumption", "finally published khatian", "record of rights carries presumption", "entry in record of rights not rebutted", "এস এ খতিয়ানের সঠিকতার অনুমান", "চূড়ান্ত প্রকাশিত খতিয়ান", "রেকর্ড অব রাইটস", "খতিয়ান সংশোধনের দায়", "খতিয়ানের প্রামাণিকতা", "চূড়ান্ত খতিয়ান",
 
-    // B. SA presumption — your sword
-    "section 144A", "144-A", "presumption of correctness", "finally published", 
-    "record of rights", "SA khatian", "RS khatian", "recent record prevails",
-    "১৪৪এ", "১৪৪ক", "চূড়ান্তভাবে প্রকাশিত", "রেকর্ড অব রাইটস", "এসএ খতিয়ান",
+    // Level 2 — Mutation / Volume Entry Does Not Create Title
+    "mutation does not confer title", "mutation entry no title", "revenue entry does not create ownership", "mutation proceeding fiscal purpose", "volume entry no evidentiary value", "revenue record not title document", "mutation cannot override title", "নামজারি স্বত্ব সৃষ্টি করে না", "মিউটেশন স্বত্বের প্রমাণ নয়", "ভলিউম এন্ট্রি", "রাজস্ব রেকর্ড", "নামজারি কেবল রাজস্ব উদ্দেশ্যে",
 
-    // C. Mutation/Volume — their weakness
-    "mutation has no presumptive value", "volume entry", "interpolation", 
-    "different ink", "correction without decree", "section 143", "section 144",
-    "মিউটেশন", "ভলিউম", "ভিন্ন কালি", "সংশোধন", "ডিক্রি ছাড়া",
+    // Level 3 — Misc Case Cannot Decide Title
+    "miscellaneous case cannot decide title", "title dispute requires title suit", "declaration of title by civil suit", "misc case no decree", "misc proceeding not adjudication of title", "order not decree", "specific relief act section 42 title", "মিস মোকদ্দমায় স্বত্ব নির্ধারণ হয় না", "স্বত্ব ঘোষণা মামলা", "ডিক্রি বনাম আদেশ", "মিস কেসে ডিক্রি হয় না",
 
-    // D. Partition technicalities
-    "partial partition", "hotchpot", "non-joinder", 
-    "CPC Order XXIII Rule 3", "solenama", "compromise decree",
-    "আংশিক বাটোয়ারা", "হচপট", "পক্ষদোষ", "সোলেনামা",
+    // Level 4 — Absence of Best Evidence
+    "adverse inference withholding document", "failure to produce certified copy", "best evidence rule", "non production of document adverse inference", "section 114(g) evidence act", "suppression of best evidence", "সেরা সাক্ষ্য গোপন", "প্রতিকূল অনুমান", "নথি গোপন", "সার্টিফায়েড কপি দাখিল না করা",
 
-    // E. Burden of proof — Hayetullah line
-    "section 103 Evidence Act", "burden shifts", "onus to prove correction", 
-    "plaintiff prima facie", "১০৩ ধারা", "প্রমাণের দায়িত্ব",
+    // Level 5 — Non-joinder / Hotchpot
+    "partial partition maintainable", "co sharer partition of part property", "non joinder government partition suit", "government not necessary party", "hotchpot partition suit", "separate khatian separate tenancy", "আংশিক বাটোয়ারা", "পৃথক খতিয়ান", "সরকার আবশ্যকীয় পক্ষ নয়", "হচপট",
 
-    // F. Limitation & Munsif jurisdiction
-    "misc case", "record correction", "limitation", "revenue officer not court",
-    "মিস কেস", "খতিয়ান সংশোধন", "তামাদি", "রাজস্ব কর্মকর্তা",
-    
-    // Legacy / Volume keywords (keep at end)
-    "69700", "পত্তন", "খাস খতিয়ান",
+    // Level 6 — Court of Wards / Estate Recognition
+    "court of wards recognition of tenant", "estate return recognition of tenant", "zamindar return accepted by state", "state acquisition return tenant", "record prepared from landlord return", "tenant recognised by estate", "কোর্ট অব ওয়ার্ডস", "জমিদার রিটার্ন", "রাষ্ট্র কর্তৃক স্বীকৃত প্রজা", "রিটার্নে নাম",
+
+    // Level 7 — Notice Mandatory Before Correction
+    "correction without notice void", "mutation without notice", "natural justice revenue proceeding", "record correction notice hearing", "alteration without notice illegal", "নোটিশ ছাড়া সংশোধন", "শুনানি ছাড়া নামজারি", "ন্যাচারাল জাস্টিস", "রেকর্ড সংশোধন",
+
+    // Core Legacy / Volume keywords (keep at end because they yield huge results)
+    "69700", "পত্তন", "খাস খতিয়ান", "ভারত সম্রাট",
+    "Dhaka Nawab", "Nawab Estate", "Court of Wards", "Chief Manager", "khas mahal", 
     "cs khas", "cadastral survey", "2 no khas katiyan", "kabuliyot", "kabuliyat", "kobuliyat", "koboliat",
     "patta", "pattan", "rent roll", "state acquisition and tenancy act", "sata", "act, 1950", "sa act", "SAT Act", "cs", "SA", "S.A."
 ];

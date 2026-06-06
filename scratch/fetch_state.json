@@ -152,7 +152,7 @@
     "completed": true
   },
   "sa act": {
-    "last_page": 358,
+    "last_page": 441,
     "completed": false
   },
   "Dhaka Nawab": {
@@ -402,5 +402,141 @@
   "খাস খতিয়ান": {
     "last_page": 1,
     "completed": true
+  },
+  "SA khatian presumption of correctness": {
+    "last_page": 4,
+    "completed": true
+  },
+  "finally published record of rights": {
+    "last_page": 5,
+    "completed": true
+  },
+  "record of rights presumption rebuttal": {
+    "last_page": 2,
+    "completed": true
+  },
+  "burden to rebut SA record": {
+    "last_page": 0,
+    "completed": true
+  },
+  "settlement record room": {
+    "last_page": 3,
+    "completed": true
+  },
+  "presumption attached to SA khatian": {
+    "last_page": 2,
+    "completed": true
+  },
+  "revenue record presumption": {
+    "last_page": 3,
+    "completed": true
+  },
+  "finally published khatian": {
+    "last_page": 7,
+    "completed": true
+  },
+  "record of rights carries presumption": {
+    "last_page": 2,
+    "completed": true
+  },
+  "entry in record of rights not rebutted": {
+    "last_page": 3,
+    "completed": true
+  },
+  "এস এ খতিয়ানের সঠিকতার অনুমান": {
+    "last_page": 1,
+    "completed": true
+  },
+  "চূড়ান্ত প্রকাশিত খতিয়ান": {
+    "last_page": 1,
+    "completed": true
+  },
+  "খতিয়ান সংশোধনের দায়": {
+    "last_page": 1,
+    "completed": true
+  },
+  "খতিয়ানের প্রামাণিকতা": {
+    "last_page": 1,
+    "completed": true
+  },
+  "চূড়ান্ত খতিয়ান": {
+    "last_page": 1,
+    "completed": true
+  },
+  "mutation does not confer title": {
+    "last_page": 4,
+    "completed": true
+  },
+  "mutation entry no title": {
+    "last_page": 4,
+    "completed": true
+  },
+  "revenue entry does not create ownership": {
+    "last_page": 3,
+    "completed": true
+  },
+  "mutation proceeding fiscal purpose": {
+    "last_page": 1,
+    "completed": true
+  },
+  "volume entry no evidentiary value": {
+    "last_page": 4,
+    "completed": true
+  },
+  "revenue record not title document": {
+    "last_page": 6,
+    "completed": true
+  },
+  "mutation cannot override title": {
+    "last_page": 4,
+    "completed": true
+  },
+  "নামজারি স্বত্ব সৃষ্টি করে না": {
+    "last_page": 3,
+    "completed": true
+  },
+  "মিউটেশন স্বত্বের প্রমাণ নয়": {
+    "last_page": 0,
+    "completed": true
+  },
+  "ভলিউম এন্ট্রি": {
+    "last_page": 0,
+    "completed": true
+  },
+  "রাজস্ব রেকর্ড": {
+    "last_page": 1,
+    "completed": true
+  },
+  "নামজারি কেবল রাজস্ব উদ্দেশ্যে": {
+    "last_page": 1,
+    "completed": true
+  },
+  "miscellaneous case cannot decide title": {
+    "last_page": 4,
+    "completed": true
+  },
+  "title dispute requires title suit": {
+    "last_page": 44,
+    "completed": true
+  },
+  "declaration of title by civil suit": {
+    "last_page": 33,
+    "completed": true
+  },
+  "misc case no decree": {
+    "last_page": 24,
+    "completed": true
+  },
+  "misc proceeding not adjudication of title": {
+    "last_page": 2,
+    "completed": true
+  },
+  "order not decree": {
+    "last_page": 303,
+    "completed": true
+  },
+  "specific relief act section 42 title": {
+    "last_page": 6,
+    "completed": false
   }
 }
