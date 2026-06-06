@@ -70,13 +70,49 @@
 
 ## Level 4 — Absence of Best Evidence
 
+### [1] Precedent: 28 BLC (HD) 134
+- **Parties:** *Rokeya Haider -------- Petitioner.  Vs.  Hasan Shareef Ahmed and others -------- opposite parties.*
+  > *"Matched in metadata: /non\s+production\s+of\s+document\s+adverse\s+inference/i"*
+
+### [2] Precedent: 52 DLR (AD) 127,20 BLD (AD) 205,9 BLT (AD) 86,5 MLR (AD) 264
+- **Parties:** *ASF Rahman and another ----- Appellants  Vs  AM Agha Yousuf and others ----- Respondent*
+  > *"Matched in metadata: /section\s+114\(g\)\s+evidence\s+act/i"*
+
+### [3] Precedent: Civil Appeal No.115 of 1999
+- **Parties:** *ASF Rahman and another ------ Appellants  VS  AM Agha Yousuf and others ------ Respondents*
+  > *"Matched in metadata: /section\s+114\(g\)\s+evidence\s+act/i"*
+
+### [4] Precedent: Civil Revision No. 4058 of 2022.
+- **Parties:** *Saifuddin (Md)  ------- Defendant-Petitioner  VS  Showkot Hossain and others ----- Plaintiff -Opposite-Parties*
+  > *"Matched in metadata: /section\s+114\(g\)\s+evidence\s+act/i"*
+
+### [5] Precedent: Civil Appeal Nos. 115-119 of 1984.
+- **Parties:** *Commissioner of Taxes, E Zone, Dhaka ----- Appellants. Vs. Mallick Brothers ----- Respondent.*
+  > *"Matched in metadata: /best\s+evidence\s+rule/i"*
+
 ---
 
 ## Level 5 — Non-joinder / Hotchpot
 
-### [1] Precedent: 34 BLD (HD) 365
+### [1] Precedent: 60 DLR (HD) 669
+- **Parties:** *Asha Enterprise (Pvt) Ltd ----- Applicant  Vs.  Commissioner of Taxes ----- Respondent*
+  > *"Matched in metadata: /co\s+sharer\s+partition\s+of\s+part\s+property/i"*
+
+### [2] Precedent: 53 DLR (AD) 31,11 BLT (AD) 64
+- **Parties:** *Bangladesh Biman Corporation and others ------ Appelllants  Vs.  Md Tipu Sultan & others ------ Respondents.*
+  > *"Matched in metadata: /separate\s+khatian\s+separate\s+tenancy/i"*
+
+### [3] Precedent: 34 BLD (HD) 365
 - **Parties:** *মোঃ ছানোয়ার হোসেন  Vs.  রাষ্ট্র*
   > *"Matched in metadata: /হচপট/i"*
+
+### [4] Precedent: 4 BLD (AD) 189,36 DLR (AD) 108
+- **Parties:** *Asaduzzaman  Vs.  Bangladesh Represented By the Secretary, Ministry Of Public Works and Urban Development*
+  > *"Matched in metadata: /co\s+sharer\s+partition\s+of\s+part\s+property/i"*
+
+### [5] Precedent: 20 BLC (HD) 57
+- **Parties:** *Dr Farzana Ahmed ------ Defendant-Petitioner.  VS  Roksana Ahmed and others ------ Plaintiff-Opposite Parties.*
+  > *"Matched in metadata: /co\s+sharer\s+partition\s+of\s+part\s+property/i"*
 
 ---
 
@@ -86,9 +122,33 @@
 - **Parties:** *এম, সামসুল হক গং ----- দরখাস্তকারী  বনাম  বাংলাদেশ গং ----- প্রতিবাদীগণ*
   > *"Matched in metadata: /কোর্ট\s+অব\s+ওয়ার্ডস/i"*
 
+### [2] Precedent: 29 DLR (AD) 117
+- **Parties:** *Mohiuddin Khan and others--------- Appellants.  Vs.  Pakistan River Steamer Ltd. and others ---------- Respondents*
+  > *"Matched in metadata: /tenant\s+recognised\s+by\s+estate/i"*
+
+### [3] Precedent: 33 DLR (AD) 37
+- **Parties:** *Amar Chandra Saha -------- Appellant.  Vs.  Ajit Kumar Das -------- Respondents.*
+  > *"Matched in metadata: /court\s+of\s+wards\s+recognition\s+of\s+tenant/i"*
+
+### [4] Precedent: 45 DLR (AD) 166,13 BLD (AD) 166,1 BLT (AD) 42
+- **Parties:** *Al-Hajj Mirjahan ----- Petitioner. [In CP No. 106 of 1993]  Vs.  AI-Hajj Md. Rafique Miah ----- Petitioner. [In CP No. 107 of 1993]  Vs.  Golden Biscuit Co ----- Respondent. [In both cases.]*
+  > *"Matched in metadata: /court\s+of\s+wards\s+recognition\s+of\s+tenant/i"*
+
 ---
 
 ## Level 7 — Notice Mandatory Before Correction
+
+### [1] Precedent: 7 ALR (AD) 54,68 DLR (AD) 258,13 ADC 220,24 BLT (AD) 178,7 SCOB (AD) 1
+- **Parties:** *Idrisur Rahman (Md) ------- Appellant  (In CA No. 145 of 2005)  Goverment of Bangladesh and ors ------- Petition  (In CP No. 405 of 2005)  Vs.  Syed Shahidur Rahman and others ------- Respondent  (In both the cases)*
+  > *"Matched in metadata: /natural\s+justice\s+revenue\s+proceeding/i"*
+
+### [2] Precedent: 18 ALR (AD) 100,64 DLR (AD) 152,8 ADC 834,21 BLT (AD) 103,11 ADC 97
+- **Parties:** *Professor Muhammad Yunus  ------ Petitioner (In CPNo.640 of2011)  Rahima Begum and others ------ Petitioner (In CPNo.641 of201l)  VS  Bangladesh, represented by the Secretary, Bank and Financial Institutions Division and others  ------ Respondents (In both the cases)*
+  > *"Matched in metadata: /natural\s+justice\s+revenue\s+proceeding/i"*
+
+### [3] Precedent: 31 DLR (AD) 272,33 DLR (AD) 177
+- **Parties:** *Bangladesh Steamer Agents Association -------- Appellant  Vs.  Bangladesh & ors -------- Respondent*
+  > *"Matched in metadata: /natural\s+justice\s+revenue\s+proceeding/i"*
 
 ---
 
