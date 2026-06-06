@@ -152,7 +152,7 @@
     "completed": true
   },
   "sa act": {
-    "last_page": 441,
+    "last_page": 790,
     "completed": false
   },
   "Dhaka Nawab": {
@@ -536,7 +536,167 @@
     "completed": true
   },
   "specific relief act section 42 title": {
+    "last_page": 12,
+    "completed": true
+  },
+  "মিস মোকদ্দমায় স্বত্ব নির্ধারণ হয় না": {
+    "last_page": 1,
+    "completed": true
+  },
+  "স্বত্ব ঘোষণা মামলা": {
+    "last_page": 2,
+    "completed": true
+  },
+  "ডিক্রি বনাম আদেশ": {
+    "last_page": 2,
+    "completed": true
+  },
+  "মিস কেসে ডিক্রি হয় না": {
+    "last_page": 1,
+    "completed": true
+  },
+  "adverse inference withholding document": {
+    "last_page": 1,
+    "completed": true
+  },
+  "failure to produce certified copy": {
+    "last_page": 1,
+    "completed": true
+  },
+  "best evidence rule": {
+    "last_page": 9,
+    "completed": true
+  },
+  "non production of document adverse inference": {
+    "last_page": 2,
+    "completed": true
+  },
+  "section 114(g) evidence act": {
+    "last_page": 19,
+    "completed": true
+  },
+  "suppression of best evidence": {
+    "last_page": 1,
+    "completed": true
+  },
+  "সেরা সাক্ষ্য গোপন": {
+    "last_page": 1,
+    "completed": true
+  },
+  "প্রতিকূল অনুমান": {
+    "last_page": 0,
+    "completed": true
+  },
+  "নথি গোপন": {
+    "last_page": 1,
+    "completed": true
+  },
+  "সার্টিফায়েড কপি দাখিল না করা": {
+    "last_page": 3,
+    "completed": true
+  },
+  "partial partition maintainable": {
+    "last_page": 3,
+    "completed": true
+  },
+  "co sharer partition of part property": {
+    "last_page": 19,
+    "completed": true
+  },
+  "non joinder government partition suit": {
+    "last_page": 12,
+    "completed": true
+  },
+  "government not necessary party": {
+    "last_page": 4,
+    "completed": true
+  },
+  "hotchpot partition suit": {
+    "last_page": 10,
+    "completed": true
+  },
+  "separate khatian separate tenancy": {
     "last_page": 6,
-    "completed": false
+    "completed": true
+  },
+  "পৃথক খতিয়ান": {
+    "last_page": 1,
+    "completed": true
+  },
+  "সরকার আবশ্যকীয় পক্ষ নয়": {
+    "last_page": 2,
+    "completed": true
+  },
+  "court of wards recognition of tenant": {
+    "last_page": 3,
+    "completed": true
+  },
+  "estate return recognition of tenant": {
+    "last_page": 4,
+    "completed": true
+  },
+  "zamindar return accepted by state": {
+    "last_page": 1,
+    "completed": true
+  },
+  "state acquisition return tenant": {
+    "last_page": 6,
+    "completed": true
+  },
+  "record prepared from landlord return": {
+    "last_page": 2,
+    "completed": true
+  },
+  "tenant recognised by estate": {
+    "last_page": 4,
+    "completed": true
+  },
+  "জমিদার রিটার্ন": {
+    "last_page": 0,
+    "completed": true
+  },
+  "রাষ্ট্র কর্তৃক স্বীকৃত প্রজা": {
+    "last_page": 2,
+    "completed": true
+  },
+  "রিটার্নে নাম": {
+    "last_page": 1,
+    "completed": true
+  },
+  "correction without notice void": {
+    "last_page": 1,
+    "completed": true
+  },
+  "mutation without notice": {
+    "last_page": 4,
+    "completed": true
+  },
+  "natural justice revenue proceeding": {
+    "last_page": 5,
+    "completed": true
+  },
+  "record correction notice hearing": {
+    "last_page": 1,
+    "completed": true
+  },
+  "alteration without notice illegal": {
+    "last_page": 1,
+    "completed": true
+  },
+  "নোটিশ ছাড়া সংশোধন": {
+    "last_page": 1,
+    "completed": true
+  },
+  "শুনানি ছাড়া নামজারি": {
+    "last_page": 0,
+    "completed": true
+  },
+  "ন্যাচারাল জাস্টিস": {
+    "last_page": 0,
+    "completed": true
+  },
+  "রেকর্ড সংশোধন": {
+    "last_page": 1,
+    "completed": true
   }
 }
