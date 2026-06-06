@@ -1,27 +1,16 @@
 ```mermaid
-%% Ownership chain chart for Output/land_chain_of_title_detailed.md
 graph TD
-  A["CS Khatian 2 (Atia Zamidari — Dhaka Nawab Estate)"]
-  A -->|1934 (alleged) Patta| B["Abdul Ali Sheikh\n(Plaintiff's predecessor)\nPatta: Dag 1259 — 340 sq m; Dag 433 — 1357 BN\nDeed: 1957, No.2398"]
-  B -->|Recorded in SA Survey (1952)| C["SA 238 Khatian\nAbdul Ali — Sole Rayat\nPublished 1952 — DC Record Room\nStatutory presumption"]
-  C -->|Inheritance (Solenama)| D["Plaintiffs & Defendant No.1\n(Recorded heirs)"]
+  A[CS Khatian 2 - Atia Zamidari (Dhaka Nawab Estate)]
+  A -->|1934 patta (alleged)| B[Abdul Ali Sheikh<br>Patta: Dag 1259 (340 sq m); Dag 433 (1357 BN)<br>Deed: 1957 No.2398]
+  B -->|SA survey (1952)| C[SA 238 Khatian - Abdul Ali (Sole Rayat)<br>Published 1952 - DC Record Room]
+  C -->|Inheritance (Solenama)| D[Plaintiffs & Defendant No.1 (recorded heirs)]
 
-  E["Unregistered Patta (1934)\n(Alleged)"] -->|Claimed to pass to| F["Sona Bhanu\n(Defendants' claimant)"]
-  F -->|Alleged basis| G["Misc Case No.1181/1969\n(NO certified copy / NO Register entry)"]
-  G -->|Recorded only as| H["AC Land Volume Note\n(Different ink — manual entry)\nNo formal mutation / No Tahsildar order"]
-  H -->|Asserted succession to| I["Defendants 2–8, 19–22\n(Challengers)"]
+  E[Unregistered Patta 1934 (alleged)] -->|Claimed to pass to| F[Sona Bhanu]
+  F -->|Alleged basis| G[Misc Case No.1181/1969 - NO certified copy / NO register entry]
+  G -->|Recorded only as| H[AC Land Volume note - different ink, manual entry]
+  H -->|Asserted succession to| I[Defendants 2-8, 19-22 (challengers)]
 
-  K["1975 Deed No.3596\n(Defendants' own document)\nShows Sona Bhanu with 6 plots (contradicts 1-plot claim)"] -.->|Contradicts 1969 1-plot theory| F
-
-  classDef official fill:#e6ffed,stroke:#2e8b57,stroke-width:2px;
-  classDef contested fill:#fff5f5,stroke:#cc0000,stroke-dasharray:5 5;
-  classDef secondary fill:#fff7e6,stroke:#ff8c00;
-  classDef contradiction fill:#fff8c8,stroke:#d4a017,stroke-width:2px;
-
-  class B,C,D official
-  class A official
-  class E,G,H,I contested
-  class K contradiction
+  K[1975 Deed No.3596 - Defendants' document<br>Shows Sona Bhanu with 6 plots (contradicts 1-plot claim)] -.->|Contradicts 1969 1-plot theory| F
 ```
 
 # Comprehensive Chain of Title - Tangail District Court Appeal 38/2026
@@ -176,8 +165,7 @@ Abdul Ali → Plaintiffs & Defendant 1
 ---
 
 ### **RANK 2: VERY STRONG**
-**Two Pattas (1357 Bangla)**
-- Dag 1259 (340 sq meters) - Abdul Ali
+**Two Pattas (1357 Bangla)**n- Dag 1259 (340 sq meters) - Abdul Ali
 - Dag 433 (other properties) - Abdul Ali
 - Issued by Estate directly
 - Pre-dates SA 238 Survey
@@ -304,18 +292,4 @@ Result: Defendants destroyed their own case with their own 1975 deed!
 - She would use this to prove her rights
 - She would keep it for 57 years (1969-2026)
 
-**Reality**:
-- No such certified copy exists
-- Defendants have never produced one
-- Sona Bhanu never had proof of ownership to show courts
-
-**What this proves**:
-- She never received official title from government
-- Without certified copy, title transfer incomplete
-- Cannot claim ownership without government's written acknowledgment
-
----
-
-### **Q4: Who Authorized This AC Volume Note?**
-
-{
+**analysis truncated due to length**
