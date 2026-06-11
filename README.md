@@ -110,7 +110,7 @@ When operating within this workspace, AI agents must strictly follow these instr
 2. **Dual-File Editing:** Any change to the legal arguments must be applied simultaneously to **both** the full brief (`_vXX.md`) and the concise hearing aid (`_vXX_Summary.md`).
 3. **No Overwriting:** Never overwrite previous versions in `/Output`. Increment the version number (e.g. v33 -> v34).
 4. **Citation Hygiene:** Only cite verified precedents from the `Resource/Judgements` or `Resource/SCOB` folders. Do not cite Indian or unverified rulings.
-5. **PDF/DOCX Output:** Use Node.js `create_docx.js` to compile markdown drafts into court-ready document formats.
+5. **PDF/DOCX Output:** Use Node.js `create_docx.js <version>` (e.g. `node create_docx.js v49`) to compile markdown drafts into court-ready document formats. **THIS IS A REQUIRED MANDATORY STEP FOR EVERY NEW VERSION.** The agent must run this command so the user has immediate access to the compiled documents.
 
 ---
 
