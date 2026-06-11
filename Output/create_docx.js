@@ -17,9 +17,9 @@ function parseMarkdownToDocx(inputFile, outputFile) {
         const runs = [];
         parts.forEach(part => {
             if (part.startsWith('**') && part.endsWith('**')) {
-                runs.push(new TextRun({ text: part.slice(2, -2), bold: true, italics: opts.italics, font: defaultFont, size: 28 }));
+                runs.push(new TextRun({ text: part.slice(2, -2), bold: true, italics: opts.italics, font: defaultFont, size: 20 }));
             } else if (part) {
-                runs.push(new TextRun({ text: part, italics: opts.italics, font: defaultFont, size: 28 }));
+                runs.push(new TextRun({ text: part, italics: opts.italics, font: defaultFont, size: 20 }));
             }
         });
         return runs;
@@ -91,8 +91,38 @@ function parseMarkdownToDocx(inputFile, outputFile) {
     }
 
     const doc = new Document({
+        styles: {
+            default: {
+                document: {
+                    run: {
+                        font: defaultFont,
+                        size: 20,
+                    },
+                    paragraph: {
+                        spacing: {
+                            line: 240, // 240 = 1.0 (single) line spacing
+                            before: 0,
+                            after: 0
+                        }
+                    }
+                }
+            }
+        },
         sections: [{
-            properties: {},
+            properties: {
+                page: {
+                    size: {
+                        width: 12240, // 8.5 inches in twips (Legal size)
+                        height: 20160 // 14 inches in twips (Legal size)
+                    },
+                    margin: {
+                        top: 720, // 0.5 inch narrow margin
+                        right: 720,
+                        bottom: 720,
+                        left: 720
+                    }
+                }
+            },
             children: children
         }],
     });
@@ -103,5 +133,5 @@ function parseMarkdownToDocx(inputFile, outputFile) {
     });
 }
 
-parseMarkdownToDocx('f:/Mahfoz/Advocacy/Output/appellate_argument_v48_Brief.md', 'f:/Mahfoz/Advocacy/Output/appellate_argument_v48_Brief.docx');
-parseMarkdownToDocx('f:/Mahfoz/Advocacy/Output/appellate_argument_v48_Summary.md', 'f:/Mahfoz/Advocacy/Output/appellate_argument_v48_Summary.docx');
+parseMarkdownToDocx('f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Brief.md', 'f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Brief.docx');
+parseMarkdownToDocx('f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Summary.md', 'f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Summary.docx');
