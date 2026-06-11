@@ -133,5 +133,11 @@ function parseMarkdownToDocx(inputFile, outputFile) {
     });
 }
 
-parseMarkdownToDocx('f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Brief.md', 'f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Brief.docx');
-parseMarkdownToDocx('f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Summary.md', 'f:/Mahfoz/Advocacy/Output/appellate_argument_v48.1_Summary.docx');
+const version = process.argv[2];
+if (!version) {
+    console.error("Please provide the version to compile. Example: node create_docx.js v48.1");
+    process.exit(1);
+}
+
+parseMarkdownToDocx(`f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Brief.md`, `f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Brief.docx`);
+parseMarkdownToDocx(`f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Summary.md`, `f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Summary.docx`);
