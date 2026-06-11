@@ -56,10 +56,10 @@ graph TD
 │   ├── Appeal Memo submited.txt    # Admitted Appeal Memorandum
 │   └── [Various PDFs, DOCX, and MD files regarding case analysis]
 └── Output/                         # Generated assets and finalized artifacts
-    ├── appellate_argument_v34.md          # ⚖️ LATEST — Full brief with new search-backed logic
-    ├── appellate_argument_v34_Summary.md  # ⚡ LATEST — Concise court hearing aid
-    ├── appellate_argument_v33.md          # Historical version
-    ├── appellate_argument_v33_Summary.md  # Historical version
+    ├── appellate_argument_v48_Brief.md          # ⚖️ LATEST — Full brief with Section 144A & Burden of Proof logic
+    ├── appellate_argument_v48_Summary.md  # ⚡ LATEST — Concise court hearing aid
+    ├── appellate_argument_v47_Brief.md          # Historical version
+    ├── appellate_argument_v47_Summary.md  # Historical version
     ├── create_docx.js              # Node.js script for document conversion
     ├── package.json                # Node.js dependencies configuration
     └── package-lock.json           # Node.js dependencies lockfile
@@ -75,10 +75,12 @@ The arguments in `/Output` have evolved across several major iterations:
 * **v20–v28 (Theoretical Development):** Drafted detailed, theoretical briefs (~50–112KB) establishing the **Broken Inheritance**, **Khas-to-SA Transition**, and **Approbate & Reprobate** doctrines.
 * **v29 (Dual-File Protocol):** Established the policy of generating a detailed brief (`_vXX.md`) and a concise court hearing aid (`_vXX_Summary.md`) in sync.
 * **v30–v33 (Streamlining):** Condensed the brief into **3 Core Questions** (70% value) and **4 Helper Questions** (30% value) for readability.
-* **v34 (Search-Backed Reintegration - Current):** Integrated advanced administrative and property law logic verified against the newly crawled `Resource/Judgements` database. Key additions include:
+* **v34 (Search-Backed Reintegration):** Integrated advanced administrative and property law logic verified against the newly crawled `Resource/Judgements` database. Key additions include:
   1. *Section 143 Mutation vs. Section 144 ROR Revision:* Confirming AC Land's non-judicial status in mutation cases (*Aslam vs. Salauddin*, 18 BLC (HD) 235).
   2. *Nawab Estate Chief Manager Rule:* Proving unapproved pattan invalidity (*Harun-al-Rashid Mollah vs. Bangladesh*, 12 BLC (AD) 79).
   3. *Burden of Proof Shift:* Enforcing Section 103 of the Evidence Act (*tapash Kanti Majumder*, 26 BLC (AD) 78).
+* **v35–v47:** Incremental refinement of arguments, integrating SCOB precedents and structural formatting.
+* **v48 (Section 144A & Dependent Invalidity - Current):** Re-engineered the logical flow explicitly connecting the statutory presumption of SA records under Section 144A SAT Act with Evidence Act Section 103. Established the dependent invalidity of the AC Land Volume Note on the unproven Misc Case.
 
 ---
 
@@ -118,7 +120,7 @@ When operating within this workspace, AI agents must strictly follow these instr
 - [x] Build search script mapping Keyword Groups A to F.
 - [x] Run crawler and generate `Resource/Judgements_Search_References.md`.
 - [x] Fully reorganize and structure `README.md` (Current).
-- [ ] Draft appellate brief version `appellate_argument_v34.md` integrating the search-backed findings.
-- [ ] Draft summary aid `appellate_argument_v34_Summary.md`.
+- [x] Draft appellate brief version `appellate_argument_v48_Brief.md` integrating the Section 144A logic.
+- [x] Draft summary aid `appellate_argument_v48_Summary.md`.
 - [ ] Compile drafts to court-ready `.docx` format using conversion scripts.
 - [ ] Final human-in-the-loop review.
