@@ -139,5 +139,5 @@ if (!version) {
     process.exit(1);
 }
 
-parseMarkdownToDocx(`f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Brief.md`, `f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Brief.docx`);
-parseMarkdownToDocx(`f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Summary.md`, `f:/Mahfoz/Advocacy/Output/appellate_argument_${version}_Summary.docx`);
+parseMarkdownToDocx(`Output/appellate_argument_${version}_Brief.md`, `Output/appellate_argument_${version}_Brief.docx`);
+parseMarkdownToDocx(`Output/appellate_argument_${version}_Summary.md`, `Output/appellate_argument_${version}_Summary.docx`);
