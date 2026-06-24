@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cs khas"
+  "_scraped_keyword": "cs khas",
+  "justice_names": [
+    "Mr. Justice Obaidul Hassan",
+    "Mr. Justice Md. Ashfaqul Islam"
+  ],
+  "case_type_name": "Civil Appeal"
 }

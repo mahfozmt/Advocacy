@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "court of wards recognition of tenant"
+  "_scraped_keyword": "court of wards recognition of tenant",
+  "justice_names": [
+    "Mr. Justice A. F. M. Ahsanuddin Chowdhury",
+    "Mr. Justice Kemaluddin Hussain",
+    "Mr. Justice Fazle Munim"
+  ],
+  "case_type_name": "Civil Appeal"
 }

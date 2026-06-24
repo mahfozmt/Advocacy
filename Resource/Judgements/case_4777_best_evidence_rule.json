@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "best evidence rule"
+  "_scraped_keyword": "best evidence rule",
+  "justice_names": [
+    "Mr. Justice F. K. M. Abdul Munim",
+    "Mr. Justice Badrul Haider Chowdhury",
+    "Mr. Justice Shahabuddin Ahmed"
+  ],
+  "case_type_name": "Civil Appeal"
 }

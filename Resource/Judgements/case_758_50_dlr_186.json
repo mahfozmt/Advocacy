@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "50 dlr 186"
+  "_scraped_keyword": "50 dlr 186",
+  "justice_names": [
+    "Mr. Justice Md. Emdadul Haque Azad"
+  ],
+  "case_type_name": "Civil Revision"
 }

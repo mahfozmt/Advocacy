@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "section 114(g) evidence act"
+  "_scraped_keyword": "section 114(g) evidence act",
+  "justice_names": [
+    "Mr. Justice Md. Nazrul Islam Talukder"
+  ],
+  "case_type_name": "Civil Revision"
 }

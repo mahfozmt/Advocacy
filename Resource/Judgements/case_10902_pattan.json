@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "pattan"
+  "_scraped_keyword": "pattan",
+  "justice_names": [
+    "Mr. Justice M.M. Ruhul Amin",
+    "Mr. Justice Md. Tafazzul Islam"
+  ],
+  "case_type_name": "Civil Appeal"
 }

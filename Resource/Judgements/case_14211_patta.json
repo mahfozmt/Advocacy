@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "patta"
+  "_scraped_keyword": "patta",
+  "justice_names": [
+    "Mr. Justice Kemaluddin Hussain",
+    "Mr. Justice Fazle Munim",
+    "Mr. Justice Ruhul Islam",
+    "Mr. Justice Badrul Haider Chowdhury"
+  ],
+  "case_type_name": "Civil Appeal"
 }

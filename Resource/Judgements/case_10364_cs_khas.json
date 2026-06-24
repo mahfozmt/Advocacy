@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cs khas"
+  "_scraped_keyword": "cs khas",
+  "justice_names": [
+    "Mr. Justice Abdul Wahhab Miah",
+    "Mr. Justice Afzal Hossain Ahmed"
+  ],
+  "case_type_name": "First Appeal"
 }

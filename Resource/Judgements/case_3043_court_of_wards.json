@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "Court of Wards"
+  "_scraped_keyword": "Court of Wards",
+  "justice_names": [
+    "Mr. Justice Abdus Salam Mamun"
+  ],
+  "case_type_name": "Civil Revision"
 }

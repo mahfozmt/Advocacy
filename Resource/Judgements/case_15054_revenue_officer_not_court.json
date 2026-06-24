@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "revenue officer not court"
+  "_scraped_keyword": "revenue officer not court",
+  "justice_names": [
+    "Mr. Justice Gobinda Chandra Tagore",
+    "Mr. Justice A.K.M. Shahidul Huq"
+  ],
+  "case_type_name": "Writ Petition"
 }

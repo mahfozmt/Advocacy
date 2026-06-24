@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "non production of document adverse inference"
+  "_scraped_keyword": "non production of document adverse inference",
+  "justice_names": [
+    "Mr. Justice Sheikh Hassan Arif",
+    "Mr. Justice Ahmed Sohel"
+  ],
+  "case_type_name": "Civil Revision"
 }

@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "নামজারি স্বত্ব সৃষ্টি করে না"
+  "_scraped_keyword": "নামজারি স্বত্ব সৃষ্টি করে না",
+  "justice_names": [
+    "Mr. Justice M. Enayetur Rahim",
+    "Mr. Justice Md. Mostafizur Rahman"
+  ],
+  "case_type_name": "Criminal Appeal"
 }

@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "pattan"
+  "_scraped_keyword": "pattan",
+  "justice_names": [
+    "Mr. Justice Md. Mozammel Haque",
+    "Mr. Justice Mahfuzur Rahman"
+  ],
+  "case_type_name": "Criminal Revision"
 }

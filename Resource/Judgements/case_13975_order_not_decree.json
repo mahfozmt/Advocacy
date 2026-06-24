@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "order not decree"
+  "_scraped_keyword": "order not decree",
+  "justice_names": [
+    "Mr. Justice Fazlay Hossain Mohammad Habibur Rahman",
+    "Mr. Justice Quazi Shafi Uddin"
+  ],
+  "case_type_name": "Appeal from Appellate Order"
 }

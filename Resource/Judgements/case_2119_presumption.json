@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "presumption"
+  "_scraped_keyword": "presumption",
+  "justice_names": [
+    "Mr. Justice Md. Abdur Rashid",
+    "Mr. Justice Md. Miftah Uddin Choudhury"
+  ],
+  "case_type_name": "Writ Petition"
 }

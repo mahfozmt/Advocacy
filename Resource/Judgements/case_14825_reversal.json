@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "reversal"
+  "_scraped_keyword": "reversal",
+  "justice_names": [
+    "Mr. Justice Mohammad Abdul Wahab"
+  ],
+  "case_type_name": "Civil Revision"
 }

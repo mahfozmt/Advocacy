@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "court of wards recognition of tenant"
+  "_scraped_keyword": "court of wards recognition of tenant",
+  "justice_names": [
+    "Mr. Justice Shahabuddin Ahmed",
+    "Mr. Justice M.H. Rahman",
+    "Mr. Justice A.T.M. Afzal",
+    "Mr. Justice Latifur Rahman"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

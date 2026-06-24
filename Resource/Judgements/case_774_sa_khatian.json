@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "sa khatian"
+  "_scraped_keyword": "sa khatian",
+  "justice_names": [
+    "Mr. Justice A.N.M. Bashir Ullah"
+  ],
+  "case_type_name": "Criminal Appeal"
 }

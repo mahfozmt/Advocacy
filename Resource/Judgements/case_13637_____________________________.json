@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "নামজারি স্বত্ব সৃষ্টি করে না"
+  "_scraped_keyword": "নামজারি স্বত্ব সৃষ্টি করে না",
+  "justice_names": [
+    "Mr. Justice A.B.M. Khairul Haque",
+    "Mr. Justice Syed Md. Ziaul Karim"
+  ],
+  "case_type_name": "Writ Petition"
 }

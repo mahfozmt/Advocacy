@@ -17,3 +17,15 @@ scratch/node_modules/
 
 !.gitignore
 !README.md
+
+# Ignore the APK archive and ZIP copy
+Resource/BD+Law+Reference_2.14.2_APKPure.apk
+Resource/BD+Law+Reference_2.14.2_APKPure - Copy.apk.zip
+
+# Ignore all files in the APK extract folder by default
+Resource/BD+Law+Reference_2.14.2_APKPure apk extract/**
+
+# Whitelist/allow only API-related files in the APK extract folder
+!Resource/BD+Law+Reference_2.14.2_APKPure apk extract/AndroidManifest.xml
+!Resource/BD+Law+Reference_2.14.2_APKPure apk extract/classes.dex
+!Resource/BD+Law+Reference_2.14.2_APKPure apk extract/resources.arsc

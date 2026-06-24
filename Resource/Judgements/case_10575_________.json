@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "হচপট দোষ"
+  "_scraped_keyword": "হচপট দোষ",
+  "justice_names": [
+    "Mr. Justice Zubayer Rahman Chowdhury",
+    "Mr. Justice Md. Abu Zafor Siddique"
+  ],
+  "case_type_name": "Jail Appeal"
 }

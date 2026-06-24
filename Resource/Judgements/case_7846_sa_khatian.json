@@ -34,5 +34,13 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "sa khatian"
+  "_scraped_keyword": "sa khatian",
+  "justice_names": [
+    "Mr. Justice Md. Ruhul Amin",
+    "Mr. Justice Mohammed Fazlul Karim",
+    "Mr. Justice M.M. Ruhul Amin",
+    "Mr. Justice Md. Tafazzul Islam",
+    "Mr. Justice Amirul Kabir Chowdhury"
+  ],
+  "case_type_name": "Criminal Petition for Leave to Appeal"
 }

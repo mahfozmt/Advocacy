@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cs khas"
+  "_scraped_keyword": "cs khas",
+  "justice_names": [
+    "Mr. Justice Hasan Foez Siddique",
+    "Mr. Justice Md. Nuruzzaman",
+    "Mr. Justice Obaidul Hassan",
+    "Mr. Justice M. Enayetur Rahim"
+  ],
+  "case_type_name": "Civil Appeal"
 }

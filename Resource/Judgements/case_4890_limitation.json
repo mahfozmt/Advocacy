@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "limitation"
+  "_scraped_keyword": "limitation",
+  "justice_names": [
+    "Mr. Justice Anwarul Haque"
+  ],
+  "case_type_name": "Appeal from Original Decree"
 }

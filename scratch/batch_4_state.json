@@ -1,0 +1,18 @@
+{
+  "query_0": {
+    "last_page": 5,
+    "completed": true
+  },
+  "query_1": {
+    "last_page": 3,
+    "completed": true
+  },
+  "query_2": {
+    "last_page": 1,
+    "completed": true
+  },
+  "query_3": {
+    "last_page": 1,
+    "completed": true
+  }
+}

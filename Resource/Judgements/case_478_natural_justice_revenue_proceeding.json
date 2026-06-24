@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "natural justice revenue proceeding"
+  "_scraped_keyword": "natural justice revenue proceeding",
+  "justice_names": [
+    "Mr. Justice Surendra Kumar Sinha",
+    "Mr. Justice Nazmun Ara Sultana",
+    "Mr. Justice Syed Mahmud Hossain",
+    "Mr. Justice Hasan Foez Siddique"
+  ],
+  "case_type_name": "Civil Appeal"
 }

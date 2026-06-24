@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "Bengal Tenancy"
+  "_scraped_keyword": "Bengal Tenancy",
+  "justice_names": [
+    "Mr. Justice Nazmun Ara Sultana",
+    "Mr. Justice Syed Mahmud Hossain",
+    "Mr. Justice Muhammad Imman Ali"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

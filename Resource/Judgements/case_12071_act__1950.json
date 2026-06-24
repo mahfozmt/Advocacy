@@ -34,5 +34,13 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "act, 1950"
+  "_scraped_keyword": "act, 1950",
+  "justice_names": [
+    "Mr. Justice Md. Muzammel Hossain",
+    "Mr. Justice Surendra Kumar Sinha",
+    "Mr. Justice Abdul Wahhab Miah",
+    "Mr. Justice Syed Mahmud Hossain",
+    "Mr. Justice A.H.M. Shamsuddin Chowdhury"
+  ],
+  "case_type_name": "Criminal Appeal"
 }
