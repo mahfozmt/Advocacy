@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "presumption"
+  "_scraped_keyword": "presumption",
+  "justice_names": [
+    "Mr. Justice A.K.M. Sadeque",
+    "Mr. Justice Mainur Reza Chowdhury"
+  ],
+  "case_type_name": "Writ Petition"
 }

@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "section 114(g) evidence act"
+  "_scraped_keyword": "section 114(g) evidence act",
+  "justice_names": [
+    "Mr. Justice Md. Latifur Rahman",
+    "Mr. Justice Bimalendu Bikash Roy Chowdhury",
+    "Mr. Justice A.M. Mahmudur Rahman",
+    "Mr. Justice Kazi Ebadul Hoque"
+  ],
+  "case_type_name": "Civil Appeal"
 }

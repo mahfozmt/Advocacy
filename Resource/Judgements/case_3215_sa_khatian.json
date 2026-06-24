@@ -34,5 +34,13 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "sa khatian"
+  "_scraped_keyword": "sa khatian",
+  "justice_names": [
+    "Mr. Justice A.T.M. Afzal",
+    "Mr. Justice Mustafa Kamal",
+    "Mr. Justice Latifur Rahman",
+    "Mr. Justice Mohammad Abdur Rouf",
+    "Mr. Justice Bimalendu Bikash Roy Chowdhury"
+  ],
+  "case_type_name": "Civil Appeal"
 }

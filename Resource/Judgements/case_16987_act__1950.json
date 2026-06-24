@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "act, 1950"
+  "_scraped_keyword": "act, 1950",
+  "justice_names": [
+    "Mr. Justice Obaidul Hassan",
+    "Mr. Justice Md. Ashfaqul Islam"
+  ],
+  "case_type_name": "Civil Appeal"
 }

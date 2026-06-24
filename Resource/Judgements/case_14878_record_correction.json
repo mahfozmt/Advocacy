@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "record correction"
+  "_scraped_keyword": "record correction",
+  "justice_names": [
+    "Mr. Justice F. K. M. Abdul Munim",
+    "Mr. Justice Badrul Haider Chowdhury",
+    "Mr. Justice Chowdhury A.T. M. Masud",
+    "Mr. Justice Syed Md. Mohsen Ali"
+  ],
+  "case_type_name": "Civil Appeal"
 }

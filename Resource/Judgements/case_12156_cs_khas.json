@@ -34,5 +34,14 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cs khas"
+  "_scraped_keyword": "cs khas",
+  "justice_names": [
+    "Mr. Justice Md. Tafazzul Islam",
+    "Mr. Justice Md. Joynul Abedin",
+    "Mr. Justice Md. Abdul Matin",
+    "Mr. Justice (Alhaj) Md. Abdul Aziz",
+    "Mr. Justice A.B.M. Khairul Haque",
+    "Mr. Justice Surendra Kumar Sinha"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

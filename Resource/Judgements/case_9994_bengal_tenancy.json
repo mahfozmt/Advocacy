@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "Bengal Tenancy"
+  "_scraped_keyword": "Bengal Tenancy",
+  "justice_names": [
+    "Mr. Justice Syed Amirul Islam"
+  ],
+  "case_type_name": "Civil Revision"
 }

@@ -56,10 +56,10 @@ graph TD
 │   ├── Appeal Memo submited.txt    # Admitted Appeal Memorandum
 │   └── [Various PDFs, DOCX, and MD files regarding case analysis]
 └── Output/                         # Generated assets and finalized artifacts
-    ├── appellate_argument_v48_Brief.md          # ⚖️ LATEST — Full brief with Section 144A & Burden of Proof logic
-    ├── appellate_argument_v48_Summary.md  # ⚡ LATEST — Concise court hearing aid
-    ├── appellate_argument_v47_Brief.md          # Historical version
-    ├── appellate_argument_v47_Summary.md  # Historical version
+    ├── appellate_argument_v54_Brief.md          # ⚖️ LATEST — Full brief with void record correction logic
+    ├── appellate_argument_v54_Summary.md  # ⚡ LATEST — Concise court hearing aid
+    ├── appellate_argument_v53_Brief.md          # Historical version
+    ├── appellate_argument_v53_Summary.md  # Historical version
     ├── create_docx.js              # Node.js script for document conversion
     ├── package.json                # Node.js dependencies configuration
     └── package-lock.json           # Node.js dependencies lockfile
@@ -80,7 +80,8 @@ The arguments in `/Output` have evolved across several major iterations:
   2. *Nawab Estate Chief Manager Rule:* Proving unapproved pattan invalidity (*Harun-al-Rashid Mollah vs. Bangladesh*, 12 BLC (AD) 79).
   3. *Burden of Proof Shift:* Enforcing Section 103 of the Evidence Act (*tapash Kanti Majumder*, 26 BLC (AD) 78).
 * **v35–v47:** Incremental refinement of arguments, integrating SCOB precedents and structural formatting.
-* **v48 (Section 144A & Dependent Invalidity - Current):** Re-engineered the logical flow explicitly connecting the statutory presumption of SA records under Section 144A SAT Act with Evidence Act Section 103. Established the dependent invalidity of the AC Land Volume Note on the unproven Misc Case.
+* **v48–v53:** Advanced developments on Nawab Estate Transition, ROR Presumption, and oral arguments structure.
+* **v54 (Void Record Correction & Summary Scope - Current):** Incorporated verified precedents **4 BLC (HD) 438** and **36 DLR (AD) 79** to dismantle the opponent's alleged record correction (Misc Case 1181/1969), establishing that a Section 143A ex-parte order passed without notice or inquiry is void ab initio, and that Section 143A cannot determine title.
 
 ---
 
@@ -100,6 +101,8 @@ The `Resource/Judgements` database was crawled using a structured Node.js script
 | | **49 DLR (AD) 15** | *Safaruddin vs. Fazlul Huq* | The Government is not a necessary party in a partition suit between private co-sharers. |
 | **E. Burden of Proof** | **26 BLC (AD) 78** | *Tapash Kanti vs. Sailandra Kumar* | Once the plaintiff proves the ROR record, the burden shifts to the defendant to prove the validity of any correction. |
 | **F. Jurisdiction** | **27 BLD (HD) 544** | *Malay Miah vs. Maharam Ali* | Miscellaneous cases are summary proceedings and cannot adjudicate substantive civil title. |
+| | **4 BLC (HD) 438** | *Osmanullah vs. Faizullah* | Ex-parte record correction order under Section 143A without serving notice is void ab initio. |
+| | **36 DLR (AD) 79** | *Assistant Custodian vs. Bholanath Guha* | Section 143A is a summary proceeding concerned only with possession, not declaration of title. |
 
 ---
 
@@ -120,7 +123,7 @@ When operating within this workspace, AI agents must strictly follow these instr
 - [x] Build search script mapping Keyword Groups A to F.
 - [x] Run crawler and generate `Resource/Judgements_Search_References.md`.
 - [x] Fully reorganize and structure `README.md` (Current).
-- [x] Draft appellate brief version `appellate_argument_v48_Brief.md` integrating the Section 144A logic.
-- [x] Draft summary aid `appellate_argument_v48_Summary.md`.
-- [ ] Compile drafts to court-ready `.docx` format using conversion scripts.
+- [x] Draft appellate brief version `appellate_argument_v54_Brief.md` integrating the void record correction logic.
+- [x] Draft summary aid `appellate_argument_v54_Summary.md`.
+- [x] Compile drafts to court-ready `.docx` format using conversion scripts.
 - [ ] Final human-in-the-loop review.

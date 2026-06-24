@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "title dispute requires title suit"
+  "_scraped_keyword": "title dispute requires title suit",
+  "justice_names": [
+    "Mr. Justice Ruhul Islam",
+    "Mr. Justice A.R.M. Amirul Islam Chowdhury"
+  ],
+  "case_type_name": "Petition"
 }

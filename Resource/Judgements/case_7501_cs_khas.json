@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cs khas"
+  "_scraped_keyword": "cs khas",
+  "justice_names": [
+    "Mr. Justice Mohammed Fazlul Karim",
+    "Mr. Justice Md. Joynul Abedin",
+    "Mr. Justice Md. Hassan Ameen"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

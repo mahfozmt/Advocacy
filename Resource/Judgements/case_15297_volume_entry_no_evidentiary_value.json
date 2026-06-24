@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "volume entry no evidentiary value"
+  "_scraped_keyword": "volume entry no evidentiary value",
+  "justice_names": [
+    "Mr. Justice Syed Refaat Ahmed"
+  ],
+  "case_type_name": "Company Matter"
 }

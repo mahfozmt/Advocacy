@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "separate khatian separate tenancy"
+  "_scraped_keyword": "separate khatian separate tenancy",
+  "justice_names": [
+    "Mr. Justice Mahmudul Amin Chowdhury",
+    "Mr. Justice Mainur Reza Chowdhury",
+    "Mr. Justice Mohammad Gholam Rabbani",
+    "Mr. Justice Md. Ruhul Amin"
+  ],
+  "case_type_name": "Civil Appeal"
 }

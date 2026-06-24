@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "Bengal Tenancy"
+  "_scraped_keyword": "Bengal Tenancy",
+  "justice_names": [
+    "Mr. Justice M.H. Rahman",
+    "Mr. Justice A.T.M. Afzal",
+    "Mr. Justice Mustafa Kamal",
+    "Mr. Justice Latifur Rahman"
+  ],
+  "case_type_name": "Civil Appeal"
 }

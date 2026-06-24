@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "কোর্ট অব ওয়ার্ডস"
+  "_scraped_keyword": "কোর্ট অব ওয়ার্ডস",
+  "justice_names": [
+    "Mr. Justice A.B.M. Khairul Haque",
+    "Mr. Justice Md. Abu Tariq"
+  ],
+  "case_type_name": "Suo-Motu Rule"
 }
