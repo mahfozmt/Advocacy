@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cadastral survey"
+  "_scraped_keyword": "cadastral survey",
+  "justice_names": [
+    "Mr. Justice Muhammad Imman Ali",
+    "Mr. Justice Mirza Hussain Haider",
+    "Mr. Justice Abu Bakar Siddiquee"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "50 dlr 186"
+  "_scraped_keyword": "50 dlr 186",
+  "justice_names": [
+    "Mr. Justice A.B.M. Khairul Haque",
+    "Mr. Justice A.T.M. Fazle Kabir"
+  ],
+  "case_type_name": "Writ Petition"
 }

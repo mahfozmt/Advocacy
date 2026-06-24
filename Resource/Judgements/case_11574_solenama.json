@@ -34,5 +34,14 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "solenama"
+  "_scraped_keyword": "solenama",
+  "justice_names": [
+    "Mr. Justice Mohammed Fazlul Karim",
+    "Mr. Justice Md. Abdul Matin",
+    "Mr. Justice Shah Abu Nayeem Mominur Rahman",
+    "Mr. Justice A.B.M. Khairul Haque",
+    "Mr. Justice Md. Muzammel Hossain",
+    "Mr. Justice Surendra Kumar Sinha"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

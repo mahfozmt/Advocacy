@@ -34,5 +34,13 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "kabuliyat"
+  "_scraped_keyword": "kabuliyat",
+  "justice_names": [
+    "Mr. Justice F. K. M. Abdul Munim",
+    "Mr. Justice Badrul Haider Chowdhury",
+    "Mr. Justice Shahabuddin Ahmed",
+    "Mr. Justice M.H. Rahman",
+    "Mr. Justice A.T.M. Afzal"
+  ],
+  "case_type_name": "Civil Appeal"
 }

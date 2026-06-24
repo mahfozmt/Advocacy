@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "cadastral survey"
+  "_scraped_keyword": "cadastral survey",
+  "justice_names": [
+    "Mr. Justice Naimuddin Ahmed",
+    "Mr. Justice Mohammad Gholam Rabbani"
+  ],
+  "case_type_name": "Writ Petition"
 }

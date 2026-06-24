@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "act, 1950"
+  "_scraped_keyword": "act, 1950",
+  "justice_names": [
+    "Mr. Justice Muhammad Khurshid Alam Sarkar"
+  ],
+  "case_type_name": "Civil Revision"
 }

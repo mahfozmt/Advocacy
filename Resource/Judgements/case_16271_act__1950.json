@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "act, 1950"
+  "_scraped_keyword": "act, 1950",
+  "justice_names": [
+    "Mr. Justice Syed Mahmud Hossain",
+    "Mr. Justice Hasan Foez Siddique",
+    "Mr. Justice Mirza Hussain Haider"
+  ],
+  "case_type_name": "Civil Appeal"
 }

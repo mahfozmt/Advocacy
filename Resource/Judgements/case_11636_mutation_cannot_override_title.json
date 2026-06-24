@@ -34,5 +34,15 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "mutation cannot override title"
+  "_scraped_keyword": "mutation cannot override title",
+  "justice_names": [
+    "Mr. Justice Md. Muzammel Hossain",
+    "Mr. Justice Surendra Kumar Sinha",
+    "Mr. Justice Abdul Wahhab Miah",
+    "Mr. Justice Nazmun Ara Sultana",
+    "Mr. Justice Syed Mahmud Hossain",
+    "Mr. Justice Muhammad Imman Ali",
+    "Mr. Justice Muhammad Mamataz Uddin Ahmed"
+  ],
+  "case_type_name": "Civil Appeal"
 }

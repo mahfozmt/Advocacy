@@ -34,5 +34,9 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "kabuliyat"
+  "_scraped_keyword": "kabuliyat",
+  "justice_names": [
+    "Mr. Justice A.K.M. Abdul Hakim"
+  ],
+  "case_type_name": "Civil Revision"
 }

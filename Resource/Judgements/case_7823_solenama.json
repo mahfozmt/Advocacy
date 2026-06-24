@@ -34,5 +34,11 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "solenama"
+  "_scraped_keyword": "solenama",
+  "justice_names": [
+    "Mr. Justice Md. Ruhul Amin",
+    "Mr. Justice Md. Tafazzul Islam",
+    "Mr. Justice Md. Hassan Ameen"
+  ],
+  "case_type_name": "Civil Appeal"
 }

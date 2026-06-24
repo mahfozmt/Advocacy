@@ -1,0 +1,228 @@
+<USER_REQUEST>
+see all @[f:\Mahfoz\Advocacy\scratch]  content, and feed back in  below
+
+আপনার উদ্দেশ্য যদি **নিজেদের পক্ষে আর্গুমেন্ট শক্তিশালী করার জন্য প্রাসঙ্গিক নজির খোঁজা** হয়, তাহলে শুধু `Record correction` দিলে অনেক অপ্রাসঙ্গিক রায় আসবে। আমি হলে কয়েকটি আলাদা সার্চ ব্যাচ চালাতাম।
+
+আপনাদের কেসের মূল থিম ৭টি:
+
+1. Finally Published SA Khatian Presumption
+2. Burden of Proof on Challenger
+3. Mutation/Volume Note not Title
+4. Misc Case cannot decide Title
+5. Revenue Officer cannot adjudicate title
+6. Unregistered Patta extinguished after State Acquisition
+7. Partition Suit should not fail merely on dispute
+
+### Batch-1 : SA Record Presumption
+
+```text
+anykey=finally published khatian
+MoreOne=144A
+```
+
+```text
+anykey=presumption of correctness
+MoreOne=SA khatian
+```
+
+```text
+anykey=record of rights presumption
+MoreOne=144A
+```
+
+```text
+anykey=state acquisition tenancy act
+MoreOne=144A
+```
+
+---
+
+### Batch-2 : Mutation / Volume Note
+
+```text
+anykey=mutation does not create title
+MoreOne=mutation
+```
+
+```text
+anykey=mutation not document of title
+MoreOne=record correction
+```
+
+```text
+anykey=revenue record title
+MoreOne=mutation
+```
+
+```text
+anykey=presumptive value mutation
+MoreOne=mutation
+```
+
+এখান থেকে 53 DLR 19 টাইপের আরও রায় পাওয়ার সম্ভাবনা বেশি।
+
+---
+
+### Batch-3 : Misc Case Jurisdiction
+
+```text
+anykey=title cannot be decided
+MoreOne=miscellaneous case
+```
+
+```text
+anykey=declaration of title
+MoreOne=misc case
+```
+
+```text
+anykey=miscellaneous proceeding title
+MoreOne=title suit
+```
+
+```text
+anykey=question of title
+MoreOne=miscellaneous proceeding
+```
+
+---
+
+### Batch-4 : Revenue Officer / AC Land Jurisdiction
+
+এটা আপনার কেসের জন্য খুব গুরুত্বপূর্ণ।
+
+```text
+anykey=revenue officer cannot decide title
+MoreOne=title
+```
+
+```text
+anykey=mutation authority cannot decide title
+MoreOne=mutation
+```
+
+```text
+anykey=adjudication of title
+MoreOne=revenue officer
+```
+
+```text
+anykey=collector cannot decide title
+MoreOne=mutation
+```
+
+---
+
+### Batch-5 : Burden of Proof
+
+```text
+anykey=burden of proof
+MoreOne=section 103
+```
+
+```text
+anykey=challenger must prove
+MoreOne=record
+```
+
+```text
+anykey=onus lies upon defendant
+MoreOne=title
+```
+
+```text
+anykey=presumption rebutted
+MoreOne=evidence
+```
+
+---
+
+### Batch-6 : Unregistered Patta
+
+```text
+anykey=unregistered patta
+MoreOne=state acquisition
+```
+
+```text
+anykey=patta extinguished
+MoreOne=state acquisition
+```
+
+```text
+anykey=unregistered settlement
+MoreOne=estate acquisition
+```
+
+```text
+anykey=patta registration act
+MoreOne=lease
+```
+
+---
+
+### Batch-7 : Partition Suit
+
+```text
+anykey=partition suit maintainable
+MoreOne=co-sharer
+```
+
+```text
+anykey=preliminary decree partition
+MoreOne=partition
+```
+
+```text
+anykey=non joinder partition suit
+MoreOne=partition
+```
+
+```text
+anykey=hotchpot partition
+MoreOne=partition
+```
+
+---
+
+আমার মতে, আপনার কেসের জন্য **সবচেয়ে মূল্যবান নতুন নজির** পাওয়া যেতে পারে এই তিন সার্চ থেকে:
+
+```text
+anykey=revenue officer cannot decide title
+MoreOne=title
+```
+
+```text
+anykey=mutation authority cannot decide title
+MoreOne=mutation
+```
+
+```text
+anykey=title cannot be decided
+MoreOne=miscellaneous case
+```
+
+কারণ বর্তমানে আপনার আর্গুমেন্টের সবচেয়ে শক্তিশালী আক্রমণাত্মক লাইন হলো:
+
+> "ধরি Volume Note সত্য। তারপরও AC Land-এর mutation jurisdiction স্বত্ব নির্ধারণের jurisdiction নয়। ফলে নতুন co-sharer সৃষ্টি করা এবং Abdul Ali-এর 16 আনা স্বত্ব কেটে Abdul Karim-কে প্রবেশ করানো ক্ষমতার অতিরিক্ত (coram non judice)।"
+
+এই পয়েন্টে যদি ২-৩টা শক্তিশালী Appellate Division বা High Court Division নজির পান, তাহলে Issue No. 5 অনেক বেশি বিধ্বংসী হয়ে যাবে।
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-06-24T17:50:59+06:00.
+
+The user's current state is as follows:
+Active Document: f:\Mahfoz\Advocacy\Output\appellate_argument_v54.1_Summary.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 1
+Other open documents:
+- f:\Mahfoz\Advocacy\Output\appellate_argument_v54.1_Summary.md (LANGUAGE_MARKDOWN)
+
+The user has mentioned some items in the form @[ITEM]. Here is extra information about the items that were mentioned by the user, in the order that they appear:
+
+@[f:\Mahfoz\Advocacy\scratch] is a [File]:
+f:\Mahfoz\Advocacy\scratch
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from Gemini 3.5 Flash (Medium) to Gemini 3.1 Pro (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>

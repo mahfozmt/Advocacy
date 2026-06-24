@@ -34,5 +34,12 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "act, 1950"
+  "_scraped_keyword": "act, 1950",
+  "justice_names": [
+    "Mr. Justice M.M. Ruhul Amin",
+    "Mr. Justice Md. Tafazzul Islam",
+    "Mr. Justice Md. Abdul Matin",
+    "Mr. Justice (Alhaj) Md. Abdul Aziz"
+  ],
+  "case_type_name": "Civil Petition for Leave to Appeal"
 }

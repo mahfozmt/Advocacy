@@ -34,5 +34,10 @@
   "MoreOne": null,
   "MoreTwo": null,
   "MatchType": null,
-  "_scraped_keyword": "limitation"
+  "_scraped_keyword": "limitation",
+  "justice_names": [
+    "Mr. Justice Mirza Hussain Haider",
+    "Mr. Justice Muhammad Abdul Hafiz"
+  ],
+  "case_type_name": "Writ Petition"
 }
