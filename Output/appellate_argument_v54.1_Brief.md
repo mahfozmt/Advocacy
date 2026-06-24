@@ -1,7 +1,7 @@
-# জেলা জজ আদালত, টাঙ্গাইল
+# जिला জজ আদালত, টাঙ্গাইল
 ## আপীল মামলা নং ৩৮/২০২৬
 ### হাতেম আলী ও অন্যান্য বনাম আলহাজ উদ্দিন ও অন্যান্য
-**আপীল্যান্টপক্ষের পূর্ণাঙ্গ লিখিত যুক্তিতর্ক (Version 54 — Final Master Brief)**
+**আপীল্যান্টপক্ষের পূর্ণাঙ্গ লিখিত যুক্তিতর্ক (Version 54.1 — Final Master Brief)**
 
 ---
 
@@ -52,7 +52,7 @@ SA ২৩৮ নং খতিয়ানই বাদীপক্ষের প�
 - চূড়ান্ত প্রকাশনার পরও সংশোধিত হয়নি
 - ৫০ বছরের অধিক সময়েও Record Room সংশোধিত হয়নি
 
-আইন এতগুলো ধারাবাহিক প্রাতিষ্ঠানিক ভুলের উপর স্বত্ব প্রতিষ্ঠা করে না।
+আইন এতগুলো ধারাবাহিক প্রাতিষ্ঠানিক ভুল ও কল্পকাহিনীর উপর স্বত্ব প্রতিষ্ঠা করে না।
 
 ---
 
@@ -78,10 +78,10 @@ SA ২৩৮ নং খতিয়ানই বাদীপক্ষের প�
 ---
 
 # ISSUE NO. 3
-## কথিত ১৯৩৪ সালের পত্তন ও Misc Case No. 1181/1969 — উভয়ই আইনগতভাবে অকার্যকর
-### *(The Double Collapse & The Absence of Parent Record)*
+## কথিত ১৯৩৪ সালের পত্তন ও Misc Case No. 1181/1969 — উভয়ই আইনগতভাবে সম্পূর্ণ অকার্যকর
+### *(The Double Collapse, Voidness under Section 143A & The Absence of Parent Record)*
 
-মহামান্য আদালত, বিবাদীদের সমগ্র মামলার ভিত্তি দুইটি। প্রথমটি — ১৯৩৪ সালের কথিত পত্তন। দ্বিতীয়টি — ১৯৬৯ সালের কথিত Misc Case। উভয়ই আইনগতভাবে অকার্যকর।
+মহামান্য আদালত, বিবাদীদের সমগ্র মামলার ভিত্তি দুইটি। প্রথমটি — ১৯৩৪ সালের কথিত পত্তন। দ্বিতীয়টি — ১৯৬৯ সালের কথিত Misc Case। উভয়ই আইনগতভাবে সম্পূর্ণ অকার্যকর।
 
 **কথিত পত্তনের মারাত্মক দুর্বলতা:**
 
@@ -90,13 +90,23 @@ SA ২৩৮ নং খতিয়ানই বাদীপক্ষের প�
 
 > **Md. Shajahan Bhuiyan vs. Md. Nurul Alam, 4 SCOB [2015] HCD 52:** *"Irrespective of whatever title or right was acquired by virtue of the unregistered patta, it had extinguished as a result of State Acquisition."*
 
-**কথিত Misc Case-এর মারাত্মক দুর্বলতা (দলিলাদির সম্পূর্ণ অনুপস্থিতি):**
+**কথিত Misc Case-এর মারাত্মক দুর্বলতা (দলিলাদির সম্পূর্ণ অনুপস্থিতি ও আইনি অকার্যকারিতা):**
 
-বিবাদীরা Misc Case-এর অস্তিত্ব দাবি করিলেও সেই কার্যবিবরণী, আদেশ, রায় বা প্রত্যয়িত কপি আদালতে উপস্থাপন করেননি। যে Misc Case-এর উপর নির্ভর করিয়া একটি finally published State Record পরিবর্তনের দাবি করা হইতেছে, তাহার আদেশ বা certified copy না থাকায় আদালত আদৌ জানিতে পারিতেছেন সম্পাদক না যে উহা title matter ছিল, correction matter ছিল, না অন্য কোনো প্রশাসনিক কার্যক্রম ছিল।
+বিবাদীরা Misc Case-এর অস্তিত্ব দাবি করিলেও সেই কার্যবিবরণী, সমন জারির প্রমাণ, তদন্ত প্রতিবেদন, আদেশ, রায় বা প্রত্যয়িত কপি আদালতে উপস্থাপন করেননি। যে Misc Case-এর উপর নির্ভর করিয়া একটি finally published State Record পরিবর্তনের দাবি করা হইতেছে, তাহার আদেশ বা certified copy না থাকায় আদালত আদৌ জানিতে পারিতেছেন না যে উহা title matter ছিল, correction matter ছিল, না অন্য কোনো প্রশাসনিক কার্যক্রম ছিল।
 
-অধিকন্তু, আইনের দৃষ্টিতে প্রশ্ন — Misc Case-এর মাধ্যমে কারো স্বত্ব নির্ধারণ করা যায় কি?
-- **Specific Relief Act ধারা ৪২:** title declaration কেবল পূর্ণাঙ্গ suit-এর মাধ্যমেই সম্ভব।
-- **SAT Act ধারা ১৪৩/১৪৪:** SA খতিয়ান সংশোধনের এখতিয়ার Revenue Officer ও Settlement Officer-এর। দেওয়ানি আদালতের Misc Case-এর মাধ্যমে State Record সংশোধন বা Title adjudicate করা যায় না।
+অধিকন্তু, দেওয়ানি আদালতের Misc Case-এর মাধ্যমে State Record সংশোধন বা Title adjudicate করা যায় না।
+
+**১. কথিত রেকর্ড সংশোধন আইনগতভাবে অবৈধ ও এখতিয়ারবিহীন:**
+تৎকালীন সময়ে বলবৎ থাকা SAT Act-এর ধারা ১৪৩A ছিল একটি বিশেষ বিধান।
+* **Title Adjudication অসম্ভব:** ধারা ১৪৩A-এর অধীনে যেকোনো কার্যক্রম কেবল দখল (possession)-এর ভিত্তিতে রেকর্ড সংশোধনের জন্য প্রযোজ্য ছিল, এটি স্বত্ব ঘোষণার (declaration of title) জন্য কোনো মামলা নয়। স্বত্ব নির্ধারণের এখতিয়ার দেওয়ানি আদালতের মূল মামলার (title suit) এবং উহার জন্য **Specific Relief Act-এর ধারা ৪২** প্রযোজ্য।
+* **তদন্ত প্রতিবেদন ব্যতিরেকে আদেশ অবৈধ:** ধারা ১৪৩A(৪) অনুযায়ী সংশ্লিষ্ট রাজস্ব কর্মকর্তা (Revenue Officer) কর্তৃক সরেজমিনে তদন্ত (local inquiry) ও তদন্ত প্রতিবেদন দাখিল করা বাধ্যতামূলক ছিল। বিবাদীরা কোনো তদন্ত প্রতিবেদন দাখিল করতে পারেননি।
+
+**২. নোটিশ ব্যতিরেকে ex-parte আদেশ সম্পূর্ণ বাতিল ও শূন্য (Void ab initio):**
+* ধারা ১৪৩A(১৩) এবং দেওয়ানি কার্যবিধি আইনের Order XLVII Rule 4(2) অনুযায়ী, রেকর্ডভুক্ত রায়ত বা সংক্ষুব্ধ পক্ষকে নোটিশ প্রদান এবং সমন জারি করা বাধ্যতামূলক। নোটিশ ব্যতিরেকে পাসকৃত যেকোনো ex-parte সংশোধন আদেশ আইনের দৃষ্টিতে শূন্য ও অকার্যকর।
+
+> **৪ BLC (HD) ৪৩৮ (Osmanullah vs. Faizullah):** *"An ex-parte order passed in a Miscellaneous Case under section 143A of the East Bengal State Acquisition and Tenancy Act for correction of the record of rights without due service of notices upon the recorded owners and affected parties is illegal, void, fraudulent and without jurisdiction."*
+
+> **Assistant Custodian vs. Bholanath Guha, 36 DLR (AD) 79:** *"An application under section 143A of the SAT Act is not a suit for declaration of title but is a proceeding for rectification of mistakes in the record of right prepared on the basis of possession... Title to the land is beyond the scope of this section."*
 
 > **27 BLD (HD) 544:** *"Question of title cannot be decided in a miscellaneous proceeding. Declaration of title requires properly constituted suit."*
 
@@ -111,7 +121,8 @@ SA ২৩৮ নং খতিয়ানই বাদীপক্ষের প�
 AC Land Volume Note কোনো স্বয়ংসম্পূর্ণ আইনি আদেশ নহে; ইহা একটি সাবসিডিয়ারি কার্যকরী নথি (subsidiary working copy) মাত্র। বিবাদীদের দাবি অনুযায়ী, এই Volume Note-টি ১৯৬৯ সালের Misc Case-এর আদেশের ভিত্তিতে লেখা হইয়াছিল।
 
 **The Logical Flow of Invalidity (The Root and Fruit):**
-**কথিত Misc Case যদি প্রমাণিত না হয়, তবে সেই Misc Case-এর ফলশ্রুতি হিসেবে দাবি করা Volume Note-ও স্বাধীনভাবে টিকিয়া থাকিতে পারে না। মূল আদেশ (Root) ব্যর্থ হলে তার উপর নির্ভরশীল নোটও (Fruit) ব্যর্থ হয়।** Parent order বা মূল রায় প্রমাণ না করিয়া শুধুমাত্র subsidiary register-এর একটি margin note দিয়া Section 144A-এর statutory presumption খণ্ডন করা অসম্ভব।
+
+**কথিত Misc Case যদি প্রমাণিত না হয় (যেহেতু কোনো আদেশ বা নথিপত্র বিবাদীরা দাখিল করেননি), তবে সেই Misc Case-এর ফলশ্রুতি হিসেবে দাবি করা Volume Note-ও স্বাধীনভাবে টিকিয়া থাকিতে পারে না। মূল আদেশ (Root) নোটিশ ও তদন্তের অভাবে অবৈধ ও বাতিল হলে (৪ BLC (HD) ৪৩৮), তার উপর নির্ভরশীল নোটও (Fruit) স্বয়ংক্রিয়ভাবে বাতিল ও মূল্যহীন হইয়া পড়ে (Dependent Invalidity)।** Parent order বা মূল রায় প্রমাণ না করিয়া শুধুমাত্র subsidiary register-এর একটি margin note দিয়া Section 144A-এর statutory presumption খণ্ডন করা অসম্ভব।
 
 **বৈধ mutation-এর জন্য যাহা যাহা লাগে — এর কোনোটিই নাই:**
 
@@ -130,6 +141,7 @@ AC Land Volume Note কোনো স্বয়ংসম্পূর্ণ আই�
 > **Shahera Khatun vs. State, 53 DLR 19:** Volume note বা mutation-এর কোনো presumptive value নাই।
 
 **এই আপীলের উত্তরহীন তিনটি প্রশ্ন (The Silence of the Record Room):**
+
 বিবাদীরা ১৯৬৯ সালে সংশোধন হইয়াছে বলিয়া দাবি করেন। তাহা হইলে —
 ১. Record Room-এর মূল SA খতিয়ান **আজও অপরিবর্তিত কেন?**
 ২. Register of Alterations-এ **কোনো Entry নাই কেন?**
@@ -140,9 +152,10 @@ AC Land Volume Note কোনো স্বয়ংসম্পূর্ণ আই�
 ---
 
 # ISSUE NO. 5
-## AC Land-এর এখতিয়ার বহির্ভূত কারসাজি এবং ট্রায়াল কোর্টের Evidentiary Standard Error
+## AC Land-এর এখতিয়ার এবং ট্রায়াল কোর্টের Evidentiary Standard Error
 
 মহামান্য আদালত,
+
 বিবাদীপক্ষের দাবিটি খতিয়ানে কোনো সাধারণ 'করণিক ভুল' (Clerical Mistake) বা নামের বানান সংশোধনের বিষয় নহে। তাহারা দাবি করিতেছেন যে একটি চূড়ান্তভাবে প্রকাশিত রাষ্ট্র-স্বীকৃত SA খতিয়ানে নতুন অংশীদার (co-sharer) যুক্ত করা হইয়াছে এবং মূল রায়তের স্বত্ব কর্তন করা হইয়াছে।
 
 আইন অনুযায়ী, **AC Land বা রাজস্ব কর্মকর্তার mutation jurisdiction স্বত্ব নির্ধারণের (adjudication of title) jurisdiction নহে। নতুন অংশীদার সংযোজন বা বিদ্যমান রায়তের স্বত্ব কর্তন করিয়া প্রতিদ্বন্দ্বী স্বত্ব সৃষ্টি করা তাহার এখতিয়ারভুক্ত নহে।** এটি কেবল উপযুক্ত দেওয়ানি আদালতের এখতিয়ারভুক্ত।
@@ -216,20 +229,22 @@ AC Land Volume Note কোনো স্বয়ংসম্পূর্ণ আই�
 |---|---|---|
 | ১ | 50 DLR 186 | SA খতিয়ানের statutory presumption under Sec 144A |
 | ২ | 5 SCOB (2015) AD 89 | SA খতিয়ানের statutory presumption |
-| ৩ | 27 BLD (HD) 544 | Misc Case-এ title adjudication সম্ভব নহে |
-| ৪ | 53 DLR 19 | Mutation/Volume note-এর কোনো presumptive value নাই |
-| ৫ | 7 SCOB [2016] HCD 135 | Notice ছাড়া SA সংশোধন void |
-| ৬ | 10 SCOB [2018] HCD 235 | Finally published SA Khatian reopening ultra vires |
-| ৭ | 18 SCOB [2023] AD 20 | Procured SA entry প্রতিষ্ঠিত স্বত্ব override করে না |
-| ৮ | 10 BLT (AD) 105; 45 DLR (AD) 124 | Burden of proof চ্যালেঞ্জকারীর উপর (Section 103) |
-| ৯ | 19 SCOB [2024] HCD 85 | বাদীর দুর্বলতায় বিবাদী মালিক হয় না |
+| ৩ | 4 BLC (HD) 438 | Section 143A-এর কথিত ex parte সংশোধন নোটিশ ও তদন্ত ছাড়া অবৈধ ও void ab initio |
+| ৪ | 27 BLD (HD) 544 | Misc Case-এ title adjudication সম্ভব নহে |
+| ৫ | 53 DLR 19 | Mutation/Volume note-এর কোনো presumptive value নাই |
+| ৬ | 7 SCOB [2016] HCD 135 | Notice ছাড়া SA সংশোধন void |
+| ৭ | 10 SCOB [2018] HCD 235 | Finally published SA Khatian reopening ultra vires |
+| ৮ | 18 SCOB [2023] AD 20 | Procured SA entry প্রতিষ্ঠিত স্বত্ব override করে না |
+| ৯ | 10 BLT (AD) 105; 45 DLR (AD) 124 | Burden of proof চ্যালেঞ্জকারীর উপর (Section 103) |
+| ১০ | 19 SCOB [2024] HCD 85 | বাদীর দুর্বলতায় বিবাদী মালিক হয় না |
 
 **সহায়ক নজির:**
 
 | ক্র. | নজির | বিষয় |
 |---|---|---|
-| ১০ | 12 BLC (AD) 79 | নবাব এস্টেটের পত্তন — অনুমোদন ছাড়া void |
-| ১১ | 6 BLD (AD) 70 | রাষ্ট্রীয় স্বীকৃতিই tenancy-র ভিত্তি |
-| ১২ | 49 DLR (AD) 15; 8 SCOB (2016) HCD 1 | প্রাইভেট বাটোয়ারায় সরকার necessary party নহে |
-| ১৩ | 27 BLD 229 | Separate khatian separate tenancy; no hotchpot defect |
-| ১৪ | 23 BLD (AD) 83 | অসৎ বিবাদীর ইচ্ছায় civil court থামে না |
+| ১১ | 36 DLR (AD) 79 | Section 143A-এর পরিধি দখল সংশোধনে সীমাবদ্ধ, স্বত্ব নির্ধারণে নহে |
+| १२ | 12 BLC (AD) 79 | নবাব এস্টেটের পত্তন — অনুমোদন ছাড়া void |
+| ১৩ | 6 BLD (AD) 70 | রাষ্ট্রীয় স্বীকৃতিই tenancy-র ভিত্তি |
+| ১৪ | 49 DLR (AD) 15; 8 SCOB (2016) HCD 1 | প্রাইভেট বাটোয়ারায় সরকার necessary party নহে |
+| ১৫ | 27 BLD 229 | Separate khatian separate tenancy; no hotchpot defect |
+| ১৬ | 23 BLD (AD) 83 | অসৎ বিবাদীর ইচ্ছায় civil court থামে না |
