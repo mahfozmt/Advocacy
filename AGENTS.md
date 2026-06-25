@@ -25,6 +25,12 @@ When operating within this workspace, you MUST strictly follow these instruction
 5. **Document Compilation:** 
    Use the Node.js script `Output/create_docx.js` to compile markdown drafts into court-ready document formats when requested.
 
+6. **Batched Data Handling:** 
+   When fetching or processing large volumes of judgments, DO NOT save each judgment as an individual file, as this causes severe browser hangs. Save outputs into batched JSON files (max 50-100 items per file).
+
+7. **Chunked Operations & PRs:** 
+   For operations taking a very long time (like scraping 1000+ judgments), work in chunks. Commit, push, and report progress back to the user to avoid session timeouts.
+
 ## 📂 Key Directories
 - `Resource/`: Contains the primary knowledge base, raw materials, and structured databases of Supreme Court cases.
 - `Output/`: Contains the generated assets, finalized artifacts, and the markdown briefs.
