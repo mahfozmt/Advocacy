@@ -1,0 +1,54 @@
+{
+    "A1_Root_Title": [
+        {
+            "ref": "42 DLR (HD) 434",
+            "parties": "Noor Mohammad Khan & ors ----- Appellants  \r\nVs. \r\nGovernment of the People's Republic of Bangladesh & ors ----- Respondents",
+            "court": "First Appeal"
+        },
+        {
+            "ref": "30 DLR (AD) 41",
+            "parties": "Ajufannessa @ Aji Bibi and others  ------- Appellants.\r\nVs.\r\nSafar Miah and others  ------- Respondents.",
+            "court": "Civil Appeal"
+        },
+        {
+            "ref": "47 DLR (HD) 26",
+            "parties": "Mayurer Nessa and others ------ Appellants\r\nvs\r\nJulekha Khatoon and others ------ Respondents",
+            "court": "Second Appeal"
+        }
+    ],
+    "A2_Misc_Case_Adverse_Inference": [
+        {
+            "ref": "30 DLR (AD) 81",
+            "parties": "Akrab Ali and others  ------- Appellants.\r\nVs.\r\nZahiruddin Kari and others  ------- Respondents.",
+            "court": "Civil Appeal"
+        },
+        {
+            "ref": "21 ALR (HD) 348,23 BLC (HD) 732,38 BLD (HD) 119",
+            "parties": "Assistant Horticulturist ------- Defendant-Appellant-Petitioner\r\nVS\r\nMA Sattar Bhuiyan and others ---------- Plaintiff-Respondent-Opposite Parties",
+            "court": "Civil Revision"
+        },
+        {
+            "ref": "3 ALR (HD) 211,18 BLC (HD) 806",
+            "parties": "STS Educational Group Limited ------ Petitioners\r\nvs. \r\nBangladesh, represented by the Secretary, Ministry of Land and others ------ Respondents",
+            "court": "Writ Petition"
+        }
+    ],
+    "A3_Volume_Note_Mutation": [],
+    "SA_Presumption": [
+        {
+            "ref": "56 DLR (AD) 53,24 BLD (AD) 85,12 BLT (AD) 98,1 ADC 15,9 MLR (AD) 82",
+            "parties": "Government of Bangladesh, represented by the Additional Deputy Commissioner ------ Appellant\r\nVs\r\nAKM Abdul Hye and ors  ------ Respondents",
+            "court": "Civil Appeal"
+        },
+        {
+            "ref": "30 BLC (AD) 121,19 ADC 801",
+            "parties": "Government of Bangladesh, represented by the Deputy Commissioner, Chittagong and others (In C.A. No.253 of 2015) …… Appellants\r\nManaging Director, Chittagong Urea Fertilizer Project, Rangadia, Upazilla Anwara, District: Chittagong (In C.R.P. No.94 of 2014) …… Petitioner\r\nManaging Director, Chittagong Urea Fertilizer Limited, Rangadia, Upazilla Anwara, District: Chittagong (In C.P. No.1311 of 2010) …… Petitioner\r\n=VERSUS=\r\nAbdul Salam Chowdhury being dead his heirs:1)(a) Fatema Begum and others (In all the cases) …… Respondents",
+            "court": "Civil Appeal"
+        },
+        {
+            "ref": "39 BLD (HD) 144,24 BLC (HD) 592,12 SCOB (HD) 211",
+            "parties": "Azadul Islam and others -------- Defendant-Respondent-Petitioners\r\nVS\r\nAsis Bewa and others -------- Plaintiff-Appellant-Opposite Parties",
+            "court": "Civil Revision"
+        }
+    ]
+}

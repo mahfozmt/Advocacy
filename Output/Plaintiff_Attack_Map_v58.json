@@ -1,0 +1,23 @@
+{
+    "attack_strategy": "Root Destruction & Evidentiary Strictness",
+    "attacks": [
+        {
+            "id": "A1",
+            "target": "D1 (Root Title)",
+            "argument": "The Trial Court accepted derivative title without proving root title. Absent a registered patta or estate return, Abdul Karim was never a legal tenant. Therefore, his heirs had nothing to inherit.",
+            "type": "factual_and_legal"
+        },
+        {
+            "id": "A2",
+            "target": "D2 (Misc Case)",
+            "argument": "The Trial Court illegally shifted the burden of proof. Plaintiffs proved SA Khatian (State Recognition). Defendants failed to produce the Misc Case decree. Court must presume the decree did not exist or was unfavorable.",
+            "type": "burden_of_proof"
+        },
+        {
+            "id": "A3",
+            "target": "D3 (Volume Note)",
+            "argument": "The Trial Court illegally elevated a fraudulent, different-ink margin note in a revenue working copy over the constitutionally mandated DC Record Room original. Furthermore, defendants' own 1975 deed contradicts the 1969 correction theory.",
+            "type": "evidentiary"
+        }
+    ]
+}
