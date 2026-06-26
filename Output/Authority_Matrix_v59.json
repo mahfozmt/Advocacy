@@ -1,0 +1,52 @@
+[
+    {
+        "id": "AUTH_1",
+        "citation": "50 DLR 186",
+        "parties": "Dayal Chandra Mondal vs. Asst. Custodian",
+        "court": "High Court Division",
+        "principle": "\"A record of rights finally published and revised under section 144A of the S.A.T. Act has a presumption of correctness and that presumption continues till it is rebutted by reliable evidence.\"",
+        "application": "এস.এ ২৩৮ খতিয়ানটি আব্দুল আলীর নামে চূড়ান্তভাবে প্রকাশিত হইয়াছে। ফলে আইনের ১৪৪এ ধারা অনুযায়ী এই খতিয়ানটি সঠিক বলিয়া আইনি অনুমান (presumption) লাভ করে।",
+        "destroyed_finding": "ট্রায়াল কোর্ট কোনো নির্ভরযোগ্য সাক্ষ্য ছাড়াই একটি State Record বাতিল করিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_2",
+        "citation": "35 DLR (AD) 230",
+        "parties": "S.M. Basiruddin Vs. Zahurul Islam Chowdhury",
+        "court": "Appellate Division",
+        "principle": "\"The onus to prove that the entry in the finally published record of rights is wrong lies heavily upon the party who challenges it.\"",
+        "application": "এস.এ ২৩৮ খতিয়ান দাখিল করার পর Evidence Act 103 অনুযায়ী ইহা ভুল প্রমাণ করার সম্পূর্ণ দায়ভার (Burden of Proof) ছিল বিবাদীদের।",
+        "destroyed_finding": "ট্রায়াল কোর্ট বিবাদীদের ব্যর্থতাকে প্রশ্রয় দিয়া উল্টো বাদীকে দায়ভার দিয়াছেন (Burden shifting error)।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_3",
+        "citation": "Evidence Act, Section 114(g)",
+        "parties": "Statutory Law",
+        "court": "Statute",
+        "principle": "\"The court may presume that evidence which could be and is not produced would, if produced, be unfavourable to the person who withholds it.\"",
+        "application": "বর্তমান মামলায় কথিত Misc Case 1181/1969 এর মূল আদেশ বা প্রত্যয়িত কপি গোপন রাখা হইয়াছে। ফলে উক্ত ধারার নীতি সরাসরি প্রযোজ্য—অর্থাৎ ডিক্রিটি বিবাদীদের বিপক্ষে ছিল।",
+        "destroyed_finding": "আদেশের কপি ছাড়াই ট্রায়াল কোর্ট প্রশাসনিক মার্জিন নোট দেখিয়া আদেশের অস্তিত্ব অনুমান করিয়াছেন।",
+        "priority": 9
+    },
+    {
+        "id": "AUTH_4",
+        "citation": "21 ALR (HD) 348",
+        "parties": "Applicable Precedent on Dakhila",
+        "court": "High Court Division",
+        "principle": "খাজনার রসিদ (দাখিলা) কেবল খাজনা প্রদানের প্রমাণ, ইহা স্বত্ব (Title) বা রায়তি অধিকার সৃষ্টির কোনো দলিল নহে।",
+        "application": "বিবাদীদের ১৩৩৪ বঙ্গাব্দের দাখিলাটি বিচ্ছিন্ন এবং ইহা দ্বারা পত্তন বা স্বত্ব প্রমাণিত হয় না।",
+        "destroyed_finding": "ট্রায়াল কোর্ট একটি ১৩৩৪ বঙ্গাব্দের খাজনার রসিদকে মূল স্বত্ব বা পত্তন হিসেবে মানিয়াছেন।",
+        "priority": 8
+    },
+    {
+        "id": "AUTH_5",
+        "citation": "18 SCOB [2023] AD 20",
+        "parties": "Mrigangka Mohan Dhali vs. Chitta Ranjan Mondol",
+        "court": "Appellate Division",
+        "principle": "Procured or mutated SA record entries cannot override established title, and a revenue officer's entry does not determine ownership.",
+        "application": "AC Land-এর একটি প্রশাসনিক ভলিউমের ভিন্ন কালিতে লেখা মার্জিন নোট কখনোই DC Record Room-এর চূড়ান্ত রেকর্ডকে বাতিল করিতে পারে না।",
+        "destroyed_finding": "ট্রায়াল কোর্ট AC Land ভলিউমকে DC Record Room-এর সার্টিফাইড কপির উপর প্রাধান্য দিয়াছেন।",
+        "priority": 9
+    }
+]

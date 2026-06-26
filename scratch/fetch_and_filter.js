@@ -69,24 +69,35 @@ async function enrichCase(caseId) {
 
 const searchGroups = [
     {
-        theory: "FAILURE_TO_PROVE_ROOT_TITLE",
-        anykeys: ["root of title not proved", "root tenancy not proved", "source of tenancy", "origin of title", "burden to prove root title", "failure to prove landlord-tenant relationship"],
-        moreOnes: ["title", "patta", "kabuliyat", "landlord", "tenancy", "evidence"]
-    },
-    {
-        theory: "STATE_RECOGNITION_OF_TENANT",
-        anykeys: ["state recognized tenant", "estate acquisition recognition", "landlord return accepted", "court of wards tenant recognition", "estate return", "state acquisition record prevails"],
-        moreOnes: ["recognition", "return", "acquisition", "tenant", "estate"]
-    },
-    {
-        theory: "ORIGINAL_RECORD_VS_OFFICE_COPY",
-        anykeys: ["original record prevails", "record room copy", "alteration register", "settlement record room", "working copy versus original record"],
-        moreOnes: ["original", "volume", "record room", "prevail", "copy"]
+        theory: "ROOT_TENANCY_ATTACK",
+        anykeys: [
+            "proof of tenancy", "burden to prove tenancy", "creation of tenancy",
+            "proof of raiyati right", "raiyat recognition", "tenant recognition by state",
+            "tenant recognised by landlord return", "court of wards tenant", "estate return tenant",
+            "absence of patta", "absence of kabuliyat", "unregistered patta", "unregistered pattan",
+            "burden to prove settlement", "proof of settlement from zamindar", "proof of pattan",
+            "proof of kabuliyat", "landlord return", "state acquisition tenant recognition",
+            "failure to prove root title", "failure to prove source of title", "court of wards estate tenant",
+            "Dhaka Nawab Estate tenant", "Chief Manager approval patta", "estate settlement proof"
+        ],
+        moreOnes: ["title", "evidence", "proof", "presumption", "tenancy"]
     },
     {
         theory: "RENT_RECEIPT_EVIDENTIARY_VALUE",
-        anykeys: ["rent receipt does not create title", "isolated rent receipt", "dakhila no title", "rent receipt vs record of rights"],
-        moreOnes: ["receipt", "title", "dakhila", "evidence", "rent"]
+        anykeys: [
+            "rent receipt not proof of title", "rent receipt evidentiary value",
+            "dakhila not proof of title", "mere rent receipt", "payment of rent does not create title"
+        ],
+        moreOnes: ["title", "evidence", "presumption", "possession", "raiyat"]
+    },
+    {
+        theory: "RECORD_CORRECTION_NO_TITLE",
+        anykeys: [
+            "record correction cannot create title", "mutation cannot create title",
+            "correction proceeding cannot decide title", "title dispute requires civil suit",
+            "entry in record does not create title"
+        ],
+        moreOnes: ["title", "jurisdiction", "revenue", "suit", "evidence"]
     }
 ];
 
