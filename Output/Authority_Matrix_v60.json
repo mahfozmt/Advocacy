@@ -1,0 +1,52 @@
+[
+    {
+        "id": "AUTH_1_ROOT",
+        "citation": "21 ALR (HD) 348",
+        "parties": "Relevant Principle",
+        "court": "High Court Division",
+        "principle": "খাজনার রসিদ (দাখিলা) কেবল খাজনা প্রদানের প্রমাণ, ইহা স্বত্ব (Title) বা রায়তি অধিকার সৃষ্টির কোনো প্রাথমিক দলিল নহে।",
+        "application": "বর্তমান মামলায় বিবাদীরা আব্দুল করিমের মূল স্বত্ব প্রমাণের জন্য কোনো পত্তন দলিল বা কবুলিয়ত দাখিল করেন নাই। একটি বিচ্ছিন্ন খাজনার রসিদের ভিত্তিতে রায়তি স্বত্ব প্রমাণিত হয় না।",
+        "destroyed_finding": "ট্রায়াল কোর্ট কোনো পত্তন দলিল ছাড়াই আব্দুল করিমকে মূল রায়ত হিসেবে মানিয়া লইয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_2_SA_PRESUMPTION",
+        "citation": "50 DLR 186",
+        "parties": "Dayal Chandra Mondal vs. Asst. Custodian",
+        "court": "High Court Division",
+        "principle": "\"A record of rights finally published and revised under section 144A of the S.A.T. Act has a presumption of correctness and that presumption continues till it is rebutted by reliable evidence.\"",
+        "application": "এস.এ ২৩৮ খতিয়ানটি আব্দুল আলীর নামে চূড়ান্তভাবে প্রকাশিত। এই State Recognition-এর আইনি অনুমান (presumption) খণ্ডন করার মতো কোনো নির্ভরযোগ্য সাক্ষ্য বিবাদীরা উপস্থাপন করিতে পারে নাই।",
+        "destroyed_finding": "ট্রায়াল কোর্ট কোনো নির্ভরযোগ্য সাক্ষ্য ছাড়াই একটি finally published State Record-কে বাতিল করিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_3_BURDEN",
+        "citation": "35 DLR (AD) 230",
+        "parties": "S.M. Basiruddin Vs. Zahurul Islam Chowdhury",
+        "court": "Appellate Division",
+        "principle": "\"The onus to prove that the entry in the finally published record of rights is wrong lies heavily upon the party who challenges it.\"",
+        "application": "বাদীপক্ষ এস.এ ২৩৮ খতিয়ান দাখিল করিয়া তাহাদের প্রাথমিক দায়ভার (Initial Burden) পালন করিয়াছেন। খতিয়ানটি ভুল প্রমাণের সম্পূর্ণ দায়ভার (Burden of Proof) বিবাদীদের উপর বর্তাইয়াছিল।",
+        "destroyed_finding": "ট্রায়াল কোর্ট বিবাদীদের প্রমাণের ব্যর্থতাকে প্রশ্রয় দিয়া উল্টো বাদীপক্ষকে দায়ভার দিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_4_ADVERSE",
+        "citation": "Evidence Act, Section 114(g)",
+        "parties": "Statutory Principle",
+        "court": "Statute",
+        "principle": "\"The court may presume that evidence which could be and is not produced would, if produced, be unfavourable to the person who withholds it.\"",
+        "application": "বিবাদীরা কথিত Misc Case 1181/1969 এর আদেশের মূল বা সার্টিফাইড কপি উদ্দেশ্যপ্রণোদিতভাবে গোপন রাখিয়াছেন। ফলে এই আইনি অনুমান প্রযোজ্য যে, উক্ত আদেশটি বিবাদীদের বিপক্ষে ছিল।",
+        "destroyed_finding": "আদেশের কপি ছাড়াই ট্রায়াল কোর্ট একটি প্রশাসনিক মার্জিন নোট দেখিয়া আদেশের অস্তিত্ব অনুমান করিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_5_VOLUME",
+        "citation": "18 SCOB [2023] AD 20",
+        "parties": "Mrigangka Mohan Dhali vs. Chitta Ranjan Mondol",
+        "court": "Appellate Division",
+        "principle": "Procured or mutated SA record entries cannot override established title, and a revenue officer's entry does not determine ownership.",
+        "application": "AC Land-এর প্রশাসনিক ভলিউমের ভিন্ন কালিতে লেখা মার্জিন নোট কখনোই DC Record Room-এর চূড়ান্ত রেকর্ডকে বাতিল করিতে পারে না, বিশেষ করিয়া যেখানে parent order অনুপস্থিত।",
+        "destroyed_finding": "ট্রায়াল কোর্ট AC Land ভলিউমকে DC Record Room-এর সার্টিফাইড কপির উপর বেআইনিভাবে প্রাধান্য দিয়াছেন।",
+        "priority": 9
+    }
+]

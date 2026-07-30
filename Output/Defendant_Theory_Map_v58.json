@@ -1,0 +1,23 @@
+{
+    "theory_name": "The Abdul Karim & Misc Case Defense",
+    "components": [
+        {
+            "id": "D1",
+            "claim": "Abdul Karim acquired 349 decimals via Nawab Estate Patta in 1934.",
+            "evidence_offered": "Oral assertion, alleged 1334 BS rent receipt (No. 349).",
+            "vulnerability": "No registered patta, no kabuliyat. Rent receipt is chronologically impossible (numbered higher than a receipt 23 years newer) and does not create title."
+        },
+        {
+            "id": "D2",
+            "claim": "Sona Bhanu inherited a share and sued in 1st Munsif Court (Misc Case 1181/1969).",
+            "evidence_offered": "None (No decree or certified copy produced).",
+            "vulnerability": "Withholding primary evidence triggers adverse inference under Sec 114(g) Evidence Act."
+        },
+        {
+            "id": "D3",
+            "claim": "SA Khatian was corrected to include Sona Bhanu based on the Misc Case.",
+            "evidence_offered": "AC Land Volume photocopy showing name in different ink (Exhibit G-1).",
+            "vulnerability": "Margin note in administrative copy cannot override finally published DC Record Room Khatian (Sec 144A presumption). Mutation authority has no jurisdiction to decide title."
+        }
+    ]
+}

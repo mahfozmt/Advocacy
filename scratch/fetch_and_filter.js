@@ -2,21 +2,11 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const keywords = [
-    "SA", "S.A.", "patta", "pattan", "kabuliyot", "kabuliyat", 
-    "Dhaka Nawab State", "Dhaka Nowab State"
-];
+const localResourceDir = path.join(__dirname, '..', 'Resource', 'Judgements');
 
-const categoryKeywords = {
-    "Partition suits": ["partition", "batoara"],
-    "Land survey/record-of-rights disputes": ["survey", "record of right", "record-of-right", "khatian"],
-    "Tenancy and raiyati rights cases": ["tenancy", "raiyat", "korfa"],
-    "State Acquisition and Tenancy Act": ["state acquisition", "tenancy act"],
-    "Diluvion, vesting, khas land": ["diluvion", "alluvion", "vesting", "vested", "khas"],
-    "Family/inheritance cases involving immovable property": ["inheritance", "succession", "heir", "immovable property"]
-};
-
-const url = "https://api.lcmsbd.com/Api/LoadJudgements";
+if (!fs.existsSync(localResourceDir)) {
+    fs.mkdirSync(localResourceDir, { recursive: true });
+}
 
 const headers = {
     "accept": "application/json, text/plain, */*",
@@ -27,32 +17,29 @@ const headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 };
 
-function fetchPage(keyword, pageNo) {
+function postRequest(url, data, isJson = false) {
     return new Promise((resolve, reject) => {
-        const postData = `page_no=${pageNo}&getFullData=false&para_id=1&anykey=${encodeURIComponent(keyword)}`;
-        
+        const postData = isJson ? JSON.stringify(data) : data;
+        const currentHeaders = { ...headers };
+        if (isJson) currentHeaders['content-type'] = 'application/json';
+        currentHeaders['Content-Length'] = Buffer.byteLength(postData);
+
         const options = {
             method: 'POST',
-            headers: {
-                ...headers,
-                'Content-Length': Buffer.byteLength(postData)
-            }
+            timeout: 15000,
+            headers: currentHeaders
         };
 
         const req = https.request(url, options, (res) => {
-            let data = '';
-            res.on('data', (chunk) => { data += chunk; });
+            let body = '';
+            res.on('data', (chunk) => body += chunk);
             res.on('end', () => {
-                try {
-                    const json = JSON.parse(data);
-                    resolve(json);
-                } catch (e) {
-                    resolve(null); // Ignore parse errors, maybe end of data or server issue
-                }
+                try { resolve(JSON.parse(body)); } catch (e) { resolve(body); }
             });
         });
 
         req.on('error', (e) => reject(e));
+        req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
         req.write(postData);
         req.end();
     });
@@ -62,97 +49,161 @@ async function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+async function enrichCase(caseId) {
+    let justiceNames = [];
+    let caseTypeName = '';
+    try {
+        const justiceRes = await postRequest("https://api.lcmsbd.com/Api/get_justice", { id: caseId }, true);
+        if (Array.isArray(justiceRes)) justiceNames = justiceRes.map(j => j.name).filter(Boolean);
+    } catch (e) { }
+
+    await delay(200);
+
+    try {
+        const casetypeRes = await postRequest("https://api.lcmsbd.com/Api/get_casetype/" + caseId, {}, true);
+        if (Array.isArray(casetypeRes) && casetypeRes.length > 0) caseTypeName = casetypeRes[0].name || '';
+    } catch (e) { }
+
+    return { justiceNames, caseTypeName };
+}
+
+const searchGroups = [
+    {
+        theory: "ROOT_TENANCY_ATTACK",
+        anykeys: [
+            "proof of tenancy", "burden to prove tenancy", "creation of tenancy",
+            "proof of raiyati right", "raiyat recognition", "tenant recognition by state",
+            "tenant recognised by landlord return", "court of wards tenant", "estate return tenant",
+            "absence of patta", "absence of kabuliyat", "unregistered patta", "unregistered pattan",
+            "burden to prove settlement", "proof of settlement from zamindar", "proof of pattan",
+            "proof of kabuliyat", "landlord return", "state acquisition tenant recognition",
+            "failure to prove root title", "failure to prove source of title", "court of wards estate tenant",
+            "Dhaka Nawab Estate tenant", "Chief Manager approval patta", "estate settlement proof"
+        ],
+        moreOnes: ["title", "evidence", "proof", "presumption", "tenancy"]
+    },
+    {
+        theory: "RENT_RECEIPT_EVIDENTIARY_VALUE",
+        anykeys: [
+            "rent receipt not proof of title", "rent receipt evidentiary value",
+            "dakhila not proof of title", "mere rent receipt", "payment of rent does not create title"
+        ],
+        moreOnes: ["title", "evidence", "presumption", "possession", "raiyat"]
+    },
+    {
+        theory: "RECORD_CORRECTION_NO_TITLE",
+        anykeys: [
+            "record correction cannot create title", "mutation cannot create title",
+            "correction proceeding cannot decide title", "title dispute requires civil suit",
+            "entry in record does not create title"
+        ],
+        moreOnes: ["title", "jurisdiction", "revenue", "suit", "evidence"]
+    }
+];
+
+let existingCases = new Map();
+
+function loadExistingCases() {
+    console.log("Scanning existing files...");
+    const files = fs.readdirSync(localResourceDir);
+    for (const file of files) {
+        if (file.endsWith('.json') && file.startsWith('batch_')) {
+            try {
+                const data = JSON.parse(fs.readFileSync(path.join(localResourceDir, file), 'utf8'));
+                if (Array.isArray(data)) {
+                    for (const item of data) {
+                        if (item.Id) existingCases.set(item.Id, item);
+                    }
+                }
+            } catch (e) { }
+        }
+    }
+    console.log(`Loaded ${existingCases.size} existing cases.`);
+}
+
+let batchCount = 1;
+let currentBatch = [];
+const BATCH_SIZE = 50;
+
+function saveBatch(force = false) {
+    if (currentBatch.length >= BATCH_SIZE || (force && currentBatch.length > 0)) {
+        while (fs.existsSync(path.join(localResourceDir, `batch_${batchCount}.json`))) {
+            batchCount++;
+        }
+        const batchPath = path.join(localResourceDir, `batch_${batchCount}.json`);
+        fs.writeFileSync(batchPath, JSON.stringify(currentBatch, null, 2), 'utf8');
+        console.log(`\n>>> Saved ${currentBatch.length} cases to ${batchPath}\n`);
+        currentBatch = [];
+        batchCount++;
+    }
+}
+
 async function run() {
-    const allCases = new Map();
+    loadExistingCases();
+    let totalHarvested = 0;
 
-    for (const keyword of keywords) {
-        console.log(`\nFetching for keyword: ${keyword}`);
-        let pageNo = 1;
-        
-        while (true) {
-            console.log(`  Page ${pageNo}...`);
-            const response = await fetchPage(keyword, pageNo);
-            
-            if (!response || !response.result || !response.result.fulldatas || response.result.fulldatas.length === 0) {
-                console.log(`  No more results for ${keyword}.`);
-                break;
-            }
+    for (const group of searchGroups) {
+        for (const anykey of group.anykeys) {
+            for (const moreOne of group.moreOnes) {
+                console.log(`--- Search: anykey="${anykey}" | MoreOne="${moreOne}" ---`);
+                let pageNo = 1;
+                let consecutiveErrors = 0;
 
-            const items = response.result.fulldatas;
-            let addedCount = 0;
-            for (const item of items) {
-                if (!allCases.has(item.Id)) {
-                    allCases.set(item.Id, item);
-                    addedCount++;
+                while (true) {
+                    let response;
+                    try {
+                        const postData = `page_no=${pageNo}&getFullData=false&para_id=1&anykey=${encodeURIComponent(anykey)}&MoreOne=${encodeURIComponent(moreOne)}`;
+                        response = await postRequest("https://api.lcmsbd.com/Api/LoadJudgements", postData);
+                        consecutiveErrors = 0;
+                    } catch (err) {
+                        consecutiveErrors++;
+                        if (consecutiveErrors >= 3) break;
+                        await delay(3000);
+                        continue;
+                    }
+
+                    if (!response || !response.result || !response.result.fulldatas || response.result.fulldatas.length === 0) break;
+
+                    const items = response.result.fulldatas;
+
+                    for (const item of items) {
+                        if (!item.full_judgment || item.full_judgment.trim().length === 0) continue;
+
+                        let caseToSave = {
+                            Id: item.Id, caseno: item.caseno, parties: item.parties, book_ref: item.book_ref, jud_year: item.jud_year,
+                            theory: group.theory, anykey: anykey, moreOne: moreOne, full_judgment: item.full_judgment, justice_names: [], case_type_name: ""
+                        };
+
+                        if (existingCases.has(item.Id)) {
+                            const existing = existingCases.get(item.Id);
+                            let updated = false;
+                            if (existing.full_judgment && existing.full_judgment.length < item.full_judgment.length) {
+                                existing.full_judgment = item.full_judgment; updated = true;
+                            }
+                            if (!existing.theories) existing.theories = [];
+                            if (!existing.theories.includes(group.theory)) {
+                                existing.theories.push(group.theory); updated = true;
+                            }
+                            if (!existing.justice_names || existing.justice_names.length === 0) {
+                                const { justiceNames, caseTypeName } = await enrichCase(item.Id);
+                                existing.justice_names = justiceNames; existing.case_type_name = caseTypeName; updated = true;
+                            }
+                            if (updated) { currentBatch.push(existing); saveBatch(); }
+                        } else {
+                            const { justiceNames, caseTypeName } = await enrichCase(item.Id);
+                            caseToSave.justice_names = justiceNames; caseToSave.case_type_name = caseTypeName; caseToSave.theories = [group.theory];
+                            existingCases.set(item.Id, caseToSave); currentBatch.push(caseToSave); totalHarvested++; saveBatch();
+                        }
+                    }
+                    if (items.length < 10) break;
+                    pageNo++;
+                    await delay(1000);
                 }
             }
-            console.log(`  Added ${addedCount} new cases (total from page: ${items.length})`);
-            
-            if (items.length < 10) { // Assuming page size is 10 or more. If less, it's the last page.
-                break;
-            }
-            
-            pageNo++;
-            await delay(500); // Politely delay between requests
         }
     }
-
-    console.log(`\nTotal unique cases fetched: ${allCases.size}`);
-
-    // Process and filter cases
-    const relevantCases = [];
-
-    for (const [id, item] of allCases.entries()) {
-        const text = (item.full_judgment || "") + " " + (item.summery || "");
-        const lowerText = text.toLowerCase();
-
-        // 1. Check if it actually contains any of the target 8 keywords
-        const matchedPrimary = keywords.filter(kw => lowerText.includes(kw.toLowerCase()));
-        
-        // 2. Check which categories it falls into
-        const matchedCategories = [];
-        for (const [catName, catKeywords] of Object.entries(categoryKeywords)) {
-            if (catKeywords.some(catKw => lowerText.includes(catKw))) {
-                matchedCategories.push(catName);
-            }
-        }
-
-        if (matchedPrimary.length > 0 && matchedCategories.length > 0) {
-            relevantCases.push({
-                Id: item.Id,
-                caseno: item.caseno,
-                book_ref: item.book_ref,
-                parties: item.parties,
-                jud_year: item.jud_year,
-                primary_matches: matchedPrimary,
-                categories: matchedCategories
-            });
-        }
-    }
-
-    console.log(`Cases matching both primary keywords and categories: ${relevantCases.length}`);
-
-    // Generate Markdown report
-    let md = `# Relevant Judgements for Property & Land Disputes\n\n`;
-    md += `Total unique cases evaluated: ${allCases.size}\n`;
-    md += `Cases matching criteria: ${relevantCases.length}\n\n`;
-
-    for (const c of relevantCases) {
-        md += `### Case: ${c.caseno || 'N/A'}\n`;
-        if (c.parties) md += `**Parties:** ${c.parties}\n`;
-        if (c.book_ref) md += `**Reference:** ${c.book_ref}\n`;
-        if (c.jud_year) md += `**Year:** ${c.jud_year}\n`;
-        md += `**Matched Keywords:** ${c.primary_matches.join(', ')}\n`;
-        md += `**Categories:**\n`;
-        for (const cat of c.categories) {
-            md += `- ${cat}\n`;
-        }
-        md += `\n---\n\n`;
-    }
-
-    const outputPath = path.join(__dirname, 'relevant_cases.md');
-    fs.writeFileSync(outputPath, md, 'utf-8');
-    console.log(`\nReport generated at: ${outputPath}`);
+    saveBatch(true);
+    console.log(`\nHarvesting completed. Total new cases fetched: ${totalHarvested}`);
 }
 
 run().catch(console.error);

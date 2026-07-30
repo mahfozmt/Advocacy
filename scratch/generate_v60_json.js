@@ -1,0 +1,99 @@
+const fs = require('fs');
+const path = require('path');
+
+const outDir = path.join(__dirname, '..', 'Output');
+
+const authorityMatrix = [
+    {
+        "id": "AUTH_1_ROOT",
+        "citation": "21 ALR (HD) 348",
+        "parties": "Relevant Principle",
+        "court": "High Court Division",
+        "principle": "খাজনার রসিদ (দাখিলা) কেবল খাজনা প্রদানের প্রমাণ, ইহা স্বত্ব (Title) বা রায়তি অধিকার সৃষ্টির কোনো প্রাথমিক দলিল নহে।",
+        "application": "বর্তমান মামলায় বিবাদীরা আব্দুল করিমের মূল স্বত্ব প্রমাণের জন্য কোনো পত্তন দলিল বা কবুলিয়ত দাখিল করেন নাই। একটি বিচ্ছিন্ন খাজনার রসিদের ভিত্তিতে রায়তি স্বত্ব প্রমাণিত হয় না।",
+        "destroyed_finding": "ট্রায়াল কোর্ট কোনো পত্তন দলিল ছাড়াই আব্দুল করিমকে মূল রায়ত হিসেবে মানিয়া লইয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_2_SA_PRESUMPTION",
+        "citation": "50 DLR 186",
+        "parties": "Dayal Chandra Mondal vs. Asst. Custodian",
+        "court": "High Court Division",
+        "principle": "\"A record of rights finally published and revised under section 144A of the S.A.T. Act has a presumption of correctness and that presumption continues till it is rebutted by reliable evidence.\"",
+        "application": "এস.এ ২৩৮ খতিয়ানটি আব্দুল আলীর নামে চূড়ান্তভাবে প্রকাশিত। এই State Recognition-এর আইনি অনুমান (presumption) খণ্ডন করার মতো কোনো নির্ভরযোগ্য সাক্ষ্য বিবাদীরা উপস্থাপন করিতে পারে নাই।",
+        "destroyed_finding": "ট্রায়াল কোর্ট কোনো নির্ভরযোগ্য সাক্ষ্য ছাড়াই একটি finally published State Record-কে বাতিল করিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_3_BURDEN",
+        "citation": "35 DLR (AD) 230",
+        "parties": "S.M. Basiruddin Vs. Zahurul Islam Chowdhury",
+        "court": "Appellate Division",
+        "principle": "\"The onus to prove that the entry in the finally published record of rights is wrong lies heavily upon the party who challenges it.\"",
+        "application": "বাদীপক্ষ এস.এ ২৩৮ খতিয়ান দাখিল করিয়া তাহাদের প্রাথমিক দায়ভার (Initial Burden) পালন করিয়াছেন। খতিয়ানটি ভুল প্রমাণের সম্পূর্ণ দায়ভার (Burden of Proof) বিবাদীদের উপর বর্তাইয়াছিল।",
+        "destroyed_finding": "ট্রায়াল কোর্ট বিবাদীদের প্রমাণের ব্যর্থতাকে প্রশ্রয় দিয়া উল্টো বাদীপক্ষকে দায়ভার দিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_4_ADVERSE",
+        "citation": "Evidence Act, Section 114(g)",
+        "parties": "Statutory Principle",
+        "court": "Statute",
+        "principle": "\"The court may presume that evidence which could be and is not produced would, if produced, be unfavourable to the person who withholds it.\"",
+        "application": "বিবাদীরা কথিত Misc Case 1181/1969 এর আদেশের মূল বা সার্টিফাইড কপি উদ্দেশ্যপ্রণোদিতভাবে গোপন রাখিয়াছেন। ফলে এই আইনি অনুমান প্রযোজ্য যে, উক্ত আদেশটি বিবাদীদের বিপক্ষে ছিল।",
+        "destroyed_finding": "আদেশের কপি ছাড়াই ট্রায়াল কোর্ট একটি প্রশাসনিক মার্জিন নোট দেখিয়া আদেশের অস্তিত্ব অনুমান করিয়াছেন।",
+        "priority": 10
+    },
+    {
+        "id": "AUTH_5_VOLUME",
+        "citation": "18 SCOB [2023] AD 20",
+        "parties": "Mrigangka Mohan Dhali vs. Chitta Ranjan Mondol",
+        "court": "Appellate Division",
+        "principle": "Procured or mutated SA record entries cannot override established title, and a revenue officer's entry does not determine ownership.",
+        "application": "AC Land-এর প্রশাসনিক ভলিউমের ভিন্ন কালিতে লেখা মার্জিন নোট কখনোই DC Record Room-এর চূড়ান্ত রেকর্ডকে বাতিল করিতে পারে না, বিশেষ করিয়া যেখানে parent order অনুপস্থিত।",
+        "destroyed_finding": "ট্রায়াল কোর্ট AC Land ভলিউমকে DC Record Room-এর সার্টিফাইড কপির উপর বেআইনিভাবে প্রাধান্য দিয়াছেন।",
+        "priority": 9
+    }
+];
+fs.writeFileSync(path.join(outDir, 'Authority_Matrix_v60.json'), JSON.stringify(authorityMatrix, null, 4));
+
+const attackMap = [
+    {
+        "chapter_title": "অধ্যায় ১: আব্দুল করিমের রায়তি স্বত্বের মূল উৎস (Root Tenancy) প্রমাণে সম্পূর্ণ ব্যর্থতা",
+        "trial_court_finding": "ট্রায়াল কোর্ট বিবাদীদের দাবি মানিয়া লইয়াছেন যে আব্দুল করিম ১৯৩৪ সালে নবাব এস্টেট হইতে ৩৪৯ শতাংশ ভূমির পত্তন লাভ করেন।",
+        "impossibility": "এই সিদ্ধান্ত অসম্ভব, কারণ বিবাদীরা আদালতে কোনো পত্তন দলিল (Patta), কবুলিয়ত, সি.এস খতিয়ান বা এস্টেট রিটার্ন দাখিল করেন নাই। ট্রায়াল কোর্ট একটি ভিত্তিহীন অনুমানের উপর দাঁড়াইয়া আব্দুল করিমের স্বত্ব স্বীকার করিয়াছেন।",
+        "contradicting_evidence": "বিবাদীদের একমাত্র সম্বল একটি ১৩৩৪ বঙ্গাব্দের বিচ্ছিন্ন খাজনার রসিদ। কিন্তু খাজনার রসিদ কখনো স্বত্ব বা পত্তন সৃষ্টি করিতে পারে না।",
+        "auth_ids": ["AUTH_1_ROOT"]
+    },
+    {
+        "chapter_title": "অধ্যায় ২: State Acquisition-এর আইনি তাৎপর্য এবং এস.এ রেকর্ডের প্রামাণিকতা",
+        "trial_court_finding": "ট্রায়াল কোর্ট প্রাক্-এস.এ (Pre-SA) আমলের একটি বিচ্ছিন্ন দাখিলাকে ভিত্তি করিয়া এস.এ জরিপে রাষ্ট্র কর্তৃক চূড়ান্তভাবে প্রকাশিত রেকর্ডকে অস্বীকার করিয়াছেন।",
+        "impossibility": "State Acquisition (রাষ্ট্রীয় অধিগ্রহণ) এর পর পূর্বেকার সকল ব্যক্তিগত রাজস্ব কার্যক্রম বিলুপ্ত হয়। এস.এ ২৩৮ খতিয়ানটি আব্দুল আলীর নামে প্রকাশিত হওয়ার অর্থ হলো স্বয়ং রাষ্ট্র আব্দুল আলীকে উক্ত ভূমির একক রায়ত হিসেবে আইনি স্বীকৃতি (State Recognition) প্রদান করিয়াছে।",
+        "contradicting_evidence": "DC Record Room হইতে সংগৃহীত এস.এ ২৩৮ খতিয়ানের সার্টিফাইড কপি (প্রদর্শনী-৪) এবং ইনফরমেশন স্লিপ (প্রদর্শনী-১)।",
+        "auth_ids": ["AUTH_2_SA_PRESUMPTION"]
+    },
+    {
+        "chapter_title": "অধ্যায় ৩: প্রমাণের দায়ভার (Burden of Proof) উল্টানোর মারাত্মক ভুল",
+        "trial_court_finding": "ট্রায়াল কোর্ট 'Bilquis Jahan' মামলার উদ্ধৃতি দিয়া বাদীকে তাহার মোকদ্দমা প্রমাণের সম্পূর্ণ দায়ভার দিয়াছেন এবং এস.এ রেকর্ডকে বাতিল করিয়াছেন।",
+        "impossibility": "আইনের প্রতিষ্ঠিত নীতি হলো—যিনি রেকর্ড চ্যালেঞ্জ করিবেন, প্রমাণ করিবার দায়ভার তাহার। বাদীপক্ষ যখন finally published SA Khatian আদালতে উপস্থাপন করিলেন, তখন Evidence Act 103 অনুযায়ী ইহা ভুল প্রমাণ করিবার সম্পূর্ণ আইনি দায়ভার (Burden of Proof) বিবাদীদের উপর স্থানান্তরিত (Shifted) হইয়াছিল।",
+        "contradicting_evidence": "বিবাদীরা কথিত সংশোধনের স্বপক্ষে কোনো আইনি বিচারিক আদেশ প্রমাণ করিতে ব্যর্থ হইয়াছেন।",
+        "auth_ids": ["AUTH_3_BURDEN"]
+    },
+    {
+        "chapter_title": "অধ্যায় ৪: সর্বোত্তম সাক্ষ্য গোপনের ফলে প্রতিকূল অনুমান (Adverse Inference)",
+        "trial_court_finding": "ট্রায়াল কোর্ট ১১৮১/১৯৬৯ নং Misc Case-এর মূল আদেশ বা সার্টিফাইড কপি ছাড়াই উক্ত মামলার রায় বিবাদীদের পক্ষে গিয়াছিল মর্মে গ্রহণ করিয়াছেন।",
+        "impossibility": "একটি আইনি রায় বা আদেশ কখনোই প্রশাসনিক ভলিউমের মার্জিন নোট দ্বারা প্রমাণ করা যায় না। আদেশের কপি আদালতে উপস্থাপন না করা একটি সাধারণ ত্রুটি নহে, বরং এটি একটি সুনির্দিষ্ট Evidence Act এর লঙ্ঘন।",
+        "contradicting_evidence": "বিবাদীদের দ্বারা আদেশের কপি দাখিলে সম্পূর্ণ ব্যর্থতা।",
+        "auth_ids": ["AUTH_4_ADVERSE"]
+    },
+    {
+        "chapter_title": "অধ্যায় ৫: AC Land ভলিউম নোটের পতন এবং ১৯৭৫ সালের দলিলে বিবাদীদের স্ববিরোধিতা",
+        "trial_court_finding": "ট্রায়াল কোর্ট AC Land ভলিউমকে (প্রদর্শনী গ-১) DC Record Room-এর কপির উপর প্রাধান্য দিয়াছেন এবং সিদ্ধান্ত নিয়াছেন যে ১৯৬৯ সালে খতিয়ানটি সংশোধিত হইয়া ১টি দাগে (১২৫৯) পরিণত হইয়াছে।",
+        "impossibility": "AC Land ভলিউমটি একটি কার্যনির্বাহী কপি মাত্র, যেখানে সোনা ভানুর নাম ভিন্ন কালিতে লেখা বলিয়া সরকারি সাক্ষী নিজেই স্বীকার করিয়াছেন। সর্বোপরি, বিবাদীদের নিজেদের দাখিলকৃত ১৯৭৫ সালের ৩৫৯৬ নং দলিলেই (Exhibit Kha-1) এস.এ ২৩৮ খতিয়ানের ৬টি দাগ স্পষ্টভাবে উল্লেখিত আছে। ১৯৬৯ সালে সংশোধন হইয়া থাকিলে ১৯৭৫ সালের দলিলে ৬ দাগ থাকে কীভাবে?",
+        "contradicting_evidence": "বিবাদীদের নিজেদের দাখিলকৃত ১৯৭৫ সালের ৩৫৯৬ নং রেজিস্ট্রিকৃত দলিল (Exhibit Kha-1) এবং DW-4 এর সাক্ষ্য।",
+        "auth_ids": ["AUTH_5_VOLUME"]
+    }
+];
+fs.writeFileSync(path.join(outDir, 'Plaintiff_Attack_Map_v60.json'), JSON.stringify(attackMap, null, 4));
+
+console.log("v60 JSON Artifacts generated.");
