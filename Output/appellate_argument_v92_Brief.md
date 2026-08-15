@@ -125,7 +125,10 @@ SA ২৩৮ নং খতিয়ানে আব্দুল আলীর ন
 
 শুধু একটি পরবর্তী volume entry দেখিয়ে প্রথম প্রশ্নের উত্তর দেওয়া যায় না; আর foundational proceeding না দেখিয়ে দ্বিতীয় প্রশ্নের উত্তর দেওয়াও সম্ভব নয়।
 
-এই burden-এর প্রশ্নে ৪৪ DLR (AD) ১২৪ (45 DLR (AD) 124) ব্যবহার করা যেতে পারে, যাহা প্রমাণ করে যে record-of-rights-এর presumption খণ্ডনের প্রাথমিক দায়ভার যাহার উপরে, তাহাকে cogent evidence উপস্থাপন করিতে হয়।
+এই burden-এর প্রশ্নে **45 DLR (AD) 124 (Nuruddin Ahmed vs. Md. Jaman)**-এর সিদ্ধান্ত ব্যবহার করা আবশ্যক, যাহা প্রমাণ করে যে record-of-rights-এর presumption খণ্ডনের প্রাথমিক দায়ভার যাহার উপরে, তাহাকে cogent evidence উপস্থাপন করিতে হয়।
+
+> **[45 DLR (AD) 124]:** *"A trial court sometimes confuses 'plaintiff must prove' with 'plaintiff must disprove every counter-assertion'. This is erroneous."*
+
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
@@ -175,7 +178,10 @@ Volume entry
 
 আর যদি উক্ত proceeding-এ একজন recorded raiyat-এর vested interest পরিবর্তন করে নতুন ব্যক্তিকে tenancy/title-এর অংশীদার করা হয়ে থাকে, তাহলে সেই পরিবর্তনের jurisdictional এবং procedural foundation প্রমাণ করা আবশ্যক।
 
-এই প্রশ্নে ২৭ BLD ৫৪৪ (27 BLD 544)-এর সিদ্ধান্ত প্রণিধানযোগ্য, যেখানে বলা হইয়াছে যে administrative revenue officer-এর title adjudication-এর jurisdiction নাই।
+এই প্রশ্নে **27 BLD 544**-এর সিদ্ধান্ত প্রণিধানযোগ্য, যেখানে বলা হইয়াছে যে administrative revenue officer-এর title adjudication-এর jurisdiction নাই।
+
+> **[27 BLD 544]:** *"Revenue officer has no jurisdiction to decide the question of title."*
+
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
@@ -203,7 +209,12 @@ Volume entry
 
 > একজন revenue officer-এর একটি volume note কি substantive title/tenancy interest সৃষ্টি বা পরিবর্তনের আইনগত source হতে পারে?
 
-এই point-টি ৫৩ DLR ১৯ (53 DLR 19) এবং ২৯ BLC ১৬০ (29 BLC 160)-এর সহিত ধারাবাহিকভাবে উপস্থাপন করা যায়, যেখানে স্পষ্ট করা হইয়াছে যে mutation/correction-এর মাধ্যমে substantive title সৃষ্ট বা খর্ব হয় না।
+এই point-টি **53 DLR 19** এবং **29 BLC 160**-এর সহিত ধারাবাহিকভাবে উপস্থাপন করা যায়, যেখানে স্পষ্ট করা হইয়াছে যে mutation/correction-এর মাধ্যমে substantive title সৃষ্ট বা খর্ব হয় না।
+
+> **[53 DLR 19]:** *"Mutation does not confer any title, nor does its cancellation extinguish any title."*
+>
+> **[29 BLC 160]:** *"Correction of record of rights does not create any title in favour of a person in whose name the record of rights is corrected."*
+
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
@@ -230,7 +241,10 @@ AC Land-এর volume এবং District Record Room-এর preserved settlement
 
 — এই প্রশ্নগুলোর উত্তর ছাড়া শুধু volume-এ একটি entry থাকা যথেষ্ট নয়।
 
-বিশেষ করে DW-4 যদি entry-এর handwriting/ink/কারণ/parent file শনাক্ত বা ব্যাখ্যা করতে না পারেন, তাহলে entry-এর evidentiary weight স্বাভাবিকভাবেই প্রশ্নের মুখে পড়ে। এখানে ৫৩ DLR ১৯ (53 DLR 19) সরাসরি কার্যকর।
+বিশেষ করে DW-4 যদি entry-এর handwriting/ink/কারণ/parent file শনাক্ত বা ব্যাখ্যা করতে না পারেন, তাহলে entry-এর evidentiary weight স্বাভাবিকভাবেই প্রশ্নের মুখে পড়ে। এখানে **53 DLR 19** সরাসরি কার্যকর।
+
+> **[53 DLR 19]:** *"If an order of mutation is passed without any legal basis, such order is a nullity in the eye of law."*
+
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
@@ -322,7 +336,10 @@ AC Land-এর volume এবং District Record Room-এর preserved settlement
 
 > SA record → correction alleged → correction-এর source = Misc Case order → order produced নয় → correction-এর legal foundation unproved.
 
-এখানে ৫৩ DLR ১৯ (53 DLR 19) এবং ১ BLT ১৮ (1 BLT 18)-এর propositions ব্যবহার করে volume entry-এর evidentiary weakness দেখানো যায়।
+এখানে **53 DLR 19** এবং **1 BLT 18**-এর propositions ব্যবহার করে volume entry-এর evidentiary weakness দেখানো যায়।
+
+> **[1 BLT 18]:** *"Where the parent document/order is not produced, secondary evidence or consequential entry carries no evidentiary value to prove title."*
+
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
@@ -386,7 +403,10 @@ AC Land-এর volume এবং District Record Room-এর preserved settlement
 
 যদি না চেয়ে থাকে এবং Government land partition-এর subject matter-ও না হয়, তাহলে Government-এর interest adjudicate করার প্রয়োজন কোথায়?
 
-অতএব non-joinder-এর প্রশ্নটি title issue-এর ফল নয়; বরং relief এবং subject matter-এর উপর নির্ভরশীল। (৪৯ DLR (AD) ১৫ (49 DLR (AD) 15) দ্রষ্টব্য)।
+অতএব non-joinder-এর প্রশ্নটি title issue-এর ফল নয়; বরং relief এবং subject matter-এর উপর নির্ভরশীল।
+
+> **[49 DLR (AD) 15]:** *"Non-joinder of a party against whom no relief is claimed is not fatal to the suit."*
+
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
