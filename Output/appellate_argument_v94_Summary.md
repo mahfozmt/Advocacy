@@ -15,10 +15,10 @@
 2. **Layer B (Displacement Theory):** Respondents-এর theory (Abdul Karim → Sonabhanu → Misc 1181/1969 correction → AC volume) প্রমাণসাপেক্ষ।
 3. **Layer C (Conduct & Inconsistency):** Foundational documents-এর অনুপস্থিতি, 1975 deed-এর contradiction, এবং litigation conduct Court-এর তীক্ষ্ণ scrutiny দাবি করে।
 
-### The Comparative Documentary Test
+### The Comparative Documentary Test এবং Inheritance
 > **The question is not whether Sonabhanu was an heir of Abdul Karim. The question is whether this particular SA 238 holding was Abdul Karim’s holding.**
 
-সোনাভানু অন্য খতিয়ানে উত্তরাধিকার পেলেও SA 238-এর নির্দিষ্ট holding-এ Abdul Ali-র একক record-এর বিরুদ্ধে documentary bridge কোথায়? Genealogy alone cannot substitute for identification of the disputed holding.
+সোনাভানু অন্য খতিয়ানে উত্তরাধিকার পেলেও SA 238-এর নির্দিষ্ট holding-এ Abdul Ali-র একক record-এর বিরুদ্ধে documentary bridge কোথায়? Genealogy alone cannot substitute for identification of the disputed holding. তদুপরি, succession event-এর ফলে কেবল সোনাভানুর নাম কেন প্রতিফলিত হলো, বিশেষত যখন অন্যান্য উত্তরাধিকারী বিদ্যমান, তাহা correction-এর logical consistency-কে প্রশ্নবিদ্ধ করে।
 
 ### The Unproved Source (Misc Case 1181/1969)
 বিবাদীপক্ষের title claim-এর foundation হলো alleged Misc Case No. 1181/1969।

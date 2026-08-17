@@ -292,7 +292,7 @@ AC Land-এর volume এবং District Record Room-এর preserved settlement
 
 ---
 
-## ১১. Comparative Documentary Test এবং Inheritance (সোনাভানু আব্দুল করিমের উত্তরাধিকারী কি না—এটি একমাত্র প্রশ্ন নয়)
+## ১১. ১৯৬৯ সালের correction theory-এর আরেকটি দুর্বলতা: কেন কেবল একজন? এবং Comparative Documentary Test
 
 বিবাদীপক্ষের succession theory যদি আব্দুল করিমের উত্তরাধিকারসূত্রের উপর দাঁড়ায়, তাহলে একটি গুরুত্বপূর্ণ factual distinction স্পষ্ট করা প্রয়োজন:
 
@@ -303,6 +303,20 @@ AC Land-এর volume এবং District Record Room-এর preserved settlement
 যদি Abdul Karim সত্যিই এই particular property-এর raiyat হন, তাহলে একই মৌজায় তাঁর উত্তরাধিকারীদের নামে অন্যান্য khatian-এ তাঁর interest-এর documentary reflection কীভাবে দেখা যায়? এবং বিপরীতভাবে: যদি Sonabhanu অন্য khatian-এ Abdul Karim-এর সম্পত্তি উত্তরাধিকারসূত্রে পেয়ে থাকেন, তাহলে SA 238-এ Abdul Ali-র একক record-এর বিরুদ্ধে তাঁকে আনয়নের documentary bridge কোথায়?
 
 এই comparative test কোনো inheritance right অস্বীকার করে না; বরং disputed parcel-এর identity নির্ধারণ করে। Genealogy alone cannot substitute for identification of the disputed holding.
+
+অধিকন্তু, বিবাদীপক্ষের succession theory অনুযায়ী আদালতের আরেকটি স্বাভাবিক প্রশ্ন:
+
+> একই succession event-এর ফলে কেন কেবল সোনাভানুর নাম প্রতিফলিত হলো?
+
+বিশেষত যদি record ও pleadings অনুযায়ী অন্যান্য উত্তরাধিকারী/কন্যা বা তাঁদের successor-এর অস্তিত্ব থাকে।
+
+এখানে প্রশ্নটি সরাসরি inheritance determination নয়।
+
+প্রশ্নটি হলো:
+
+> একটি কথিত judicial/official correction order-এর বাস্তবতা পরীক্ষা করার জন্য তার alleged result কি succession theory-এর সঙ্গে logically consistent?
+
+যদি না হয়, তাহলে missing parent order-এর গুরুত্ব আরও বৃদ্ধি পায়।
 
 অতএব বিজ্ঞ ট্রায়াল কোর্টের এই সিদ্ধান্ত আইন ও সাক্ষ্যের পরিপন্থী এবং বাতিলযোগ্য।
 
