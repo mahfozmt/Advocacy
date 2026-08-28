@@ -151,6 +151,11 @@
       "jud_year": 2014,
       "division_name": "High Court Division"
     },
+    "7": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "10": {
       "theories": [
         "L3_MISC_CASE_NO_TITLE_ADJUDICATION"
@@ -177,6 +182,11 @@
       "book_ref": "5 CLR (AD) 25,22 BLC (AD) 53,14 ADC 51,25 BLT (AD) 37,38 BLD (AD) 129",
       "jud_year": 2016,
       "division_name": "Appellate Division"
+    },
+    "33": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "36": {
       "theories": [
@@ -205,6 +215,16 @@
       "jud_year": 2017,
       "division_name": "High Court Division"
     },
+    "47": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "48": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "49": {
       "theories": [
         "L13_CITED_AUTHORITIES_VERIFY"
@@ -213,6 +233,16 @@
       "book_ref": "69 DLR (HD) 5",
       "jud_year": 2015,
       "division_name": "High Court Division"
+    },
+    "66": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "75": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "77": {
       "theories": [
@@ -232,6 +262,31 @@
       "jud_year": 2016,
       "division_name": "High Court Division"
     },
+    "100": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "103": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "109": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "113": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "127": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "131": {
       "theories": [
         "L2_MUTATION_NO_TITLE",
@@ -250,6 +305,21 @@
       "book_ref": "9 ALR (HD) 158,22 BLC (HD) 262",
       "jud_year": 2015,
       "division_name": "High Court Division"
+    },
+    "138": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "141": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "142": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "144": {
       "theories": [
@@ -279,6 +349,21 @@
       "jud_year": 2016,
       "division_name": "High Court Division"
     },
+    "158": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "161": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "170": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "174": {
       "theories": [
         "L1_SA_KHATIAN_PRESUMPTION"
@@ -288,6 +373,11 @@
       "jud_year": 2011,
       "division_name": "Appellate Division"
     },
+    "176": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "177": {
       "theories": [
         "L13_CITED_AUTHORITIES_VERIFY"
@@ -296,6 +386,11 @@
       "book_ref": "22 BLC (HD) 608",
       "jud_year": 2016,
       "division_name": "High Court Division"
+    },
+    "181": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "196": {
       "theories": [
@@ -365,6 +460,11 @@
       "jud_year": 2015,
       "division_name": "Appellate Division"
     },
+    "238": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "239": {
       "theories": [
         "L13_CITED_AUTHORITIES_VERIFY"
@@ -401,6 +501,11 @@
       "jud_year": 2016,
       "division_name": "High Court Division"
     },
+    "290": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "291": {
       "theories": [
         "L13_CITED_AUTHORITIES_VERIFY"
@@ -410,6 +515,16 @@
       "jud_year": 2015,
       "division_name": "High Court Division"
     },
+    "295": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "301": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "302": {
       "theories": [
         "L1_SA_KHATIAN_PRESUMPTION"
@@ -418,6 +533,11 @@
       "book_ref": "3 CLR (AD) 410,67 DLR (AD) 352",
       "jud_year": 2012,
       "division_name": "Appellate Division"
+    },
+    "310": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "313": {
       "theories": [
@@ -437,6 +557,16 @@
       "book_ref": "68 DLR (HD) 265",
       "jud_year": 2014,
       "division_name": "High Court Division"
+    },
+    "356": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "360": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "367": {
       "theories": [
@@ -486,6 +616,11 @@
       "jud_year": 2015,
       "division_name": "High Court Division"
     },
+    "385": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "395": {
       "theories": [
         "L13_CITED_AUTHORITIES_VERIFY"
@@ -504,6 +639,11 @@
       "book_ref": "67 DLR (AD) 243,12 ADC 190",
       "jud_year": 2014,
       "division_name": "Appellate Division"
+    },
+    "403": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "412": {
       "theories": [
@@ -551,6 +691,11 @@
       "book_ref": "4 CLR (AD) 18,68 DLR (AD) 118,36 BLD (AD) 33,24 BLT (AD) 132",
       "jud_year": 2014,
       "division_name": "Appellate Division"
+    },
+    "446": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "449": {
       "theories": [
@@ -607,6 +752,16 @@
       "jud_year": 2013,
       "division_name": "High Court Division"
     },
+    "506": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "509": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
     "510": {
       "theories": [
         "L1_SA_KHATIAN_PRESUMPTION",
@@ -616,6 +771,16 @@
       "book_ref": "66 DLR (HD) 14,25 BLT (HD) 403",
       "jud_year": 2013,
       "division_name": "High Court Division"
+    },
+    "511": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
+    },
+    "516": {
+      "theories": [
+        "RECOVERED_FROM_JULES_V3_UI_SESSION"
+      ]
     },
     "547": {
       "theories": [
@@ -13086,35 +13251,93 @@
     }
   },
   "fetched": {
+    "5": true,
+    "7": true,
     "10": true,
+    "28": true,
     "30": true,
+    "33": true,
     "36": true,
     "39": true,
+    "43": true,
+    "47": true,
+    "48": true,
+    "49": true,
+    "66": true,
+    "75": true,
     "77": true,
+    "86": true,
+    "100": true,
+    "103": true,
+    "109": true,
+    "113": true,
+    "127": true,
     "131": true,
+    "132": true,
+    "138": true,
+    "141": true,
+    "142": true,
+    "144": true,
     "147": true,
+    "150": true,
+    "158": true,
+    "161": true,
+    "170": true,
     "174": true,
+    "176": true,
+    "177": true,
+    "181": true,
     "196": true,
     "197": true,
     "201": true,
     "203": true,
     "204": true,
     "205": true,
+    "207": true,
+    "238": true,
+    "239": true,
     "266": true,
+    "271": true,
+    "278": true,
+    "290": true,
+    "291": true,
+    "295": true,
+    "301": true,
     "302": true,
+    "310": true,
+    "313": true,
     "338": true,
+    "356": true,
+    "360": true,
     "367": true,
     "374": true,
     "378": true,
+    "382": true,
     "384": true,
+    "385": true,
+    "395": true,
     "402": true,
+    "403": true,
     "412": true,
     "421": true,
+    "427": true,
+    "431": true,
     "445": true,
+    "446": true,
+    "449": true,
+    "459": true,
     "462": true,
     "479": true,
     "483": true,
+    "504": true,
+    "506": true,
+    "509": true,
     "510": true,
+    "511": true,
+    "516": true,
+    "547": true,
+    "554": true,
+    "558": true,
     "601": true,
     "617": true,
     "625": true,
@@ -13711,25 +13934,85 @@
     "16603": true
   },
   "excludedCriminal": {
+    "28": {
+      "caseno": "Criminal Miscellaneous Case No. 4397 of 2008",
+      "jurisdiction": "Criminal Miscellaneous Jurisdiction"
+    },
+    "66": {
+      "caseno": "Criminal Miscellaneous Case No. 7147 of 2014",
+      "jurisdiction": "Criminal Miscellaneous Jurisdiction"
+    },
+    "103": {
+      "caseno": "Death Reference No. 6 of 2009 \r\nwith \r\nCriminal Appeal Nos. 577, 846 of 2009 \r\nwith \r\nJail Appeal Nos. 106 & 107 of 2009.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "109": {
+      "caseno": "Criminal Revision No. 830 of 2013",
+      "jurisdiction": "Criminal Revisional Jurisdiction"
+    },
+    "144": {
+      "caseno": "Criminal Miscellaneous Case No. 45447 and 45448 of 2013",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
     "147": {
       "caseno": "Criminal Appeal Nos. 4263, 2018, 1913, 2529 of 2007\r\nWith\r\nCriminal Appeal No. 2244 of 2011\r\nWith\r\nJail Appeal Nos. 273, 274, 275 of 2007 and\r\nDeath Reference No. 25 of 2007",
       "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "158": {
+      "caseno": "Criminal Appeal Nos. 15-16 of 2010",
+      "jurisdiction": "Criminal"
+    },
+    "177": {
+      "caseno": "Criminal Revision No. 1632 of 2014",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
     },
     "196": {
       "caseno": "Death Reference No. 15 of 2007\r\nwith\r\nCriminal Appeal No. 687 of 2007\r\nwith\r\nJail Appeal Nos. 141, 142, 143, 144, 145, 146, 147 and 148 of 2007",
       "jurisdiction": "(Criminal Appellate Jurisdiction)"
     },
+    "271": {
+      "caseno": "Criminal Miscellaneous Case No. 50429 of 2014",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
+    "301": {
+      "caseno": "Criminal Appeal No. 2931 of 2012",
+      "jurisdiction": "Criminal Appellate Jurisdiction"
+    },
+    "313": {
+      "caseno": "Criminal Revision No. 86 of 1972.",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
+    },
     "374": {
       "caseno": "Death Reference No 3 of 1972.\r\nAnd Criminal Appeal No. 122 of 1972.",
       "jurisdiction": "Criminal Appellate Jurisdiction"
+    },
+    "382": {
+      "caseno": "Criminal Miscellaneous Case No. 15457 of 2011",
+      "jurisdiction": "Criminal Miscellaneous Jurisdiction"
     },
     "445": {
       "caseno": "Criminal Appeal No. 16-18 of  2013 with Criminal Petition No. 18 of 2010",
       "jurisdiction": "Criminal"
     },
+    "449": {
+      "caseno": "Criminal Miscellaneous Case No. 22329 of 2015",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
     "462": {
       "caseno": "Criminal Appeal No. 23 of 2011",
       "jurisdiction": "Criminal"
+    },
+    "509": {
+      "caseno": "Death Reference No. 63 of 2006 \r\nwith \r\nCriminal Appeal No. 3341 & 3462 of 2006 and Jail appeal No. 663 of 2006.",
+      "jurisdiction": "Criminal Miscellaneous Jurisdiction"
+    },
+    "547": {
+      "caseno": "Criminal Appeal Nos. 251, 273 of 2013 \r\nwith \r\nJail Appeal Nos. 7 of 8, 9,10 of 2013 and Death Reference No. 2 of 2013.",
+      "jurisdiction": "Criminal Appellate Jurisdiction"
+    },
+    "554": {
+      "caseno": "Death Reference No.7 of 2008 \r\nwith \r\nCriminal Appeal Nos. 900,913,944,973,983,989, 1020 and Jail Appeal Nos. 147 & 148 of 2008.",
+      "jurisdiction": "Criminal Appellate Jurisdiction"
     },
     "774": {
       "caseno": "Criminal Appeal No. 1812 of 2010",
