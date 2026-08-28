@@ -4048,3 +4048,1007 @@ FATAL: Error: UNKNOWN: unknown error, open 'E:\Mahfoz\Latest Advocacy\scratch\fe
   syscall: 'open',
   path: 'E:\\Mahfoz\\Latest Advocacy\\scratch\\fetch_case38_state.json'
 }
+=== interleaved: discover each theory group, then fetch its full text right away ===
+
+--- Theory: L13_CITED_AUTHORITIES_VERIFY ---
+  [retrieve] L13_CITED_AUTHORITIES_VERIFY discovery done, 178 case(s) awaiting full text...
+  [fetch] saved case_13708.json (5792 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13712.json (6363 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13724.json (8293 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13728.json (8851 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13752.json (21418 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13781.json (8846 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13791.json (5840 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13795.json (7749 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13799.json (7769 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13811.json (2857 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13824.json (7992 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13835.json (7939 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13865.json (11158 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13886.json (9301 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13901.json (27915 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13942.json (14646 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13955.json (12607 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13975.json (30395 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13999.json (15371 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_96.json (31 cases), removed 31 loose file(s)
+  [skip] Id 14005 is criminal jurisdiction ((Dhaka)  (Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_14006.json (28297 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14063.json (8599 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14096.json (14614 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14102.json (6791 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 25/178 for this group
+  [fetch] saved case_14110.json (31749 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14127.json (8751 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14180.json (11775 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14194.json (9808 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14219.json (10055 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14256.json (33039 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14286.json (11193 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14309.json (10502 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14313.json (14833 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14342.json (11960 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14374.json (8739 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14420.json (5279 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14438.json (14649 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14450.json (12540 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14451.json (6516 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14502.json (6312 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14505.json (4438 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14518.json (13817 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14528.json (5309 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14531.json (9213 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14652.json (8469 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14664.json (22575 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14670.json (28950 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14691.json (14230 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14714.json (29384 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 50/178 for this group
+  [fetch] saved case_14716.json (19858 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14717.json (14673 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14774.json (15480 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14791.json (25491 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14839.json (13350 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14859.json (9780 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14889.json (5375 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14900.json (19864 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_14968.json (20581 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15122.json (10992 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_97.json (39 cases), removed 39 loose file(s)
+  [fetch] saved case_15155.json (25198 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15195.json (29270 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15229.json (10080 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15285.json (12012 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15288.json (30305 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15299.json (14823 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15307.json (16033 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15314.json (25280 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15327.json (14119 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15329.json (33401 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15337.json (9520 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15374.json (13274 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15380.json (13464 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15401.json (9798 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15439.json (12615 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 75/178 for this group
+  [fetch] saved case_15469.json (11611 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15480.json (20739 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15554.json (18676 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15560.json (16487 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15586.json (8752 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_98.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_15597.json (11662 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15602.json (19977 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15630.json (10795 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15647.json (4551 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15648.json (14168 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15662.json (29720 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [skip] Id 15671 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_15694.json (32100 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15795.json (11506 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15812.json (29414 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15877.json (7250 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15887.json (2961 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_15976.json (22582 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16010.json (10115 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16042.json (20427 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16048.json (14105 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16065.json (29263 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16090.json (6190 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16102.json (15513 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16185.json (14269 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 100/178 for this group
+  [fetch] saved case_16233.json (14263 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16236.json (9627 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16296.json (8584 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16339.json (27023 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16425.json (32657 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16436.json (15389 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16451.json (24365 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16464.json (15334 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16471.json (13949 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16485.json (13656 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16529.json (16457 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16532.json (13340 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [skip] Id 16594 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [fetch] saved case_16709.json (16734 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16737.json (16657 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16752.json (8065 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16903.json (12728 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16934.json (26226 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_16948.json (13838 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17003.json (9963 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_99.json (38 cases), removed 38 loose file(s)
+  [fetch] saved case_17034.json (18885 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17035.json (22258 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17059.json (13290 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17077.json (21543 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17104.json (7666 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 125/178 for this group
+  [fetch] saved case_17124.json (7148 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17148.json (15644 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17158.json (18441 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17185.json (11170 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17202.json (28622 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17213.json (18105 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17216.json (6850 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17238.json (21326 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17245.json (12061 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17329.json (4629 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17344.json (7961 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17349.json (17435 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17410.json (13481 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17472.json (12750 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17478.json (40580 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_100.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_17530.json (11247 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17534.json (10464 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17588.json (11614 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17589.json (11946 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17621.json (6071 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17628.json (13328 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17639.json (6395 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17685.json (34071 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17722.json (18993 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17746.json (5700 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 150/178 for this group
+  [fetch] saved case_17747.json (10335 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17774.json (10923 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17779.json (10395 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17781.json (16329 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17791.json (12251 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17793.json (11497 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17794.json (7260 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17832.json (6271 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17840.json (25116 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17852.json (23167 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_101.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_17898.json (40877 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17902.json (9676 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17913.json (23126 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17927.json (33952 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17948.json (10547 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17954.json (9306 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17983.json (12692 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17985.json (7014 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17989.json (14534 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_17994.json (12757 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_18002.json (18970 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_18014.json (20201 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_18073.json (13888 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_18088.json (15990 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_18104.json (46816 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 175/178 for this group
+  [fetch] saved case_18114.json (17366 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_18172.json (11765 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_19213.json (9676 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+
+--- Theory: L8_LST_JURISDICTION_BAR ---
+  [retrieve] L8_LST_JURISDICTION_BAR discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L9_COMPROMISE_CODEFENDANT_EFFECT ---
+  [retrieve] L9_COMPROMISE_CODEFENDANT_EFFECT discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L10_APPROBATE_REPROBATE_ESTOPPEL ---
+  [retrieve] L10_APPROBATE_REPROBATE_ESTOPPEL discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L11_SUBSEQUENT_DEED_CORROBORATION ---
+  [retrieve] L11_SUBSEQUENT_DEED_CORROBORATION discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L12_GENEALOGY_NOT_HOLDING_IDENTIFICATION ---
+  [retrieve] L12_GENEALOGY_NOT_HOLDING_IDENTIFICATION discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L3_MISC_CASE_NO_TITLE_ADJUDICATION ---
+  [retrieve] L3_MISC_CASE_NO_TITLE_ADJUDICATION discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L4_ADVERSE_INFERENCE_BEST_EVIDENCE ---
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "adverse inference withholding document" page 1 -> 20 items, candidates so far: 3859
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "failure to produce certified copy" page 1 -> 17 items, candidates so far: 3865
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 1 -> 20 items, candidates so far: 3878
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 2 -> 20 items, candidates so far: 3892
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 3 -> 20 items, candidates so far: 3904
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 4 -> 20 items, candidates so far: 3913
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 5 -> 20 items, candidates so far: 3928
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 6 -> 20 items, candidates so far: 3943
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 7 -> 20 items, candidates so far: 3953
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 8 -> 20 items, candidates so far: 3966
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "best evidence rule" page 9 -> 5 items, candidates so far: 3971
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "non production of document adverse inference" page 1 -> 20 items, candidates so far: 3974
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "non production of document adverse inference" page 2 -> 5 items, candidates so far: 3974
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 1 -> 20 items, candidates so far: 3985
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 2 -> 20 items, candidates so far: 3993
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 3 -> 20 items, candidates so far: 4003
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 4 -> 20 items, candidates so far: 4015
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 5 -> 20 items, candidates so far: 4026
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 6 -> 20 items, candidates so far: 4037
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 7 -> 20 items, candidates so far: 4046
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 8 -> 20 items, candidates so far: 4053
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 9 -> 20 items, candidates so far: 4065
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 10 -> 20 items, candidates so far: 4081
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 11 -> 20 items, candidates so far: 4096
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 12 -> 20 items, candidates so far: 4112
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 13 -> 20 items, candidates so far: 4120
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 14 -> 20 items, candidates so far: 4129
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 15 -> 20 items, candidates so far: 4140
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 16 -> 20 items, candidates so far: 4149
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 17 -> 20 items, candidates so far: 4160
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 18 -> 20 items, candidates so far: 4171
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "section 114(g) evidence act" page 19 -> 14 items, candidates so far: 4178
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "suppression of best evidence" page 1 -> 18 items, candidates so far: 4178
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "সেরা সাক্ষ্য গোপন" page 1 -> 7 items, candidates so far: 4178
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "প্রতিকূল অনুমান" page 1 -> 2 items, candidates so far: 4178
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "নথি গোপন" page 1 -> 4 items, candidates so far: 4180
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "সার্টিফায়েড কপি দাখিল না করা" page 1 -> 20 items, candidates so far: 4182
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "সার্টিফায়েড কপি দাখিল না করা" page 2 -> 20 items, candidates so far: 4182
+  [discover] L4_ADVERSE_INFERENCE_BEST_EVIDENCE :: "সার্টিফায়েড কপি দাখিল না করা" page 3 -> 3 items, candidates so far: 4183
+  [retrieve] L4_ADVERSE_INFERENCE_BEST_EVIDENCE discovery done, 328 case(s) awaiting full text...
+  [skip] Id 156 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 172 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 329 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 332 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [skip] Id 369 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 386 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [skip] Id 399 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 408 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [fetch] saved case_420.json (28216 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_569.json (14856 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_635.json (5543 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 723 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [skip] Id 778 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 916 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 1046 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_1226.json (68012 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_1252.json (47600 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 1274 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_1337.json (26853 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 1376 is criminal jurisdiction (Criminal), not saved.
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_102.json (24 cases), removed 24 loose file(s)
+  [skip] Id 1436 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_1524.json (32940 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 1548 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 1592 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_1610.json (37602 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  progress: 25/328 for this group
+  [skip] Id 1632 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 1703 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 1713 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_1751.json (7497 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 1841 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 1880 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_1894.json (13804 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_1898.json (38606 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 1939 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 2062 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_2068.json (10493 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_2075.json (9722 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_2081.json (11890 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_2108.json (13225 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 2109 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_2145.json (18042 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_2238.json (13393 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 2264 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [skip] Id 2385 is criminal jurisdiction ((Criminal Appellate Division)), not saved.
+  [skip] Id 2395 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 2403 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 2440 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_2444.json (24165 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 2449 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 2484 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  progress: 50/328 for this group
+  [skip] Id 2520 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 2576 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 2622 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_2646.json (16859 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_2676.json (28277 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_2785.json (13145 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 2804 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_2918.json (24021 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 2922 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_3004.json (11306 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3005.json (23351 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3006.json (22346 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3038.json (51240 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3055.json (8469 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3075.json (17917 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3143.json (14063 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 3188 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_3235.json (6196 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 3260 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_3307.json (17726 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3398.json (14090 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3417.json (17553 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3618.json (23599 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 3741 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_3773.json (10378 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  progress: 75/328 for this group
+  [fetch] saved case_3825.json (18620 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_3995.json (6831 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 4006 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [skip] Id 4061 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_4096.json (21871 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_103.json (32 cases), removed 32 loose file(s)
+  [skip] Id 4103 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4163 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4241 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4264 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 4395 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4568 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4570 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_4623.json (11889 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_4687.json (15390 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 4725 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_4738.json (14430 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_4777.json (7872 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 4786 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 4827 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4835 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4952 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [fetch] saved case_4970.json (20964 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 5067 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5094 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5243 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  progress: 100/328 for this group
+  [skip] Id 5386 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5417 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5461 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5558 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5590 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_5647.json (23769 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_5732.json (15486 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 5737 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 5791 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 5807 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [fetch] saved case_5890.json (5728 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_5956.json (9712 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_5957.json (4559 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 5971 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_6025.json (21589 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_6112.json (11796 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 6135 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_6179.json (14488 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_6185.json (14823 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 6208 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [skip] Id 6209 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 6219 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [fetch] saved case_6251.json (118213 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 6295 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [skip] Id 6374 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  progress: 125/328 for this group
+  [skip] Id 6444 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 6509 is criminal jurisdiction (Criminal Revisional Jurisdiction), not saved.
+  [fetch] saved case_6687.json (11084 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_6749.json (14941 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_6870.json (26637 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 7057 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7059 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [skip] Id 7072 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7080 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_7170.json (16265 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 7204 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [skip] Id 7205 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7233 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7282 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7305 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7321 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7333 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7335 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7357 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7412 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 7447 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_7453.json (7537 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_7454.json (2895 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 7548 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_7564.json (20580 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  progress: 150/328 for this group
+  [skip] Id 7688 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_7869.json (23437 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_7874.json (24624 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 8004 is criminal jurisdiction ((Criminal Appellate Division)), not saved.
+  [fetch] saved case_8005.json (17348 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_8029.json (5532 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 8065 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 8156 is criminal jurisdiction ((Criminal Miscellaneous Jurisdiction)), not saved.
+  [skip] Id 8237 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 8249 is criminal jurisdiction ((Criminal Appellant Jurisdiction)), not saved.
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_104.json (26 cases), removed 26 loose file(s)
+  [skip] Id 8263 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [skip] Id 8324 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 8327 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_8429.json (19770 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 8450 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 8470 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 8477 is criminal jurisdiction ((Criminal Miscellaneous Jurisdiction)), not saved.
+  [skip] Id 8507 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 8587 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_8685.json (15886 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_8731.json (19736 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 8736 is criminal jurisdiction ((Criminal Revisional jurisdiction)), not saved.
+  [fetch] saved case_8788.json (14231 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 8814 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_8902.json (19396 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  progress: 175/328 for this group
+  [skip] Id 8904 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 9010 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_9102.json (14595 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 9105 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 9143 is criminal jurisdiction (Criminal Miscellaneous (Contempt) No. 96 of 1988), not saved.
+  [fetch] saved case_9196.json (87931 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 9238 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 9240 is criminal jurisdiction ((Criminal Appellant Jurisdiction)), not saved.
+  [skip] Id 9252 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 9450 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_9486.json (68454 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_9489.json (14945 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 9528 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 9654 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_9660.json (9765 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_9748.json (17689 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 9817 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 9820 is criminal jurisdiction ((Criminal Reference)), not saved.
+  [fetch] saved case_9879.json (12966 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_9894.json (19003 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 9929 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_9946.json (17437 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 9974 is criminal jurisdiction ((Criminal Jurisdiction)), not saved.
+  [skip] Id 9981 is criminal jurisdiction (Criminal Jurisdiction), not saved.
+  [skip] Id 10059 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  progress: 200/328 for this group
+  [skip] Id 10067 is criminal jurisdiction ((Criminal Jurisdiction)), not saved.
+  [skip] Id 10095 is criminal jurisdiction (Criminal Appellate Jurisdiction), not saved.
+  [fetch] saved case_10105.json (23694 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_10141.json (67893 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_10169.json (2689 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 10222 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 10265 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 10266 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 10330 is criminal jurisdiction (Criminal Revision No. 1568 of 2005), not saved.
+  [fetch] saved case_10367.json (51191 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 10410 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_10485.json (7673 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_10530.json (17820 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 10566 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 10578 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_10592.json (7819 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 10608 is criminal jurisdiction (Criminal), not saved.
+  [fetch] saved case_10660.json (6068 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 10683 is criminal jurisdiction (Death Reference No. 27 of 2009
+With
+Criminal Appeal No. 2144 of 2009
+and
+Jail Appeal No. 337 of 2009), not saved.
+  [skip] Id 10732 is criminal jurisdiction (Criminal), not saved.
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_105.json (22 cases), removed 22 loose file(s)
+  [fetch] saved case_10841.json (4719 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_10897.json (16547 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_10924.json (8506 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_11039.json (10184 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_11254.json (17223 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  progress: 225/328 for this group
+  [skip] Id 11263 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 11568 is criminal jurisdiction ((Criminal Appellate Division)), not saved.
+  [skip] Id 11572 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 11738 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 11904 is criminal jurisdiction (Criminal), not saved.
+  [fetch] saved case_11968.json (5356 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 12030 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_12105.json (10300 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 12196 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 12276 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_12427.json (12524 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_12511.json (18384 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 12543 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 12622 is criminal jurisdiction ([Criminal]), not saved.
+  [skip] Id 12682 is criminal jurisdiction (Criminal), not saved.
+  [fetch] saved case_12691.json (9285 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 12726 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 12730 is criminal jurisdiction (CRIMINAL), not saved.
+  [skip] Id 12769 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 12950 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 13015 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 13171 is criminal jurisdiction (Criminal), not saved.
+  [fetch] saved case_13319.json (6927 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 13333 is criminal jurisdiction ([Criminal]), not saved.
+  [skip] Id 13361 is criminal jurisdiction (Criminal), not saved.
+  progress: 250/328 for this group
+  [fetch] saved case_13430.json (12850 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 13453 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 13551 is criminal jurisdiction (Criminal), not saved.
+  [skip] Id 13832 is criminal jurisdiction ([Criminal]), not saved.
+  [fetch] saved case_13851.json (15441 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14056.json (7609 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14082.json (12937 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 14103 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_14116.json (26948 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14232.json (12960 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14352.json (5940 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 14424 is criminal jurisdiction (Criminal), not saved.
+  [fetch] saved case_14484.json (10427 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 14606 is criminal jurisdiction (High Court Division), not saved.
+  [skip] Id 14682 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_14863.json (10477 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14873.json (16513 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14881.json (26258 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_14907.json (19190 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_15011.json (11777 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 15131 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [skip] Id 15142 is criminal jurisdiction ((Criminal Miscellaneous Jurisdiction)), not saved.
+  [skip] Id 15230 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 15282 is criminal jurisdiction (Criminal Revisional Jurisdiction), not saved.
+  [skip] Id 15344 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  progress: 275/328 for this group
+  [skip] Id 15367 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 15416 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_15673.json (15413 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 15693 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 15712 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_106.json (25 cases), removed 25 loose file(s)
+  [fetch] saved case_15768.json (21193 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 15770 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 15837 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_15850.json (75402 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_15884.json (9306 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 16114 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 16308 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_16316.json (39017 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 16358 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 16368 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 16455 is criminal jurisdiction ((Criminal)), not saved.
+  [skip] Id 16462 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_16537.json (22231 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_16563.json (16580 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_16622.json (25068 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 16630 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 16632 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 16672 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [fetch] saved case_16692.json (36363 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 16694 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  progress: 300/328 for this group
+  [fetch] saved case_16703.json (15586 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_16787.json (19199 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 16808 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 16924 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 16958 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 16961 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 17128 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 17226 is criminal jurisdiction (Death Reference No.75 of 2017
+With
+Criminal Appeal No. 6509 of 2017
+With
+Jail Appeal No. 264 of 2017), not saved.
+  [fetch] saved case_17303.json (22009 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 17342 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [fetch] saved case_17365.json (11879 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_17443.json (22663 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 17457 is criminal jurisdiction ((Criminal Miscellaneous Jurisdiction)), not saved.
+  [fetch] saved case_17498.json (10762 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_17510.json (11258 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_17511.json (34144 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_17553.json (69777 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 17565 is criminal jurisdiction ((Criminal Miscellaneous Jurisdiction)), not saved.
+  [skip] Id 17583 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_17625.json (6323 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 17809 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 17811 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [skip] Id 17855 is criminal jurisdiction ((CRIMINAL)), not saved.
+  [fetch] saved case_17883.json (27771 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [skip] Id 17990 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  progress: 325/328 for this group
+  [skip] Id 18135 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_18138.json (25549 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [fetch] saved case_18154.json (16133 chars, theories=L4_ADVERSE_INFERENCE_BEST_EVIDENCE)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_107.json (21 cases), removed 21 loose file(s)
+
+--- Theory: L5_HOTCHPOT_NONJOINDER_PARTITION ---
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "partial partition maintainable" page 1 -> 20 items, candidates so far: 4183
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "partial partition maintainable" page 2 -> 20 items, candidates so far: 4183
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "partial partition maintainable" page 3 -> 4 items, candidates so far: 4183
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 1 -> 20 items, candidates so far: 4187
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 2 -> 20 items, candidates so far: 4190
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 3 -> 20 items, candidates so far: 4195
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 4 -> 20 items, candidates so far: 4200
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 5 -> 20 items, candidates so far: 4207
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 6 -> 20 items, candidates so far: 4212
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 7 -> 20 items, candidates so far: 4218
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 8 -> 20 items, candidates so far: 4222
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 9 -> 20 items, candidates so far: 4225
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 10 -> 20 items, candidates so far: 4229
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 11 -> 20 items, candidates so far: 4239
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 12 -> 20 items, candidates so far: 4244
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 13 -> 20 items, candidates so far: 4250
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 14 -> 20 items, candidates so far: 4257
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 15 -> 20 items, candidates so far: 4264
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 16 -> 20 items, candidates so far: 4272
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 17 -> 20 items, candidates so far: 4285
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 18 -> 20 items, candidates so far: 4294
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 19 -> 20 items, candidates so far: 4305
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "co sharer partition of part property" page 20 -> 4 items, candidates so far: 4307
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 1 -> 20 items, candidates so far: 4307
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 2 -> 20 items, candidates so far: 4307
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 3 -> 20 items, candidates so far: 4307
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 4 -> 20 items, candidates so far: 4307
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 5 -> 20 items, candidates so far: 4308
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 6 -> 20 items, candidates so far: 4308
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 7 -> 20 items, candidates so far: 4309
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 8 -> 20 items, candidates so far: 4310
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 9 -> 20 items, candidates so far: 4310
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 10 -> 20 items, candidates so far: 4310
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 11 -> 20 items, candidates so far: 4311
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "non joinder government partition suit" page 12 -> 19 items, candidates so far: 4313
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "government not necessary party" page 1 -> 20 items, candidates so far: 4323
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "government not necessary party" page 2 -> 20 items, candidates so far: 4332
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "government not necessary party" page 3 -> 20 items, candidates so far: 4337
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "government not necessary party" page 4 -> 12 items, candidates so far: 4342
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 1 -> 20 items, candidates so far: 4344
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 2 -> 20 items, candidates so far: 4347
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 3 -> 20 items, candidates so far: 4348
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 4 -> 20 items, candidates so far: 4348
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 5 -> 20 items, candidates so far: 4348
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 6 -> 20 items, candidates so far: 4348
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 7 -> 20 items, candidates so far: 4348
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 8 -> 20 items, candidates so far: 4350
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 9 -> 20 items, candidates so far: 4350
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "hotchpot partition suit" page 10 -> 14 items, candidates so far: 4351
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "separate khatian separate tenancy" page 1 -> 20 items, candidates so far: 4352
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "separate khatian separate tenancy" page 2 -> 20 items, candidates so far: 4353
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "separate khatian separate tenancy" page 3 -> 20 items, candidates so far: 4359
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "separate khatian separate tenancy" page 4 -> 20 items, candidates so far: 4363
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "separate khatian separate tenancy" page 5 -> 20 items, candidates so far: 4365
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "separate khatian separate tenancy" page 6 -> 16 items, candidates so far: 4367
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "পৃথক খতিয়ান" page 1 -> 5 items, candidates so far: 4368
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "সরকার আবশ্যকীয় পক্ষ নয়" page 1 -> 20 items, candidates so far: 4371
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "সরকার আবশ্যকীয় পক্ষ নয়" page 2 -> 5 items, candidates so far: 4372
+  [discover] L5_HOTCHPOT_NONJOINDER_PARTITION :: "হচপট" page 1 -> 4 items, candidates so far: 4373
+  [retrieve] L5_HOTCHPOT_NONJOINDER_PARTITION discovery done, 190 case(s) awaiting full text...
+  [fetch] saved case_323.json (22521 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_390.json (21249 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_512.json (56167 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_578.json (22573 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_712.json (6333 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_922.json (9851 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1080.json (10710 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1205.json (16610 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1397.json (9337 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1431.json (12688 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1489.json (25354 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1608.json (39035 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1641.json (122260 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1677.json (10827 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1737.json (9134 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1757.json (138448 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1777.json (17778 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1899.json (22217 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1987.json (13305 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_1993.json (10811 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_108.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_2156.json (33918 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_2165.json (31040 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_2239.json (16412 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_2425.json (2839 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [skip] Id 2522 is criminal jurisdiction ((Criminal Miscellaneous Jurisdiction)), not saved.
+  progress: 25/190 for this group
+  [fetch] saved case_2953.json (22895 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_2976.json (9544 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3312.json (23009 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3380.json (12366 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3403.json (25584 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3411.json (131277 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3513.json (273820 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3516.json (20609 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3589.json (13817 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3641.json (2546 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3659.json (13499 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3703.json (5826 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3815.json (14685 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3897.json (9225 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_3989.json (23387 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4091.json (20139 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4100.json (29725 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [skip] Id 4153 is criminal jurisdiction ((Civil Revisional Jurisdiction)), not saved.
+  [fetch] saved case_4273.json (18107 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4482.json (20850 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4518.json (22441 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4519.json (15364 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4656.json (64967 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4661.json (8301 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4709.json (22674 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  progress: 50/190 for this group
+  [fetch] saved case_4797.json (20298 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4874.json (16564 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4899.json (34336 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4900.json (30009 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4906.json (10902 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4928.json (69880 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_4971.json (69174 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5061.json (18552 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5119.json (12649 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5148.json (28963 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_109.json (38 cases), removed 38 loose file(s)
+  [fetch] saved case_5155.json (20157 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5222.json (21157 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5239.json (26231 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5289.json (22600 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5303.json (14062 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5446.json (18605 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5516.json (17930 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5608.json (27100 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5673.json (17603 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_5740.json (21009 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [skip] Id 5866 is criminal jurisdiction (Criminal Revisional Jurisdiction), not saved.
+  [fetch] saved case_6049.json (3238 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6053.json (6869 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6061.json (46305 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6099.json (7294 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  progress: 75/190 for this group
+  [fetch] saved case_6199.json (13822 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [skip] Id 6357 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_6519.json (7396 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6619.json (13539 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6720.json (25311 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6827.json (22892 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_6934.json (25924 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [skip] Id 7046 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_7147.json (61472 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7159.json (99720 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7169.json (28342 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7185.json (12812 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7255.json (29172 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7283.json (83600 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7639.json (16914 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7702.json (31021 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_7989.json (25854 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [skip] Id 8047 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_8653.json (20221 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_8680.json (14707 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_8723.json (25265 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_8725.json (9851 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_8962.json (20851 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_8980.json (12898 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9077.json (71232 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  progress: 100/190 for this group
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_110.json (36 cases), removed 36 loose file(s)
+  [fetch] saved case_9157.json (63152 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9309.json (3794 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9349.json (8671 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9395.json (13116 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9542.json (29680 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9619.json (13544 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9672.json (2832 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9793.json (36696 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9900.json (9584 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_9960.json (6989 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10126.json (9464 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10228.json (18584 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10291.json (31181 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10544.json (14273 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10739.json (9141 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10812.json (7994 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10846.json (25362 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_10905.json (3951 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11190.json (7550 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11271.json (8780 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_111.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_11405.json (9614 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11523.json (9208 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11640.json (12485 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11702.json (6956 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11715.json (6400 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  progress: 125/190 for this group
+  [fetch] saved case_11846.json (9580 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11946.json (44859 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_11956.json (8299 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_12062.json (25146 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_12212.json (4653 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_12698.json (21338 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_12746.json (22483 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_12969.json (7145 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13318.json (29306 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13406.json (10715 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13518.json (37241 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13531.json (18957 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13588.json (7339 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13978.json (20825 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_13989.json (163369 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_112.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_14051.json (16086 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14059.json (10837 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14140.json (109048 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14196.json (33351 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14432.json (7784 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14487.json (18900 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14611.json (11493 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14641.json (39932 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14674.json (35970 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14711.json (76022 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  progress: 150/190 for this group
+  [fetch] saved case_14720.json (20428 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14779.json (13147 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14853.json (7908 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_14875.json (6928 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_15274.json (17702 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_15276.json (9705 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_15353.json (25024 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_15426.json (23128 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_15528.json (18879 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_15533.json (16334 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_113.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_15627.json (21364 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16138.json (16376 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16299.json (15989 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16321.json (13675 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16565.json (32390 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16626.json (17892 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16676.json (21327 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16708.json (9612 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16761.json (18501 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16883.json (21982 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_16972.json (21622 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17041.json (36246 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17099.json (14504 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17308.json (14477 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17311.json (26010 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  progress: 175/190 for this group
+  [fetch] saved case_17317.json (8470 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17336.json (16693 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17466.json (35376 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17529.json (13365 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17555.json (12431 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_114.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_17624.json (9990 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17724.json (8514 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17732.json (34872 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17770.json (17613 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17799.json (34992 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_17812.json (13239 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_18068.json (20378 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_18196.json (18342 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_18199.json (16689 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+  [fetch] saved case_19219.json (135469 chars, theories=L5_HOTCHPOT_NONJOINDER_PARTITION)
+
+--- Theory: L6_COURT_OF_WARDS_ESTATE ---
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "court of wards recognition of tenant" page 1 -> 20 items, candidates so far: 4376
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "court of wards recognition of tenant" page 2 -> 20 items, candidates so far: 4380
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "court of wards recognition of tenant" page 3 -> 15 items, candidates so far: 4380
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "estate return recognition of tenant" page 1 -> 20 items, candidates so far: 4382
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "estate return recognition of tenant" page 2 -> 20 items, candidates so far: 4388
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "estate return recognition of tenant" page 3 -> 20 items, candidates so far: 4391
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "estate return recognition of tenant" page 4 -> 15 items, candidates so far: 4394
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "zamindar return accepted by state" page 1 -> 10 items, candidates so far: 4395
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "state acquisition return tenant" page 1 -> 20 items, candidates so far: 4395
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "state acquisition return tenant" page 2 -> 20 items, candidates so far: 4395
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "state acquisition return tenant" page 3 -> 20 items, candidates so far: 4395
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "state acquisition return tenant" page 4 -> 20 items, candidates so far: 4396
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "state acquisition return tenant" page 5 -> 20 items, candidates so far: 4396
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "state acquisition return tenant" page 6 -> 10 items, candidates so far: 4396
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "record prepared from landlord return" page 1 -> 20 items, candidates so far: 4398
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "record prepared from landlord return" page 2 -> 8 items, candidates so far: 4400
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "tenant recognised by estate" page 1 -> 20 items, candidates so far: 4400
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "tenant recognised by estate" page 2 -> 20 items, candidates so far: 4401
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "tenant recognised by estate" page 3 -> 20 items, candidates so far: 4403
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "tenant recognised by estate" page 4 -> 9 items, candidates so far: 4404
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "কোর্ট অব ওয়ার্ডস" page 1 -> 9 items, candidates so far: 4405
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "রাষ্ট্র কর্তৃক স্বীকৃত প্রজা" page 1 -> 20 items, candidates so far: 4406
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "রাষ্ট্র কর্তৃক স্বীকৃত প্রজা" page 2 -> 1 items, candidates so far: 4406
+  [discover] L6_COURT_OF_WARDS_ESTATE :: "রিটার্নে নাম" page 1 -> 5 items, candidates so far: 4406
+  [retrieve] L6_COURT_OF_WARDS_ESTATE discovery done, 33 case(s) awaiting full text...
+  [fetch] saved case_46.json (55067 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_136.json (62376 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_1354.json (19434 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_2122.json (41189 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_2364.json (57529 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_2619.json (71151 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_2795.json (24367 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_3456.json (18570 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_4102.json (6738 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [skip] Id 4200 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_4751.json (13531 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [skip] Id 4848 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [skip] Id 4860 is criminal jurisdiction ((Criminal Appellate Jurisdiction)), not saved.
+  [fetch] saved case_5548.json (35336 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_5655.json (25058 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_6126.json (25793 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_6145.json (10113 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_6759.json (13057 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_7538.json (30795 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_7618.json (21080 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_115.json (27 cases), removed 27 loose file(s)
+  [fetch] saved case_7995.json (28426 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_8078.json (26779 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_10052.json (24843 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_14050.json (5752 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_14472.json (9255 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  progress: 25/33 for this group
+  [fetch] saved case_14636.json (20290 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_15338.json (17158 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_15824.json (24364 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_16748.json (32425 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_16835.json (36406 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_17280.json (16797 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_17487.json (14715 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+  [fetch] saved case_17597.json (85636 chars, theories=L6_COURT_OF_WARDS_ESTATE)
+
+--- Theory: L7_NOTICE_MANDATORY_CORRECTION ---
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "correction without notice void" page 1 -> 13 items, candidates so far: 4408
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "mutation without notice" page 1 -> 20 items, candidates so far: 4411
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "mutation without notice" page 2 -> 20 items, candidates so far: 4413
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "mutation without notice" page 3 -> 20 items, candidates so far: 4419
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "mutation without notice" page 4 -> 6 items, candidates so far: 4419
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "natural justice revenue proceeding" page 1 -> 20 items, candidates so far: 4424
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "natural justice revenue proceeding" page 2 -> 20 items, candidates so far: 4426
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "natural justice revenue proceeding" page 3 -> 20 items, candidates so far: 4430
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "natural justice revenue proceeding" page 4 -> 20 items, candidates so far: 4436
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "natural justice revenue proceeding" page 5 -> 15 items, candidates so far: 4440
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "record correction notice hearing" page 1 -> 6 items, candidates so far: 4440
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "alteration without notice illegal" page 1 -> 6 items, candidates so far: 4443
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "নোটিশ ছাড়া সংশোধন" page 1 -> 11 items, candidates so far: 4444
+  [discover] L7_NOTICE_MANDATORY_CORRECTION :: "রেকর্ড সংশোধন" page 1 -> 16 items, candidates so far: 4446
+  [retrieve] L7_NOTICE_MANDATORY_CORRECTION discovery done, 40 case(s) awaiting full text...
+  [fetch] saved case_125.json (31537 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [skip] Id 319 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_450.json (161370 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_478.json (98032 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_974.json (58797 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_1162.json (109340 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_1318.json (11904 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_1450.json (24354 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_2379.json (71313 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_2693.json (7289 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_3903.json (111575 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [skip] Id 5159 is criminal jurisdiction ((Criminal Revisional Jurisdiction)), not saved.
+  [fetch] saved case_6614.json (78550 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_7311.json (36301 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_7408.json (30018 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_7474.json (14129 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_7582.json (26544 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_7712.json (14362 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_7978.json (39101 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_8459.json (22063 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_116.json (31 cases), removed 31 loose file(s)
+  [fetch] saved case_8635.json (106287 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_10111.json (9296 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_11412.json (4522 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_11609.json (12829 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_11883.json (6465 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  progress: 25/40 for this group
+  [fetch] saved case_12026.json (5122 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [skip] Id 12247 is criminal jurisdiction ((Criminal)), not saved.
+  [fetch] saved case_12640.json (26570 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [skip] Id 13849 is criminal jurisdiction (Criminal Revision), not saved.
+  [fetch] saved case_14017.json (11233 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_14020.json (25612 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_14034.json (26177 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_14701.json (137319 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_15265.json (13991 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_15710.json (70442 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_15849.json (13800 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [skip] Id 16313 is criminal jurisdiction (Criminal), not saved.
+  [fetch] saved case_16664.json (17712 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_16759.json (233979 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+  [fetch] saved case_17401.json (62674 chars, theories=L7_NOTICE_MANDATORY_CORRECTION)
+
+--- Theory: L1_SA_KHATIAN_PRESUMPTION ---
+  [retrieve] L1_SA_KHATIAN_PRESUMPTION discovery done, 0 case(s) awaiting full text...
+
+--- Theory: L2_MUTATION_NO_TITLE ---
+  [retrieve] L2_MUTATION_NO_TITLE discovery done, 0 case(s) awaiting full text...
+
+All done. Total candidates: 4446, saved cases in: E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026
