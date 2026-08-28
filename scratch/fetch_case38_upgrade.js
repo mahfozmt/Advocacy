@@ -280,7 +280,7 @@ const RUN_ORDER = [
     'L6_COURT_OF_WARDS_ESTATE', 'L7_NOTICE_MANDATORY_CORRECTION', 'L1_SA_KHATIAN_PRESUMPTION', 'L2_MUTATION_NO_TITLE'
 ];
 const ORDERED_GROUPS = RUN_ORDER.map(t => KEYWORD_GROUPS.find(g => g.theory === t)).filter(Boolean);
-const CHECKPOINT_EVERY = 100; // commit+push a checkpoint every N newly-fetched cases, not just at group boundaries
+const CHECKPOINT_EVERY = 20; // commit+push a checkpoint every N newly-fetched cases, not just at group boundaries
 
 async function run() {
     if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
