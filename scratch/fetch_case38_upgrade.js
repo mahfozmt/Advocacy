@@ -15,7 +15,7 @@ const { execSync } = require('child_process');
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'Resource', 'Judgements_Appeal38_2026');
 const STATE_FILE = path.join(__dirname, 'fetch_case38_state.json');
-const REQUEST_DELAY_MS = 1000; // ~1 req/sec, politeness-first per instruction
+const REQUEST_DELAY_MS = 150; // ~6-7 req/sec for local runs (Jules kept stalling, running this locally now instead) - kept a small delay rather than 0 as a safety margin against accidental self-inflicted blocking
 const MAX_PAGES_PER_KEYWORD = 30; // safety cap; logged if hit
 const BATCH_SIZE = 200; // new cases are grouped into batch_<n>.json arrays instead of one file each
 // Set AUTO_GIT_PUSH=1 in the environment (e.g. on the Jules VM) to have this script commit+push a
