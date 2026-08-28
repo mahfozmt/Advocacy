@@ -122,7 +122,8 @@
     },
     "L13_CITED_AUTHORITIES_VERIFY::56 DLR (AD) 53": {
       "last_page": 30,
-      "completed": false
+      "completed": true,
+      "capped": true
     },
     "L13_CITED_AUTHORITIES_VERIFY::45 DLR (AD) 124": {
       "last_page": 6,

@@ -170,7 +170,13 @@ async function discoverKeyword(theory, anykey, state) {
         await delay(REQUEST_DELAY_MS);
     }
     if (pageNo > MAX_PAGES_PER_KEYWORD) {
-        console.log(`  [!] hit MAX_PAGES_PER_KEYWORD cap for "${anykey}" - results beyond this page were NOT scanned.`);
+        // Mark it done even though not exhaustive - MAX_PAGES_PER_KEYWORD is a hard ceiling this
+        // keyword will never get past, so leaving completed:false just re-logs this same warning
+        // on every future resume with zero new requests. Recording it as capped/completed here
+        // makes that explicit and keeps the log honest instead of noisy.
+        state.discovery[key] = { last_page: MAX_PAGES_PER_KEYWORD, completed: true, capped: true };
+        saveState(state);
+        console.log(`  [!] hit MAX_PAGES_PER_KEYWORD cap for "${anykey}" - results beyond this page were NOT scanned. Marked done (capped).`);
     }
     await delay(REQUEST_DELAY_MS);
 }
