@@ -4010,3 +4010,41 @@ DEATH REFERENCE NO. 43 OF 2009), not saved.
   [fetch] saved case_13186.json (10472 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
   [fetch] saved case_13192.json (2078 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
   [fetch] saved case_13205.json (3032 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13213.json (3828 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13248.json (17946 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13264.json (13470 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13276.json (8474 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13285.json (14536 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13292.json (3231 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13307.json (13776 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13350.json (12307 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13376.json (11020 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13381.json (9402 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13387.json (10668 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13399.json (11909 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13421.json (20612 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13461.json (3915 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [compact] wrote E:\Mahfoz\Latest Advocacy\Resource\Judgements_Appeal38_2026\batch_95.json (20 cases), removed 20 loose file(s)
+  [fetch] saved case_13467.json (11891 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13487.json (8259 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13519.json (4893 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13535.json (8436 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13542.json (14186 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  progress: 725/909 for this group
+  [fetch] saved case_13543.json (2579 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13550.json (13521 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13562.json (21731 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13614.json (13626 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13630.json (4433 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+  [fetch] saved case_13683.json (7213 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+FATAL: Error: UNKNOWN: unknown error, open 'E:\Mahfoz\Latest Advocacy\scratch\fetch_case38_state.json'
+    at Object.writeFileSync (node:fs:2380:20)
+    at saveState (E:\Mahfoz\Latest Advocacy\scratch\fetch_case38_upgrade.js:125:8)
+    at fetchFullJudgment (E:\Mahfoz\Latest Advocacy\scratch\fetch_case38_upgrade.js:227:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async run (E:\Mahfoz\Latest Advocacy\scratch\fetch_case38_upgrade.js:307:13) {
+  errno: -4094,
+  code: 'UNKNOWN',
+  syscall: 'open',
+  path: 'E:\\Mahfoz\\Latest Advocacy\\scratch\\fetch_case38_state.json'
+}
