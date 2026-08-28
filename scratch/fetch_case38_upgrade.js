@@ -4,15 +4,23 @@
 //            but LoadJudgements alone only gives a search-relevance snippet, not the whole judgment).
 //   Phase 2 (retrieval): Api/CopyJudgment?judid=<Id> per unique candidate Id -> guaranteed COMPLETE, clean full_judgment text,
 //            independent of which keyword found it. No login required for either endpoint.
-// Output: one clean case_<Id>.json per case in OUTPUT_DIR, tagged with the theory/keyword(s) that surfaced it.
+// Output: each case is first written as a loose case_<Id>.json (crash-safe, immediate), then periodically
+// compacted into batch_<n>.json arrays (BATCH_SIZE cases each) after every theory group finishes, to keep
+// the file count in OUTPUT_DIR small. Each case is tagged with the theory/keyword(s) that surfaced it.
+// Set AUTO_GIT_PUSH=1 to have the script git add/commit/push a checkpoint after each compaction.
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'Resource', 'Judgements_Appeal38_2026');
 const STATE_FILE = path.join(__dirname, 'fetch_case38_state.json');
 const REQUEST_DELAY_MS = 1000; // ~1 req/sec, politeness-first per instruction
 const MAX_PAGES_PER_KEYWORD = 30; // safety cap; logged if hit
+const BATCH_SIZE = 200; // new cases are grouped into batch_<n>.json arrays instead of one file each
+// Set AUTO_GIT_PUSH=1 in the environment (e.g. on the Jules VM) to have this script commit+push a
+// checkpoint after every flushed batch, so progress lands on the remote without manual prompting.
+const AUTO_GIT_PUSH = process.env.AUTO_GIT_PUSH === '1';
 
 const headers = {
     "accept": "application/json, text/plain, */*",
@@ -200,6 +208,48 @@ async function fetchFullJudgment(id, state) {
     await delay(REQUEST_DELAY_MS);
 }
 
+// Compacts loose case_<Id>.json files into batch_<n>.json arrays (BATCH_SIZE each), then deletes the
+// loose originals. Keeps the total file count in OUTPUT_DIR small and commit-friendly for an agent
+// working over the repo (thousands of tiny files is what made Jules's earlier run heavy/error-prone).
+function compactLooseFilesIntoBatches(state) {
+    const looseFiles = fs.readdirSync(OUTPUT_DIR).filter(f => /^case_\d+\.json$/.test(f));
+    if (looseFiles.length === 0) return 0;
+
+    if (typeof state.nextBatchNumber !== 'number') state.nextBatchNumber = 1;
+    let compacted = 0;
+
+    for (let i = 0; i < looseFiles.length; i += BATCH_SIZE) {
+        const chunk = looseFiles.slice(i, i + BATCH_SIZE);
+        if (chunk.length < BATCH_SIZE && chunk.length === looseFiles.length && i === 0 && chunk.length < 20) {
+            // Too small a leftover to bother batching yet; leave it loose for next time.
+            break;
+        }
+        const items = chunk.map(f => JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, f), 'utf8')));
+        const batchFile = path.join(OUTPUT_DIR, `batch_${state.nextBatchNumber}.json`);
+        fs.writeFileSync(batchFile, JSON.stringify(items, null, 2), 'utf8');
+        chunk.forEach(f => fs.unlinkSync(path.join(OUTPUT_DIR, f)));
+        console.log(`  [compact] wrote ${batchFile} (${items.length} cases), removed ${chunk.length} loose file(s)`);
+        state.nextBatchNumber++;
+        compacted += chunk.length;
+    }
+    if (compacted > 0) saveState(state);
+    return compacted;
+}
+
+function gitCheckpoint(label) {
+    if (!AUTO_GIT_PUSH) return;
+    try {
+        execSync('git add Resource/Judgements_Appeal38_2026 scratch/fetch_case38_state.json scratch/fetch_case38_upgrade.log', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+        const hasChanges = execSync('git status --porcelain -- Resource/Judgements_Appeal38_2026 scratch/fetch_case38_state.json scratch/fetch_case38_upgrade.log', { cwd: path.join(__dirname, '..') }).toString().trim();
+        if (!hasChanges) { console.log(`  [git] no changes to checkpoint (${label})`); return; }
+        execSync(`git commit -m "checkpoint: ${label}"`, { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+        execSync('git push', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
+        console.log(`  [git] checkpoint committed and pushed: ${label}`);
+    } catch (e) {
+        console.log(`  [!] git checkpoint failed (${label}): ${e.message} - continuing harvest, will retry at next checkpoint.`);
+    }
+}
+
 async function run() {
     if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
     const state = loadState();
@@ -219,8 +269,13 @@ async function run() {
             done++;
             if (done % 25 === 0) console.log(`  progress: ${done}/${pending.length} for this group`);
         }
+
+        compactLooseFilesIntoBatches(state);
+        gitCheckpoint(`after theory group ${group.theory}, ${Object.keys(state.fetched).length} total cases fetched`);
     }
 
+    compactLooseFilesIntoBatches(state);
+    gitCheckpoint('final');
     console.log(`\nAll done. Total candidates: ${Object.keys(state.candidates).length}, saved cases in: ${OUTPUT_DIR}`);
 }
 
