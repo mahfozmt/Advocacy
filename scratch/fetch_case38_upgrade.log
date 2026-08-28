@@ -348,3 +348,61 @@
   [fetch] saved case_7773.json (59760 chars, theories=L1_SA_KHATIAN_PRESUMPTION,L2_MUTATION_NO_TITLE,L3_MISC_CASE_NO_TITLE_ADJUDICATION)
   [fetch] saved case_7793.json (19832 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
   [fetch] saved case_7804.json (21271 chars, theories=L3_MISC_CASE_NO_TITLE_ADJUDICATION)
+=== interleaved: discover each theory group, then fetch its full text right away ===
+
+--- Theory: L13_CITED_AUTHORITIES_VERIFY ---
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 1 -> 20 items, candidates so far: 812
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 2 -> 20 items, candidates so far: 831
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 3 -> 20 items, candidates so far: 844
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 4 -> 20 items, candidates so far: 860
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 5 -> 20 items, candidates so far: 877
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 6 -> 20 items, candidates so far: 894
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 7 -> 20 items, candidates so far: 911
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 8 -> 20 items, candidates so far: 928
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 9 -> 20 items, candidates so far: 947
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 10 -> 20 items, candidates so far: 965
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 11 -> 20 items, candidates so far: 982
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 12 -> 20 items, candidates so far: 995
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 13 -> 20 items, candidates so far: 1014
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 14 -> 20 items, candidates so far: 1030
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 15 -> 20 items, candidates so far: 1047
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 16 -> 20 items, candidates so far: 1067
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 17 -> 20 items, candidates so far: 1086
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 18 -> 20 items, candidates so far: 1103
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 19 -> 20 items, candidates so far: 1119
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 20 -> 20 items, candidates so far: 1136
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 21 -> 20 items, candidates so far: 1155
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 22 -> 20 items, candidates so far: 1172
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 23 -> 20 items, candidates so far: 1190
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 24 -> 20 items, candidates so far: 1210
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 25 -> 20 items, candidates so far: 1228
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 26 -> 20 items, candidates so far: 1247
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 27 -> 20 items, candidates so far: 1266
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 28 -> 20 items, candidates so far: 1282
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 29 -> 20 items, candidates so far: 1301
+  [!] error page 30 for "56 DLR (AD) 53": timeout
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "56 DLR (AD) 53" page 30 -> 20 items, candidates so far: 1321
+  [!] hit MAX_PAGES_PER_KEYWORD cap for "56 DLR (AD) 53" - results beyond this page were NOT scanned.
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "45 DLR (AD) 124" page 1 -> 20 items, candidates so far: 1335
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "45 DLR (AD) 124" page 2 -> 20 items, candidates so far: 1349
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "45 DLR (AD) 124" page 3 -> 20 items, candidates so far: 1364
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "45 DLR (AD) 124" page 4 -> 20 items, candidates so far: 1375
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "45 DLR (AD) 124" page 5 -> 20 items, candidates so far: 1390
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "45 DLR (AD) 124" page 6 -> 4 items, candidates so far: 1392
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "Nuruddin Ahmed Md Jaman" page 1 -> 20 items, candidates so far: 1407
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "27 BLD 544" page 1 -> 3 items, candidates so far: 1409
+  [!] error page 1 for "53 DLR 19": timeout
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 1 -> 20 items, candidates so far: 1409
+  [!] error page 2 for "53 DLR 19": timeout
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 2 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 3 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 4 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 5 -> 20 items, candidates so far: 1409
+  [!] error page 6 for "53 DLR 19": timeout
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 6 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 7 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 8 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 9 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 10 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 11 -> 20 items, candidates so far: 1409
+  [discover] L13_CITED_AUTHORITIES_VERIFY :: "53 DLR 19" page 12 -> 20 items, candidates so far: 1409

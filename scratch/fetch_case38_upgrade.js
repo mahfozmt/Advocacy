@@ -238,24 +238,42 @@ function compactLooseFilesIntoBatches(state) {
 
 function gitCheckpoint(label) {
     if (!AUTO_GIT_PUSH) return;
+    const repoRoot = path.join(__dirname, '..');
     try {
-        execSync('git add Resource/Judgements_Appeal38_2026 scratch/fetch_case38_state.json scratch/fetch_case38_upgrade.log', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
-        const hasChanges = execSync('git status --porcelain -- Resource/Judgements_Appeal38_2026 scratch/fetch_case38_state.json scratch/fetch_case38_upgrade.log', { cwd: path.join(__dirname, '..') }).toString().trim();
+        execSync('git add Resource/Judgements_Appeal38_2026 scratch/fetch_case38_state.json scratch/fetch_case38_upgrade.log', { cwd: repoRoot, stdio: 'pipe' });
+        const hasChanges = execSync('git status --porcelain -- Resource/Judgements_Appeal38_2026 scratch/fetch_case38_state.json scratch/fetch_case38_upgrade.log', { cwd: repoRoot }).toString().trim();
         if (!hasChanges) { console.log(`  [git] no changes to checkpoint (${label})`); return; }
-        execSync(`git commit -m "checkpoint: ${label}"`, { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
-        execSync('git push', { cwd: path.join(__dirname, '..'), stdio: 'pipe' });
-        console.log(`  [git] checkpoint committed and pushed: ${label}`);
+        execSync(`git commit -m "checkpoint: ${label}"`, { cwd: repoRoot, stdio: 'pipe' });
+        // -u sets/keeps upstream tracking regardless of whether this branch was pushed before,
+        // so the checkpoint doesn't depend on the branch already tracking origin.
+        const branch = execSync('git rev-parse --abbrev-ref HEAD', { cwd: repoRoot }).toString().trim();
+        execSync(`git push -u origin ${branch}`, { cwd: repoRoot, stdio: 'pipe' });
+        console.log(`  [git] checkpoint committed and pushed to origin/${branch}: ${label}`);
     } catch (e) {
         console.log(`  [!] git checkpoint failed (${label}): ${e.message} - continuing harvest, will retry at next checkpoint.`);
     }
 }
 
+// Highest-value, previously-untouched theories first (L13 citation verification, L8 jurisdiction
+// bar, L9-L12 new arguments from the v94 gap analysis), then the rest. L1/L2 are already fully
+// discovered and L3 mostly so - keeping them in the list is harmless since discoverKeyword() skips
+// any already-completed keyword instantly, but they no longer need to block the new content.
+const RUN_ORDER = [
+    'L13_CITED_AUTHORITIES_VERIFY', 'L8_LST_JURISDICTION_BAR', 'L9_COMPROMISE_CODEFENDANT_EFFECT',
+    'L10_APPROBATE_REPROBATE_ESTOPPEL', 'L11_SUBSEQUENT_DEED_CORROBORATION', 'L12_GENEALOGY_NOT_HOLDING_IDENTIFICATION',
+    'L3_MISC_CASE_NO_TITLE_ADJUDICATION', 'L4_ADVERSE_INFERENCE_BEST_EVIDENCE', 'L5_HOTCHPOT_NONJOINDER_PARTITION',
+    'L6_COURT_OF_WARDS_ESTATE', 'L7_NOTICE_MANDATORY_CORRECTION', 'L1_SA_KHATIAN_PRESUMPTION', 'L2_MUTATION_NO_TITLE'
+];
+const ORDERED_GROUPS = RUN_ORDER.map(t => KEYWORD_GROUPS.find(g => g.theory === t)).filter(Boolean);
+const CHECKPOINT_EVERY = 100; // commit+push a checkpoint every N newly-fetched cases, not just at group boundaries
+
 async function run() {
     if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
     const state = loadState();
+    let lastCheckpointCount = Object.keys(state.fetched).length;
 
     console.log('=== interleaved: discover each theory group, then fetch its full text right away ===');
-    for (const group of KEYWORD_GROUPS) {
+    for (const group of ORDERED_GROUPS) {
         console.log(`\n--- Theory: ${group.theory} ---`);
         for (const anykey of group.anykeys) {
             await discoverKeyword(group.theory, anykey, state);
@@ -268,10 +286,18 @@ async function run() {
             await fetchFullJudgment(id, state);
             done++;
             if (done % 25 === 0) console.log(`  progress: ${done}/${pending.length} for this group`);
+
+            const currentCount = Object.keys(state.fetched).length;
+            if (currentCount - lastCheckpointCount >= CHECKPOINT_EVERY) {
+                compactLooseFilesIntoBatches(state);
+                gitCheckpoint(`${currentCount} total cases fetched (mid-group: ${group.theory})`);
+                lastCheckpointCount = currentCount;
+            }
         }
 
         compactLooseFilesIntoBatches(state);
         gitCheckpoint(`after theory group ${group.theory}, ${Object.keys(state.fetched).length} total cases fetched`);
+        lastCheckpointCount = Object.keys(state.fetched).length;
     }
 
     compactLooseFilesIntoBatches(state);
