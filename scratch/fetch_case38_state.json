@@ -13709,5 +13709,245 @@
     "16592": true,
     "16598": true,
     "16603": true
+  },
+  "excludedCriminal": {
+    "147": {
+      "caseno": "Criminal Appeal Nos. 4263, 2018, 1913, 2529 of 2007\r\nWith\r\nCriminal Appeal No. 2244 of 2011\r\nWith\r\nJail Appeal Nos. 273, 274, 275 of 2007 and\r\nDeath Reference No. 25 of 2007",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "196": {
+      "caseno": "Death Reference No. 15 of 2007\r\nwith\r\nCriminal Appeal No. 687 of 2007\r\nwith\r\nJail Appeal Nos. 141, 142, 143, 144, 145, 146, 147 and 148 of 2007",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "374": {
+      "caseno": "Death Reference No 3 of 1972.\r\nAnd Criminal Appeal No. 122 of 1972.",
+      "jurisdiction": "Criminal Appellate Jurisdiction"
+    },
+    "445": {
+      "caseno": "Criminal Appeal No. 16-18 of  2013 with Criminal Petition No. 18 of 2010",
+      "jurisdiction": "Criminal"
+    },
+    "462": {
+      "caseno": "Criminal Appeal No. 23 of 2011",
+      "jurisdiction": "Criminal"
+    },
+    "774": {
+      "caseno": "Criminal Appeal No. 1812 of 2010",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "895": {
+      "caseno": "Death Reference No. 97 of 2007 \r\nwith\r\nCriminal Appeal Nos. 6222, 6296, 6323 of 2007 and Jail Appeal Nos. 1244, 1245 of 2007.",
+      "jurisdiction": "Criminal Appellate Jurisdiction"
+    },
+    "1173": {
+      "caseno": "Civil Appeal No. 122 of 2006.",
+      "jurisdiction": "(Criminal)"
+    },
+    "1286": {
+      "caseno": "Criminal Appeal No. 55 of 2007\r\nCriminal Miscellaneous Petition 8 of 2001 and Crl. Review Petition No. 3 of 2000.\r\nIn Criminal Appeal No. 56 of 2007.\r\nIn Criminal Appeal No. 57 of 2007\r\nIn Criminal Appeal No. 58 2007.\r\nIn Criminal Appeal No. 59 of 2007 & Jail Appeal No. 2 of 2007.",
+      "jurisdiction": "(Criminal)"
+    },
+    "1294": {
+      "caseno": "Death Reference No. 150 of 2004 with Criminal Appeal No. 4739 of 2004 and\r\nCriminal Appeal No. 4740 of 2004 Jail Appeal No. 118 of 2006, Jail Appeal No. 597 of 2007.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "1353": {
+      "caseno": "Criminal Appeal No. 35 of 2010\r\nWith\r\nCriminal Petition for Leave to Appeal No. 304 of 2007",
+      "jurisdiction": "(Criminal)"
+    },
+    "1399": {
+      "caseno": "Civil Revision No. 3218 of 2007.",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
+    },
+    "1536": {
+      "caseno": "Criminal Appeal No. 3305 of 2002.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "1957": {
+      "caseno": "Death Reference No. 40 of 2004 \r\nwith \r\nCriminal Appeal Nos. 902 and 903 of 2004 \r\nwith \r\nJail Appeal No. 372 of 2004.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "2007": {
+      "caseno": "Death Reference No. 9 of 2004 with Criminal Appeal Nos 154, 163 of 2004 and Jail Appeal No. 145 of 2004.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "2738": {
+      "caseno": "Civil Appeal No. 24 of 1995.",
+      "jurisdiction": "(Criminal)"
+    },
+    "2792": {
+      "caseno": "Civil Revision No. 1546 of 1999",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
+    "2981": {
+      "caseno": "Criminal Appeal No. 23 of 1999",
+      "jurisdiction": "(Criminal)"
+    },
+    "3081": {
+      "caseno": "Criminal Miscellaneous Case No. 3493 of 1995.",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
+    "3144": {
+      "caseno": "Criminal Miscellaneous (Contempt) Case Nos. 6506 of 2000 with 6722 of 2000",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
+    "3638": {
+      "caseno": "Death Reference No. 38 of 1991 with Jail Appeal No. 2197 0f 1991",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
+    },
+    "3943": {
+      "caseno": "Criminal Appeal No. 572 of 1995.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "4121": {
+      "caseno": "Criminal Appeal No. 8 of 1991 with Jail Petition No. 1 of 1991.",
+      "jurisdiction": "(Criminal)"
+    },
+    "4256": {
+      "caseno": "Criminal Appeal No. 2247 of 1994.",
+      "jurisdiction": "(Special Original Jurisdiction)",
+      "note": "caseno says Criminal despite jurisdiction field"
+    },
+    "4903": {
+      "caseno": "Criminal Appeal No.4 of 1987.",
+      "jurisdiction": "(Criminal)"
+    },
+    "5287": {
+      "caseno": "Criminal Revision Case No. 38 of 1985.",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
+    },
+    "6461": {
+      "caseno": "Criminal Appeal Nos. 192, 193 of 1994 and Government Appeal No. 25 of 1995.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "6652": {
+      "caseno": "Criminal Appeal No.530 of 1990",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "6948": {
+      "caseno": "Criminal Appeal No. 3653 of 2004.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "7299": {
+      "caseno": "Criminal Appeal No. 1229 of 1995",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "7804": {
+      "caseno": "Civil Appeal Nos. 201 of 2001",
+      "jurisdiction": "(Criminal)"
+    },
+    "7818": {
+      "caseno": "Criminal Appeal No. 2236 of 1993 with Criminal Appeal No. 2289 of 1993.",
+      "jurisdiction": "(Criminal Appellate Division)"
+    },
+    "8099": {
+      "caseno": "Death Reference No. 18 of 2006 \r\nWith Criminal Appeal No. 2124 of 2006 With Criminal Appeal No.1839 of 2006 With Criminal Appeal No. 1604 of 2006 With Criminal Appeal No. 1606 of 2006 and Jail Appeal No. 198 of 2006.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "8389": {
+      "caseno": "Criminal Appeal Nos. 2787, 3417, 3457 of 2004.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "8706": {
+      "caseno": "Death Reference No. 135 of 2008 with Criminal Appeal Nos. 03 & 468 of 2009 with Criminal Appeal No. 9345 of 2015 with Jail Appeal Nos. 71-73 & 92(A) of 2009.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "8742": {
+      "caseno": "Criminal Appeal No. 103 of 2013.",
+      "jurisdiction": "(Criminal)"
+    },
+    "8921": {
+      "caseno": "Criminal Appeal No. 6469 of 2008",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "9009": {
+      "caseno": "Criminal Appeal No. 7 of 1992.",
+      "jurisdiction": "(Criminal)"
+    },
+    "9574": {
+      "caseno": "Death Reference No. 5 of 1991\r\nwith\r\nCriminal Appeal No. 826 of 1991\r\nwith\r\nCriminal Appeal No. 413 of 1991\r\nwith\r\nJail Appeal No. 1407 of 1991",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "10288": {
+      "caseno": "Death Reference No. 86 of 2007",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "12071": {
+      "caseno": "Criminal Appeal Nos. 24-25 of 2013",
+      "jurisdiction": "[Criminal]"
+    },
+    "13663": {
+      "caseno": "Criminal Appeals No.3023 of 2002, 2971 of 2002, 2981 of 2002 and Government Appeals No.28 of 2002 and 34 of 2002",
+      "jurisdiction": "[Criminal]"
+    },
+    "15181": {
+      "caseno": "Criminal Appeal Nos.39-40 of 2013",
+      "jurisdiction": "[Criminal]"
+    },
+    "15250": {
+      "caseno": "CRIMINAL APPEAL NO. 144 OF 2014.",
+      "jurisdiction": "(CRIMINAL)"
+    },
+    "15375": {
+      "caseno": "Criminal Revision (Suo Motu) No. 246 of 2018",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
+    },
+    "15987": {
+      "caseno": "First Appeal No. 449 of 2012.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "15990": {
+      "caseno": "Criminal Appeal Nos. 3742 and 3743 of 2007.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "16159": {
+      "caseno": "ফৌজদারী বিবিধ মামলা নং- ৪৭২৫৩/২০১৯",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
+    "16182": {
+      "caseno": "CRIMINAL APPEAL NO.12 of 2015",
+      "jurisdiction": "(Civil Appellate Jurisdiction)",
+      "note": "caseno says Criminal despite jurisdiction field"
+    },
+    "16252": {
+      "caseno": "Criminal Appeal No. 04 of 2015\r\n",
+      "jurisdiction": "(Criminal)"
+    },
+    "16255": {
+      "caseno": "Criminal Appeal No. 04 of 2015\r\n",
+      "jurisdiction": "(Criminal)"
+    },
+    "16266": {
+      "caseno": "Criminal Appeal No.62 of 2013\r\n",
+      "jurisdiction": "(Criminal)"
+    },
+    "16315": {
+      "caseno": "ক্রিমিনাল পিটিশন ফর লীভ টু আপীল নং-১২৭১/২০১৭",
+      "jurisdiction": "(Criminal)"
+    },
+    "16405": {
+      "caseno": "ফৌজদারী রিভিশন মামলা নং- ১৫৭২/২০১৯ সঙ্গে \r\nফৌজদারী রিভিশন মামলা নং-১৮৯৮ (স্যুয়-মটো)/২০১৯।",
+      "jurisdiction": "(Criminal Revisional Jurisdiction)"
+    },
+    "16410": {
+      "caseno": "ফৌজদারী আপিল নং- ৪৬৮৮/২০১১.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "16479": {
+      "caseno": "ফৌজদারী আপীল নং ৩৪৫৯/২০১৯.",
+      "jurisdiction": "(Criminal Appellate Jurisdiction)"
+    },
+    "16516": {
+      "caseno": "ফৌজদারী বিবিধ মোকদ্দমা নং- ৭০৭৫/২০২১",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    },
+    "16552": {
+      "caseno": "Death Reference No.78 of 2014 with Criminal Appeal No.3378 of 2015",
+      "jurisdiction": "Criminal Appellate Jurisdiction"
+    },
+    "16572": {
+      "caseno": "Crimial Miscellaneous Case No. 39060 OF 2018",
+      "jurisdiction": "(Criminal Miscellaneous Jurisdiction)"
+    }
   }
 }

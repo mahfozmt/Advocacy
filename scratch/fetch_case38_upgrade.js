@@ -200,6 +200,21 @@ async function fetchFullJudgment(id, state) {
         return;
     }
 
+    // This is a civil title/partition appeal - criminal-jurisdiction judgments are noise, not
+    // useful precedent, so don't save them at all. Check both fields: `jurisdiction` is the
+    // authoritative court label, but it's sometimes inconsistent with `caseno` in the source data
+    // (e.g. a case_no literally saying "Criminal Appeal..." while jurisdiction says "(Civil...)"),
+    // so either one flagging criminal is enough to exclude.
+    if (/criminal/i.test(item.jurisdiction || '') || /criminal/i.test(item.caseno || '')) {
+        if (!state.excludedCriminal) state.excludedCriminal = {};
+        state.excludedCriminal[id] = { caseno: item.caseno, jurisdiction: item.jurisdiction };
+        state.fetched[id] = true;
+        saveState(state);
+        console.log(`  [skip] Id ${id} is criminal jurisdiction (${item.jurisdiction || item.caseno}), not saved.`);
+        await delay(REQUEST_DELAY_MS);
+        return;
+    }
+
     item._theories = state.candidates[id]?.theories || [];
     fs.writeFileSync(outFile, JSON.stringify(item, null, 2), 'utf8');
     state.fetched[id] = true;
